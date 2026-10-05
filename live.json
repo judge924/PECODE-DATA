@@ -3,54 +3,61 @@
     {
       "channelName": "이동형TV",
       "title": "[청정구역] 10/05 생방송",
-      "viewers": 11319,
+      "viewers": 10803,
       "thumbnail": "https://i.ytimg.com/vi/Nc0aDdNfQjg/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=Nc0aDdNfQjg"
     },
     {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
       "title": "주기자라이브 l 2026년 10월 5일 (월) l 오세후니가! 또 울었어~~!!! (김예니 / 박지원)",
-      "viewers": 6181,
+      "viewers": 5918,
       "thumbnail": "https://i.ytimg.com/vi/psjpHOJLIl8/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=psjpHOJLIl8"
     },
     {
       "channelName": "신인규 박영식의 시방쇼",
       "title": "\"검찰 개혁 시간 안 끌어·인사 좌지우지 안 돼\".. 이재명 대통령 강경파 정조준?!",
-      "viewers": 329,
+      "viewers": 864,
       "thumbnail": "https://i.ytimg.com/vi/XSvRAgxmRe4/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=XSvRAgxmRe4"
+    },
+    {
+      "channelName": "뉴스한땀",
+      "title": "[특별편성] 신영복 '마지막 수업(06.06.07)'... \"석과불식 - 뿌리를 알고 희망을 찾이야\" #뉴스한땀",
+      "viewers": 6,
+      "thumbnail": "https://i.ytimg.com/vi/4mSNOMwa7p8/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=4mSNOMwa7p8"
     }
   ],
   "right": [
     {
       "channelName": "BJ톨",
       "title": "장동혁 와 솔직히 이건 나도 놀랐다! 사회 곳곳 공산 카르텔 진지 도장깨기.(261005)",
-      "viewers": 2562,
+      "viewers": 2392,
       "thumbnail": "https://i.ytimg.com/vi/ZDGCYHyln1s/sddefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=ZDGCYHyln1s"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "[육영수 여사 생가] 장동혁 당대표 육영수 여사 생가 방문",
-      "viewers": 819,
+      "viewers": 987,
       "thumbnail": "https://i.ytimg.com/vi/lVdp8p_FJxE/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=lVdp8p_FJxE"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 저녁 예배 (하나님의 부르심) - 전광훈 목사 2026.10.05.",
-      "viewers": 431,
+      "viewers": 495,
       "thumbnail": "https://i.ytimg.com/vi/kq3EEvMrENg/sddefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=kq3EEvMrENg"
     },
     {
       "channelName": "운정참존교회",
       "title": "[올공LIVE] 10.5. 휴일에도 올공에 모인 애국시민들",
-      "viewers": 101,
+      "viewers": 99,
       "thumbnail": "https://i.ytimg.com/vi/-66kCgCmuDY/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=-66kCgCmuDY"
     }
   ],
-  "updatedAt": "2026-10-05T10:55:42.224Z"
+  "updatedAt": "2026-10-05T11:01:02.523Z"
 }
