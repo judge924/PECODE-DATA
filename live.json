@@ -2,55 +2,104 @@
   "left": [
     {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
-      "title": "김어준의 겸손은힘들다 뉴스공장 2026년 10월 5일 월요일 [여론조사, 겸손NSC, 홍사훈X봉지욱X박성준X윤건영, 이선민X정재훈X최명기X강지연, 황희두X박대희]",
-      "viewers": 104876,
-      "thumbnail": "https://i.ytimg.com/vi/6zmDHYa2M9o/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=6zmDHYa2M9o"
+      "title": "[12시에 만나요] 900선 탈환 성공한 코스닥! 활기 되찾은 코스닥, 그 이유는?ㅣ2026년 10월 6일 화요일",
+      "viewers": 34050,
+      "thumbnail": "https://i.ytimg.com/vi/MZW5KrJDJec/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=MZW5KrJDJec"
+    },
+    {
+      "channelName": "장르만 여의도",
+      "title": "조희대 국감 출석! \"재제청 요구 헌법적 근거 없어…절차진행 어렵다 판단\"｜2026.10.06 Ep.750 LIVE🔴",
+      "viewers": 20543,
+      "thumbnail": "https://i.ytimg.com/vi/_261hdcTJPs/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=_261hdcTJPs"
+    },
+    {
+      "channelName": "뉴스토마토",
+      "title": "🔴LIVE :: 국회 법사위 국정감사 :: 이 시각 국회 법제사법위원회 #국감 #법사위 #조희대 #뉴스 #속보 #live (1006_화)",
+      "viewers": 5649,
+      "thumbnail": "https://i.ytimg.com/vi/PIfSLLjpjnw/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=PIfSLLjpjnw"
+    },
+    {
+      "channelName": "뉴스한땀",
+      "title": "[생방송 #투목쇼] 조희대 '괴설' 전격 분석! 업무추진비 형사고발을 받아라! #최진봉 #김용민 #국대토크 (26. 10. 6, 12:00~)",
+      "viewers": 2802,
+      "thumbnail": "https://i.ytimg.com/vi/_Ti00a_EKoA/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=_Ti00a_EKoA"
+    },
+    {
+      "channelName": "대안뉴스",
+      "title": "[대안뉴스] 검찰개혁 논란에 작심경고한 이재명 대통령, SNS로 이렇게까지 말해도 괜찮을까?",
+      "viewers": 1618,
+      "thumbnail": "https://i.ytimg.com/vi/CKkI2OFl0oA/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=CKkI2OFl0oA"
+    },
+    {
+      "channelName": "김두일tv",
+      "title": "정규방송 428회: 민티, 아쉬운 점 비판 & 김용민의 내부총질과 조국(혁신당)의 외부총질은 대통령이 아니라 당에서 대응해야 한다",
+      "viewers": 1577,
+      "thumbnail": "https://i.ytimg.com/vi/RBo7GQE23cw/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=RBo7GQE23cw"
+    },
+    {
+      "channelName": "시사타파TV",
+      "title": "[국감 LIVE] 법제사법위원회 - 국감 선서 거부 조희대, 국회 질의 응할 수 없어!",
+      "viewers": 527,
+      "thumbnail": "https://i.ytimg.com/vi/RIniyj1Vsys/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=RIniyj1Vsys"
     }
   ],
   "right": [
     {
-      "channelName": "손상대TV2",
-      "title": "'李 재판 재개' 역대급 인파, 100만명 넘어ㅣ2030 분노 폭발ㅣ개천절 연휴 난리난 개딸들 \"개자식들\" 욕설ㅣ트럼프, 李압박 \"합의 안하면 2배로\"ㅣ동네북 李 [오전LIVE]",
-      "viewers": 17926,
-      "thumbnail": "https://i.ytimg.com/vi/gmvh3NGQsUU/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=gmvh3NGQsUU"
+      "channelName": "펜앤마이크TV",
+      "title": "[현장 생중계] 대법원 국정감사 1일차 전쟁이 시작된다",
+      "viewers": 6503,
+      "thumbnail": "https://i.ytimg.com/vi/-uyH6faJsjQ/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=-uyH6faJsjQ"
     },
     {
-      "channelName": "정완진TV",
-      "title": "[세바뉴]한국 은행 초토화? \"비밀번호 바꾸세요\"..간첩들 우글우글 \"국가 기술도 훔쳤다\"..달러예금 역대최대 \"달러 쌀 때 쟁인다\"..양복세탁 1만2000원 \"서비스물가도 폭탄\"",
-      "viewers": 1905,
-      "thumbnail": "https://i.ytimg.com/vi/mhWM-oqp7DQ/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=mhWM-oqp7DQ"
+      "channelName": "멸콩TV",
+      "title": "[여의도 검문소] 장예찬&고성국&조원진",
+      "viewers": 4414,
+      "thumbnail": "https://i.ytimg.com/vi/adrcA26KkP4/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=adrcA26KkP4"
     },
     {
-      "channelName": "고성국TV",
-      "title": "[고성국TV 생방송 26년 10월 5일 (월) 생방송] “내 집 지키기 위해서라도 이재명 빨리 끌어내려야”",
-      "viewers": 1460,
-      "thumbnail": "https://i.ytimg.com/vi/G_4sDv9YkZw/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=G_4sDv9YkZw"
+      "channelName": "KNL",
+      "title": "[LIVE] 국격을 너머 미국의 신뢰까지 파탄 난 이재명 | #강용석 #KNL #박민영 #이상규",
+      "viewers": 3432,
+      "thumbnail": "https://i.ytimg.com/vi/oU1J39MIHg0/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=oU1J39MIHg0"
     },
     {
-      "channelName": "홍철기TV",
-      "title": "이재명 야밤에 폭주! 재판재개-탄핵에 잠 못자나? 조희대 국감 출석 거부!",
-      "viewers": 941,
-      "thumbnail": "https://i.ytimg.com/vi/AvKNRvYOoRg/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=AvKNRvYOoRg"
+      "channelName": "이영풍TV",
+      "title": "● 이영풍TV (2026.10.06) - ‘암살자들’ 돈줄 행방 대충격",
+      "viewers": 1658,
+      "thumbnail": "https://i.ytimg.com/vi/Fmf_YbbQcOo/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=Fmf_YbbQcOo"
     },
     {
-      "channelName": "윤창중칼럼세상 TV",
-      "title": "이재명 알고 있나 \"호랑이는 죽어도 풀 뜯지 않는다!\"#국힘의 멸공장사#주책 떠는 추미애#한동훈 비겁한 유시민#암살자를 관람한 최승호 조국#오세훈 주진우 육영수#김문수 신당#김상욱",
-      "viewers": 186,
-      "thumbnail": "https://i.ytimg.com/vi/TWVP4ovgLSs/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=TWVP4ovgLSs"
+      "channelName": "반공사관학교",
+      "title": "속보)) 버거킹 광고모델을 변경해라!! |찰리안 감독 현장 출동!!!",
+      "viewers": 997,
+      "thumbnail": "https://i.ytimg.com/vi/pfH8C_B7-bU/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=pfH8C_B7-bU"
     },
     {
-      "channelName": "전광훈TV02",
-      "title": "천만광화문 국민대회를 위한 오전 생방송!! / 광화문 뒤 덮은 위대한 함성 /보수 패배의 원인, 엉터리 중도주의자들 _  26.10.05",
-      "viewers": 81,
-      "thumbnail": "https://i.ytimg.com/vi/fDzbCHITgAM/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=fDzbCHITgAM"
+      "channelName": "이영돈TV",
+      "title": "🔴중국 쓰레기 음식.. 이걸 어떻게 먹으라는 거야? ㅠㅠ",
+      "viewers": 519,
+      "thumbnail": "https://i.ytimg.com/vi/g13ml7q6eNc/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=g13ml7q6eNc"
+    },
+    {
+      "channelName": "위풍당당이진숙",
+      "title": "[🔴LIVE] 이진숙, 국민 대신 묻는다 ㅣ 2026 국정감사 과방위 - 과학기술정보통신부 ㅣ2026. 10. 6.(화)10:00 #이진숙 #국민의힘 #과방위 #국정감사 #과기부",
+      "viewers": 47,
+      "thumbnail": "https://i.ytimg.com/vi/eeyRlIrbA2M/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=eeyRlIrbA2M"
     }
   ],
-  "updatedAt": "2026-10-04T23:00:55.571Z"
+  "updatedAt": "2026-10-06T03:25:38.849Z"
 }
