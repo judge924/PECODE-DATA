@@ -1,98 +1,56 @@
 {
   "left": [
     {
-      "channelName": "박시영TV",
-      "title": "[LIVE] 대통령이 말한 '무극파' 누구인가? / '한동훈 망동' 어떻게 제압할까 (ft.최강욱, 이지은, 이혜연)",
-      "viewers": 12926,
-      "thumbnail": "https://i.ytimg.com/vi/-D8FkeTXuwU/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=-D8FkeTXuwU"
-    },
-    {
-      "channelName": "이동형TV",
-      "title": "[시사뚝배기] 10/06 생방송",
-      "viewers": 10882,
-      "thumbnail": "https://i.ytimg.com/vi/Dr0G-KfqtVw/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=Dr0G-KfqtVw"
-    },
-    {
-      "channelName": "신인규 박영식의 시방쇼",
-      "title": "조희대, 국감장서 \"대통령, 대법관 제청에 관여 못해\" 발언..?!",
-      "viewers": 1175,
-      "thumbnail": "https://i.ytimg.com/vi/52hJ3t99IkY/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=52hJ3t99IkY"
-    },
-    {
-      "channelName": "뉴스토마토",
-      "title": "🔴LIVE :: 국회 법사위 국정감사 :: 이 시각 국회 법제사법위원회 #국감 #법사위 #조희대 #뉴스 #속보 #live (1006_화)",
-      "viewers": 149,
-      "thumbnail": "https://i.ytimg.com/vi/PIfSLLjpjnw/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=PIfSLLjpjnw"
-    },
-    {
-      "channelName": "시사타파TV",
-      "title": "[국감 LIVE] 법제사법위원회 - 국감 선서 거부 조희대, 국회 질의 응할 수 없어!",
-      "viewers": 80,
-      "thumbnail": "https://i.ytimg.com/vi/RIniyj1Vsys/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=RIniyj1Vsys"
+      "channelName": "김어준의 겸손은힘들다 뉴스공장",
+      "title": "김어준의 겸손은힘들다 뉴스공장 2026년 10월 5일 월요일 [여론조사, 겸손NSC, 홍사훈X봉지욱X박성준X윤건영, 이선민X정재훈X최명기X강지연, 황희두X박대희]",
+      "viewers": 104876,
+      "thumbnail": "https://i.ytimg.com/vi/6zmDHYa2M9o/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=6zmDHYa2M9o"
     }
   ],
   "right": [
     {
-      "channelName": "주진우의 이슈해설",
-      "title": "[주진우의 5후 LIVE] 중수청장 싸움으로 민주당 폭망!",
-      "viewers": 9177,
-      "thumbnail": "https://i.ytimg.com/vi/ymT65wNiqd8/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=ymT65wNiqd8"
-    },
-    {
-      "channelName": "송국건의 혼술",
-      "title": "★조희대 뜻밖의 도발! “위헌 정권” ★X 중독에 실핏줄 터진 이재명 ★“이재명 수사 우리가~” 경쟁 ★박지만→박근영도 나섰다!",
-      "viewers": 2206,
-      "thumbnail": "https://i.ytimg.com/vi/lc8ocMnzS9Y/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=lc8ocMnzS9Y"
-    },
-    {
       "channelName": "손상대TV2",
-      "title": "조희대 작심발언 “국회와 대통령, 대법관 제청 관여 못 해”ㅣ‘김현지 주례’ 섰던 성남 인사, 면접 꼴찌에도 공기업 사장ㅣ버거킹, 유해진 모델 계약 종료 발표 [오후LIVE]",
-      "viewers": 1704,
-      "thumbnail": "https://i.ytimg.com/vi/Fk4cvcpUrak/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=Fk4cvcpUrak"
+      "title": "'李 재판 재개' 역대급 인파, 100만명 넘어ㅣ2030 분노 폭발ㅣ개천절 연휴 난리난 개딸들 \"개자식들\" 욕설ㅣ트럼프, 李압박 \"합의 안하면 2배로\"ㅣ동네북 李 [오전LIVE]",
+      "viewers": 17926,
+      "thumbnail": "https://i.ytimg.com/vi/gmvh3NGQsUU/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=gmvh3NGQsUU"
     },
     {
-      "channelName": "가로세로연구소",
-      "title": "[충격단독] 김세의 왜 구속했냐",
-      "viewers": 1600,
-      "thumbnail": "https://i.ytimg.com/vi/cB2rK-fM6fY/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=cB2rK-fM6fY"
+      "channelName": "정완진TV",
+      "title": "[세바뉴]한국 은행 초토화? \"비밀번호 바꾸세요\"..간첩들 우글우글 \"국가 기술도 훔쳤다\"..달러예금 역대최대 \"달러 쌀 때 쟁인다\"..양복세탁 1만2000원 \"서비스물가도 폭탄\"",
+      "viewers": 1905,
+      "thumbnail": "https://i.ytimg.com/vi/mhWM-oqp7DQ/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=mhWM-oqp7DQ"
     },
     {
-      "channelName": "BJ톨",
-      "title": "박정희정부 거대한 혁명 또 있었다! 장동혁, 개혁 총선 대선 성공 하려면. 이재명 고립 와르르.(261006)",
-      "viewers": 1397,
-      "thumbnail": "https://i.ytimg.com/vi/TyqpSLElS6Q/sddefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=TyqpSLElS6Q"
+      "channelName": "고성국TV",
+      "title": "[고성국TV 생방송 26년 10월 5일 (월) 생방송] “내 집 지키기 위해서라도 이재명 빨리 끌어내려야”",
+      "viewers": 1460,
+      "thumbnail": "https://i.ytimg.com/vi/G_4sDv9YkZw/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=G_4sDv9YkZw"
     },
     {
-      "channelName": "최국튜브",
-      "title": "[라이브] 드디어...이성을 잃었다...",
-      "viewers": 872,
-      "thumbnail": "https://i.ytimg.com/vi/gmbULgcOO2o/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=gmbULgcOO2o"
+      "channelName": "홍철기TV",
+      "title": "이재명 야밤에 폭주! 재판재개-탄핵에 잠 못자나? 조희대 국감 출석 거부!",
+      "viewers": 941,
+      "thumbnail": "https://i.ytimg.com/vi/AvKNRvYOoRg/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=AvKNRvYOoRg"
+    },
+    {
+      "channelName": "윤창중칼럼세상 TV",
+      "title": "이재명 알고 있나 \"호랑이는 죽어도 풀 뜯지 않는다!\"#국힘의 멸공장사#주책 떠는 추미애#한동훈 비겁한 유시민#암살자를 관람한 최승호 조국#오세훈 주진우 육영수#김문수 신당#김상욱",
+      "viewers": 186,
+      "thumbnail": "https://i.ytimg.com/vi/TWVP4ovgLSs/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=TWVP4ovgLSs"
     },
     {
       "channelName": "전광훈TV02",
-      "title": "[LIVE] 나라사랑 저녁 예배 (매인 나귀가 되자) - 류중환 목사 2026.10.06.",
-      "viewers": 523,
-      "thumbnail": "https://i.ytimg.com/vi/4YJkja1lrNE/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=4YJkja1lrNE"
-    },
-    {
-      "channelName": "운정참존교회",
-      "title": "[올공LIVE] 10월 6일 올공 라이브",
-      "viewers": 124,
-      "thumbnail": "https://i.ytimg.com/vi/VGxJ2F1RiIA/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=VGxJ2F1RiIA"
+      "title": "천만광화문 국민대회를 위한 오전 생방송!! / 광화문 뒤 덮은 위대한 함성 /보수 패배의 원인, 엉터리 중도주의자들 _  26.10.05",
+      "viewers": 81,
+      "thumbnail": "https://i.ytimg.com/vi/fDzbCHITgAM/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=fDzbCHITgAM"
     }
   ],
-  "updatedAt": "2026-10-06T11:05:38.490Z"
+  "updatedAt": "2026-10-04T23:00:55.571Z"
 }
