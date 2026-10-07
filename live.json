@@ -1,37 +1,44 @@
 {
   "left": [
     {
-      "channelName": "아고라",
-      "title": "🔴LIVEㅣ“이재명 대통령이 사심을 채운다고?” 밖에서는 한동훈, 안에서는 최강욱...대체 어디서부터 잘못됐나?ㅣ신인규·하헌기",
-      "viewers": 1993,
-      "thumbnail": "https://i.ytimg.com/vi/Zok3DEccpXs/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=Zok3DEccpXs"
+      "channelName": "이동형TV",
+      "title": "[이동형의 촉] 10/07 생방송",
+      "viewers": 2644,
+      "thumbnail": "https://i.ytimg.com/vi/KpvSI3f8nBA/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=KpvSI3f8nBA"
     },
     {
       "channelName": "박시영TV",
       "title": "[LIVE] 수사기관장 국무회의 참석, 문제인가? / 미디어 비평, 겸공기자와 청와대 공방 (ft. 민동기, 장인수, 이혜연)",
-      "viewers": 550,
+      "viewers": 2620,
       "thumbnail": "https://i.ytimg.com/vi/Wr5qP8LRLVY/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=Wr5qP8LRLVY"
     },
     {
+      "channelName": "아고라",
+      "title": "🔴LIVEㅣ“이재명 대통령이 사심을 채운다고?” 밖에서는 한동훈, 안에서는 최강욱...대체 어디서부터 잘못됐나?ㅣ신인규·하헌기",
+      "viewers": 1809,
+      "thumbnail": "https://i.ytimg.com/vi/Zok3DEccpXs/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=Zok3DEccpXs"
+    },
+    {
+      "channelName": "김어준의 겸손은힘들다 뉴스공장",
+      "title": "주기자라이브 l 2026년 10월 7일 (수) l 윤석열이 왜 무죄? 명태균과 함께 23일 오세훈 2심 예측해보기 (노지민 / 명태균 / 김예니,정철운)",
+      "viewers": 1772,
+      "thumbnail": "https://i.ytimg.com/vi/d9iV53zi-fM/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=d9iV53zi-fM"
+    },
+    {
       "channelName": "뉴탐사 NewTamsa",
       "title": "【261007】[국정감사] 문체부 국감의 쟁점은... 박진영(JYP) 출석, '암살자(들)', 병역 혜택",
-      "viewers": 121,
+      "viewers": 65,
       "thumbnail": "https://i.ytimg.com/vi/rUbNW_Ls6c4/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=rUbNW_Ls6c4"
     },
     {
-      "channelName": "시사타파TV",
-      "title": "[국감 LIVE] 문화체육관광위원회 - 박진영 국감 출석! 국힘 암살자(들) 억지 주장도 계속하나?",
-      "viewers": 84,
-      "thumbnail": "https://i.ytimg.com/vi/gthJJDdC5z0/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=gthJJDdC5z0"
-    },
-    {
       "channelName": "뉴스토마토",
       "title": "🔴LIVE :: 국회 국방위 국정감사 :: 이 시각 국회 국방위원회 #국감 #국방위 #DMZ #대북 #강신철 #뉴스 #속보 #live (1007_수)",
-      "viewers": 34,
+      "viewers": 37,
       "thumbnail": "https://i.ytimg.com/vi/fxhBFvZb_8A/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=fxhBFvZb_8A"
     }
@@ -40,38 +47,38 @@
     {
       "channelName": "펜앤마이크TV",
       "title": "조희대 효과?...윤석열 대통령 항소심 무죄 | 성난 이화영, \"이재명은 나를 석방하라. 안하면...| \"靑, 김어준 뉴공 기자에 징계 및 사과요구...왜? [이것이 뉴스다]",
-      "viewers": 6705,
+      "viewers": 6538,
       "thumbnail": "https://i.ytimg.com/vi/3k-SLa50w4w/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=3k-SLa50w4w"
     },
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.10.7",
-      "viewers": 4184,
+      "viewers": 4441,
       "thumbnail": "https://i.ytimg.com/vi/Rd1rDX1YVho/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=Rd1rDX1YVho"
     },
     {
-      "channelName": "홍철기TV",
-      "title": "속보) 윤석열 무죄! 정치 구도 바뀐다! 이화영, 이재명에게 화 많이 났다! 박상용 '이화영 가석방 안되면 진술 뒤집을 것'",
-      "viewers": 817,
-      "thumbnail": "https://i.ytimg.com/vi/9bCurC7R8Ig/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=9bCurC7R8Ig"
-    },
-    {
-      "channelName": "정의구현 박완석",
-      "title": "현장취재) 올림픽공원 실제 상황! 이화영, 이재명 협박 난리났다! 윤석열 대통령 무죄, 청와대 초비상!!",
-      "viewers": 760,
-      "thumbnail": "https://i.ytimg.com/vi/HxeGati_mOg/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=HxeGati_mOg"
+      "channelName": "가로세로연구소",
+      "title": "[충격분노] 악질 김소연",
+      "viewers": 178,
+      "thumbnail": "https://i.ytimg.com/vi/NN-UXy1rzjA/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=NN-UXy1rzjA"
     },
     {
       "channelName": "운정참존교회",
       "title": "[예배LIVE] 10월7일 모스탄선교사님과 함께 하는 올공수요예배 | 운정참존교회 예배 라이브",
-      "viewers": 33,
+      "viewers": 108,
       "thumbnail": "https://i.ytimg.com/vi/ht3uh_TzGmw/sddefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=ht3uh_TzGmw"
+    },
+    {
+      "channelName": "BJ톨",
+      "title": "국회 깡패(?) 난동 초유의 사태? 이재명 나라 완전 거덜? 오세훈 항복. 결국 장동혁 뿐.(261007)",
+      "viewers": 106,
+      "thumbnail": "https://i.ytimg.com/vi/W3NuAQdzgvU/sddefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=W3NuAQdzgvU"
     }
   ],
-  "updatedAt": "2026-10-07T09:55:44.595Z"
+  "updatedAt": "2026-10-07T10:01:06.097Z"
 }
