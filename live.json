@@ -1,56 +1,119 @@
 {
   "left": [
     {
+      "channelName": "이동형TV",
+      "title": "[이동형의 촉] 10/08 생방송",
+      "viewers": 9944,
+      "thumbnail": "https://i.ytimg.com/vi/JboengzO8tE/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=JboengzO8tE"
+    },
+    {
+      "channelName": "박시영TV",
+      "title": "[LIVE] '강신철 & 정동영' 대북 이슈 정면돌파 / 오세훈 재판부, 구회근은 누구인가? (ft. 이지은, 김승현, 김대호)",
+      "viewers": 8828,
+      "thumbnail": "https://i.ytimg.com/vi/gaqsX4Wk3Jw/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=gaqsX4Wk3Jw"
+    },
+    {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
-      "title": "김어준의 겸손은힘들다 뉴스공장 2026년 10월 5일 월요일 [여론조사, 겸손NSC, 홍사훈X봉지욱X박성준X윤건영, 이선민X정재훈X최명기X강지연, 황희두X박대희]",
-      "viewers": 104876,
-      "thumbnail": "https://i.ytimg.com/vi/6zmDHYa2M9o/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=6zmDHYa2M9o"
+      "title": "주기자라이브 l 2026년 10월 8일 (목) l 국힘은 누굴 위한 정당인가? (김완 / 김병주)",
+      "viewers": 5631,
+      "thumbnail": "https://i.ytimg.com/vi/fcbZnt15_LU/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=fcbZnt15_LU"
+    },
+    {
+      "channelName": "박순혁 우공이산TV",
+      "title": "[ 역사전쟁 - 암살자들 ] 10월 8일 우공이산 LIVE🔴",
+      "viewers": 1544,
+      "thumbnail": "https://i.ytimg.com/vi/EU_BJphuUpk/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=EU_BJphuUpk"
+    },
+    {
+      "channelName": "뉴스토마토",
+      "title": "🔴LIVE :: 국회 법사위, 법무부 국정감사 :: 이 시각 국회 #국감 #법사위 #법무부 #공수청 #뉴스 #속보 #live (1008_목)",
+      "viewers": 57,
+      "thumbnail": "https://i.ytimg.com/vi/Z-vR6S1GmBw/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=Z-vR6S1GmBw"
+    },
+    {
+      "channelName": "뉴탐사 NewTamsa",
+      "title": "【261008】[국회라이브] 2026 국회 국정감사ㅣ법제사법위원회 (법무부 등) 공소청 출범 법사위 정면 충돌",
+      "viewers": 47,
+      "thumbnail": "https://i.ytimg.com/vi/KqSg8XL6jD8/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=KqSg8XL6jD8"
     }
   ],
   "right": [
     {
-      "channelName": "손상대TV2",
-      "title": "'李 재판 재개' 역대급 인파, 100만명 넘어ㅣ2030 분노 폭발ㅣ개천절 연휴 난리난 개딸들 \"개자식들\" 욕설ㅣ트럼프, 李압박 \"합의 안하면 2배로\"ㅣ동네북 李 [오전LIVE]",
-      "viewers": 17926,
-      "thumbnail": "https://i.ytimg.com/vi/gmvh3NGQsUU/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=gmvh3NGQsUU"
+      "channelName": "주진우의 이슈해설",
+      "title": "[주진우의 5후 LIVE] 이화영 입 여나?? 이재명 덜덜",
+      "viewers": 7782,
+      "thumbnail": "https://i.ytimg.com/vi/zAh0NTNg8uo/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=zAh0NTNg8uo"
     },
     {
-      "channelName": "정완진TV",
-      "title": "[세바뉴]한국 은행 초토화? \"비밀번호 바꾸세요\"..간첩들 우글우글 \"국가 기술도 훔쳤다\"..달러예금 역대최대 \"달러 쌀 때 쟁인다\"..양복세탁 1만2000원 \"서비스물가도 폭탄\"",
-      "viewers": 1905,
-      "thumbnail": "https://i.ytimg.com/vi/mhWM-oqp7DQ/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=mhWM-oqp7DQ"
+      "channelName": "박민영TV",
+      "title": "[박민영의 뉴스브리핑] 2026.10.8",
+      "viewers": 4112,
+      "thumbnail": "https://i.ytimg.com/vi/8bAKt1XwMrs/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=8bAKt1XwMrs"
     },
     {
-      "channelName": "고성국TV",
-      "title": "[고성국TV 생방송 26년 10월 5일 (월) 생방송] “내 집 지키기 위해서라도 이재명 빨리 끌어내려야”",
-      "viewers": 1460,
-      "thumbnail": "https://i.ytimg.com/vi/G_4sDv9YkZw/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=G_4sDv9YkZw"
+      "channelName": "BJ톨",
+      "title": "이재명 법정최고형 딱 걸렸다? 이화영 변호인 돌연 출국? 오세훈 윤상현 이것들이 또 반역?(261008)",
+      "viewers": 1730,
+      "thumbnail": "https://i.ytimg.com/vi/c5WKJYTO9hA/sddefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=c5WKJYTO9hA"
+    },
+    {
+      "channelName": "가로세로연구소",
+      "title": "[충격분노] 6인분으로 돼?",
+      "viewers": 889,
+      "thumbnail": "https://i.ytimg.com/vi/CvB7DIKWTsg/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=CvB7DIKWTsg"
     },
     {
       "channelName": "홍철기TV",
-      "title": "이재명 야밤에 폭주! 재판재개-탄핵에 잠 못자나? 조희대 국감 출석 거부!",
-      "viewers": 941,
-      "thumbnail": "https://i.ytimg.com/vi/AvKNRvYOoRg/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=AvKNRvYOoRg"
+      "title": "(긴급) 이화영, 이재명에 오늘 옥중 편지! '내 희생을 헛되게 하지 말라' '나를 불쏘시개 삼아라' 변호사 김광민 망명? 해외로 출국! 이재명 난리났다!",
+      "viewers": 513,
+      "thumbnail": "https://i.ytimg.com/vi/y67Fpp_hfAU/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=y67Fpp_hfAU"
     },
     {
-      "channelName": "윤창중칼럼세상 TV",
-      "title": "이재명 알고 있나 \"호랑이는 죽어도 풀 뜯지 않는다!\"#국힘의 멸공장사#주책 떠는 추미애#한동훈 비겁한 유시민#암살자를 관람한 최승호 조국#오세훈 주진우 육영수#김문수 신당#김상욱",
-      "viewers": 186,
-      "thumbnail": "https://i.ytimg.com/vi/TWVP4ovgLSs/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=TWVP4ovgLSs"
+      "channelName": "망기토TV",
+      "title": "[중앙지법 LIVE] 윤석열 대통령 즉각 석방하라",
+      "viewers": 191,
+      "thumbnail": "https://i.ytimg.com/vi/TfgyXfTkxPw/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=TfgyXfTkxPw"
+    },
+    {
+      "channelName": "서울미디어",
+      "title": "[🔴김혜인 앵커의 시사 분석!] 북한 김여정, 의료장비 지원에 대해 \"개조불능한 바보들\" 메로나19 백신, 필수예방접종 된다고? 총정리!",
+      "viewers": 160,
+      "thumbnail": "https://i.ytimg.com/vi/sLETAzb4Vr8/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=sLETAzb4Vr8"
+    },
+    {
+      "channelName": "젊은시각",
+      "title": "[🔴LIVE] 10월8일 올림픽공원 저녁반 대구행님 ㅣ 당분간 저녁반으로..",
+      "viewers": 114,
+      "thumbnail": "https://i.ytimg.com/vi/Uurv7DPbarY/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=Uurv7DPbarY"
+    },
+    {
+      "channelName": "운정참존교회",
+      "title": "[올공LIVE] 10월8일 부정선거 재선거 당일투표 수개표| 올림픽공원 실시간 라이브",
+      "viewers": 103,
+      "thumbnail": "https://i.ytimg.com/vi/Co4UlagJMTY/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=Co4UlagJMTY"
     },
     {
       "channelName": "전광훈TV02",
-      "title": "천만광화문 국민대회를 위한 오전 생방송!! / 광화문 뒤 덮은 위대한 함성 /보수 패배의 원인, 엉터리 중도주의자들 _  26.10.05",
-      "viewers": 81,
-      "thumbnail": "https://i.ytimg.com/vi/fDzbCHITgAM/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=fDzbCHITgAM"
+      "title": "[LIVE] 나라사랑 특별 기도회 - 2026.10.08.",
+      "viewers": 101,
+      "thumbnail": "https://i.ytimg.com/vi/qhkPLAxqhNs/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=qhkPLAxqhNs"
     }
   ],
-  "updatedAt": "2026-10-04T23:00:55.571Z"
+  "updatedAt": "2026-10-08T10:25:34.433Z"
 }
