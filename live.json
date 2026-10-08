@@ -1,5 +1,13 @@
 {
   "left": [],
-  "right": [],
-  "updatedAt": "2026-10-08T19:25:36.399Z"
+  "right": [
+    {
+      "channelName": "정완진TV",
+      "title": "[새벽을 여는 부자들] 이 시각 뉴스속보? 이 시각 뉴욕증시 분석? 주간 한국증시 분석? 원달러 환율? 비트코인? 국제금값? 국제유가? 자영업자?",
+      "viewers": 248,
+      "thumbnail": "https://i.ytimg.com/vi/Y3r1dubYmyw/sddefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=Y3r1dubYmyw"
+    }
+  ],
+  "updatedAt": "2026-10-08T19:31:02.818Z"
 }
