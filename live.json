@@ -2,33 +2,33 @@
   "left": [],
   "right": [
     {
-      "channelName": "박민영TV",
-      "title": "[박민영의 뉴스브리핑] 2026.10.9",
-      "viewers": 1263,
-      "thumbnail": "https://i.ytimg.com/vi/YbmgU46HD9o/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=YbmgU46HD9o"
-    },
-    {
       "channelName": "정의구현 박완석",
       "title": "현장취재) 우와! 엄청난 인파, '한글날 연휴 첫날' 올림픽공원 실제상황! '이재명 당장 끌어내려' 성난 민심 부글부글!!",
-      "viewers": 807,
+      "viewers": 821,
       "thumbnail": "https://i.ytimg.com/vi/8vd-vxyCz38/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=8vd-vxyCz38"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[현장 LIVE] 예수한국, 복음통일을 위한 10•9 광화문 철야 기도회 - 2026.10.09.",
-      "viewers": 327,
+      "viewers": 464,
       "thumbnail": "https://i.ytimg.com/vi/_YaG2oTDEa4/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=_YaG2oTDEa4"
     },
     {
       "channelName": "젊은시각",
       "title": "[🔴LIVE] 10월9일 올림픽공원 저녁반 대구행님 ㅣ 당분간 저녁반 19시~23시로 변경!",
-      "viewers": 137,
+      "viewers": 150,
       "thumbnail": "https://i.ytimg.com/vi/07N7AkL4-JM/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=07N7AkL4-JM"
+    },
+    {
+      "channelName": "청년의소리TV",
+      "title": "[LIVE] 청명한 가을밤, 대구 동성로에서 무슨 일이..?!",
+      "viewers": 8,
+      "thumbnail": "https://i.ytimg.com/vi/y9cCvk9-wuo/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=y9cCvk9-wuo"
     }
   ],
-  "updatedAt": "2026-10-09T09:40:41.586Z"
+  "updatedAt": "2026-10-09T09:45:38.491Z"
 }
