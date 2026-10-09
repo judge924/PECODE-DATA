@@ -1,19 +1,27 @@
 {
-  "left": [],
-  "right": [
+  "left": [
     {
-      "channelName": "정의구현 박완석",
-      "title": "현장취재) 우와! 엄청난 인파, '한글날 연휴 첫날' 올림픽공원 실제상황! '이재명 당장 끌어내려' 성난 민심 부글부글!!",
-      "viewers": 810,
-      "thumbnail": "https://i.ytimg.com/vi/8vd-vxyCz38/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=8vd-vxyCz38"
-    },
+      "channelName": "김어준의 겸손은힘들다 뉴스공장",
+      "title": "주기자라이브 l 2026년 10월 9일 (금) l 당신이 그리워 다함께 목소리라도 들어봅니다.. (강원국, 신동호)",
+      "viewers": 1099,
+      "thumbnail": "https://i.ytimg.com/vi/g2xPVSPFP3E/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=g2xPVSPFP3E"
+    }
+  ],
+  "right": [
     {
       "channelName": "전광훈TV02",
       "title": "[현장 LIVE] 예수한국, 복음통일을 위한 10•9 광화문 철야 기도회 - 2026.10.09.",
-      "viewers": 770,
+      "viewers": 880,
       "thumbnail": "https://i.ytimg.com/vi/_YaG2oTDEa4/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=_YaG2oTDEa4"
+    },
+    {
+      "channelName": "정의구현 박완석",
+      "title": "현장취재) 우와! 엄청난 인파, '한글날 연휴 첫날' 올림픽공원 실제상황! '이재명 당장 끌어내려' 성난 민심 부글부글!!",
+      "viewers": 864,
+      "thumbnail": "https://i.ytimg.com/vi/8vd-vxyCz38/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=8vd-vxyCz38"
     },
     {
       "channelName": "젊은시각",
@@ -25,10 +33,10 @@
     {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 청명한 가을밤, 대구 동성로에서 무슨 일이..?!",
-      "viewers": 126,
+      "viewers": 157,
       "thumbnail": "https://i.ytimg.com/vi/y9cCvk9-wuo/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=y9cCvk9-wuo"
     }
   ],
-  "updatedAt": "2026-10-09T09:50:39.756Z"
+  "updatedAt": "2026-10-09T09:55:34.073Z"
 }
