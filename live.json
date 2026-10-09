@@ -3,40 +3,54 @@
     {
       "channelName": "최한욱TV",
       "title": "최욱이 먼저 무너진다/정봉주, 한동훈 전담팀 만든다/민티07 방송시간 60분 연장 등/압도적 까리스마 까왕쇼 26화",
-      "viewers": 3622,
+      "viewers": 3783,
       "thumbnail": "https://i.ytimg.com/vi/ucD2WphGSFg/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=ucD2WphGSFg"
+    },
+    {
+      "channelName": "[공식] 새날",
+      "title": "[생방송 재밌는 정치시사] 민주당 지지율 이 정부 들어 최저치, 어쩌려고? / 김민석 조국 유시민 김어준 신뢰도 보니 / 한동훈 딸 수사 막은 검찰 #암장 등 + 양이원영",
+      "viewers": 228,
+      "thumbnail": "https://i.ytimg.com/vi/fUN4v2SinXQ/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=fUN4v2SinXQ"
     }
   ],
   "right": [
     {
       "channelName": "어벤저스전략회의",
       "title": "10월 9일 [한글날] 어벤저스 전략회의 '생방송' | 이현종 신지호 홍영림",
-      "viewers": 10726,
+      "viewers": 11247,
       "thumbnail": "https://i.ytimg.com/vi/r-tOkqWH3p0/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=r-tOkqWH3p0"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "[특집] 초유의 사태! 미국이 결국 李정부에 칼 빼들었다! 입국 퇴짜 논란 일파만파, 2030 역린 건드린 민주당과 '암살자들' [선우윤호의 MZ레지스탕스ㅣ출연: 김세종 고영찬]",
-      "viewers": 1368,
+      "viewers": 1444,
       "thumbnail": "https://i.ytimg.com/vi/k1qWOTxuviA/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=k1qWOTxuviA"
     },
     {
       "channelName": "위풍당당이진숙",
       "title": "[🔴LIVE] 이진숙과 함께 뛰는 달성 군민체육대회 \"나도 뛰어볼까!\"🔥",
-      "viewers": 223,
+      "viewers": 225,
       "thumbnail": "https://i.ytimg.com/vi/ui4chvowqs0/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=ui4chvowqs0"
     },
     {
+      "channelName": "이제봉교수",
+      "title": "[Live] 서울역 2026. 10. 9. (금) 오후3:30 서울역",
+      "viewers": 147,
+      "thumbnail": "https://i.ytimg.com/vi/TxaVkF7wY0o/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=TxaVkF7wY0o"
+    },
+    {
       "channelName": "운정참존교회",
       "title": "[올공LIVE] 10월9일 한글날 올림픽공원 실시간 라이브",
-      "viewers": 104,
+      "viewers": 138,
       "thumbnail": "https://i.ytimg.com/vi/ISVyMu32VeE/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=ISVyMu32VeE"
     }
   ],
-  "updatedAt": "2026-10-09T06:35:36.506Z"
+  "updatedAt": "2026-10-09T06:40:37.618Z"
 }
