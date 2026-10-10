@@ -1,20 +1,56 @@
 {
   "left": [
     {
-      "channelName": "[공식] 새날",
-      "title": "[일주일몰아보기] 국정감사 시작! 막가파 국힘의 난동 / 조희대 탄핵해야 민주당 살아난다 / 대한민국에 겹경사, 국뽕 차오른 한 주",
-      "viewers": 876,
-      "thumbnail": "https://i.ytimg.com/vi/hl-ZjNjoXkY/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=hl-ZjNjoXkY"
-    },
-    {
-      "channelName": "뉴스한땀",
-      "title": "[주말 #투목쇼] 김용민 \"신라젠, 직접 고발합니다\"  그들이 '신라젠' 여론에 입 다물고 사라진 이유는 무엇인가? #최진봉 #김용민 #국대토크 (26. 10. 10)",
-      "viewers": 361,
-      "thumbnail": "https://i.ytimg.com/vi/s40qGBSEnTc/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=s40qGBSEnTc"
+      "channelName": "김어준의 겸손은힘들다 뉴스공장",
+      "title": "김어준의 겸손은힘들다 뉴스공장 2026년 10월 5일 월요일 [여론조사, 겸손NSC, 홍사훈X봉지욱X박성준X윤건영, 이선민X정재훈X최명기X강지연, 황희두X박대희]",
+      "viewers": 104876,
+      "thumbnail": "https://i.ytimg.com/vi/6zmDHYa2M9o/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=6zmDHYa2M9o"
     }
   ],
-  "right": [],
-  "updatedAt": "2026-10-10T19:00:55.690Z"
+  "right": [
+    {
+      "channelName": "손상대TV2",
+      "title": "'李 재판 재개' 역대급 인파, 100만명 넘어ㅣ2030 분노 폭발ㅣ개천절 연휴 난리난 개딸들 \"개자식들\" 욕설ㅣ트럼프, 李압박 \"합의 안하면 2배로\"ㅣ동네북 李 [오전LIVE]",
+      "viewers": 17926,
+      "thumbnail": "https://i.ytimg.com/vi/gmvh3NGQsUU/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=gmvh3NGQsUU"
+    },
+    {
+      "channelName": "정완진TV",
+      "title": "[세바뉴]한국 은행 초토화? \"비밀번호 바꾸세요\"..간첩들 우글우글 \"국가 기술도 훔쳤다\"..달러예금 역대최대 \"달러 쌀 때 쟁인다\"..양복세탁 1만2000원 \"서비스물가도 폭탄\"",
+      "viewers": 1905,
+      "thumbnail": "https://i.ytimg.com/vi/mhWM-oqp7DQ/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=mhWM-oqp7DQ"
+    },
+    {
+      "channelName": "고성국TV",
+      "title": "[고성국TV 생방송 26년 10월 5일 (월) 생방송] “내 집 지키기 위해서라도 이재명 빨리 끌어내려야”",
+      "viewers": 1460,
+      "thumbnail": "https://i.ytimg.com/vi/G_4sDv9YkZw/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=G_4sDv9YkZw"
+    },
+    {
+      "channelName": "홍철기TV",
+      "title": "이재명 야밤에 폭주! 재판재개-탄핵에 잠 못자나? 조희대 국감 출석 거부!",
+      "viewers": 941,
+      "thumbnail": "https://i.ytimg.com/vi/AvKNRvYOoRg/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=AvKNRvYOoRg"
+    },
+    {
+      "channelName": "윤창중칼럼세상 TV",
+      "title": "이재명 알고 있나 \"호랑이는 죽어도 풀 뜯지 않는다!\"#국힘의 멸공장사#주책 떠는 추미애#한동훈 비겁한 유시민#암살자를 관람한 최승호 조국#오세훈 주진우 육영수#김문수 신당#김상욱",
+      "viewers": 186,
+      "thumbnail": "https://i.ytimg.com/vi/TWVP4ovgLSs/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=TWVP4ovgLSs"
+    },
+    {
+      "channelName": "전광훈TV02",
+      "title": "천만광화문 국민대회를 위한 오전 생방송!! / 광화문 뒤 덮은 위대한 함성 /보수 패배의 원인, 엉터리 중도주의자들 _  26.10.05",
+      "viewers": 81,
+      "thumbnail": "https://i.ytimg.com/vi/fDzbCHITgAM/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=fDzbCHITgAM"
+    }
+  ],
+  "updatedAt": "2026-10-04T23:00:55.571Z"
 }
