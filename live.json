@@ -1,13 +1,21 @@
 {
-  "left": [],
+  "left": [
+    {
+      "channelName": "띵굴TV",
+      "title": "[261012] 청와대 교감 하에 이뤄진 ‘임은정 감찰’",
+      "viewers": 26,
+      "thumbnail": "https://i.ytimg.com/vi/bxD5lNAuWfA/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=bxD5lNAuWfA"
+    }
+  ],
   "right": [
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 새벽 예배 (등불이 꺼지지 않도록 깨어 있는 법!!) - 이영한 목사 2026.10.12.",
-      "viewers": 350,
+      "viewers": 315,
       "thumbnail": "https://i.ytimg.com/vi/mhl55LbEU6Q/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=mhl55LbEU6Q"
     }
   ],
-  "updatedAt": "2026-10-11T20:45:35.531Z"
+  "updatedAt": "2026-10-11T20:50:38.112Z"
 }
