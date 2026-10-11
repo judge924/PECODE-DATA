@@ -4,21 +4,28 @@
     {
       "channelName": "펜앤마이크TV",
       "title": "[🚨긴급] 주진우 이재명 관련 긴급 기자회견",
-      "viewers": 2617,
+      "viewers": 2672,
       "thumbnail": "https://i.ytimg.com/vi/9CAhQOG6fxM/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=9CAhQOG6fxM"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 120만 광화문 전국 주일 연합 저녁 예배 (다니엘서 (짐승의 계시)) - 이양우 목사 2026.10.11.",
-      "viewers": 218,
+      "viewers": 339,
       "thumbnail": "https://i.ytimg.com/vi/81nvzzXgPTE/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=81nvzzXgPTE"
     },
     {
+      "channelName": "학소",
+      "title": "대구 사고 났는데, 골프장 후 '좌아하게'",
+      "viewers": 338,
+      "thumbnail": "https://i.ytimg.com/vi/26LsEYhhoFs/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=26LsEYhhoFs"
+    },
+    {
       "channelName": "망기토TV",
       "title": "[충청도 LIVE] 육영수 여사님 생가",
-      "viewers": 172,
+      "viewers": 160,
       "thumbnail": "https://i.ytimg.com/vi/hrOCziUFd2Y/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=hrOCziUFd2Y"
     },
@@ -30,5 +37,5 @@
       "liveUrl": "https://www.youtube.com/watch?v=4nw2OC9bJ18"
     }
   ],
-  "updatedAt": "2026-10-11T09:30:48.998Z"
+  "updatedAt": "2026-10-11T09:35:32.903Z"
 }
