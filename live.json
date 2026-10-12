@@ -1,20 +1,28 @@
 {
-  "left": [],
+  "left": [
+    {
+      "channelName": "띵굴TV",
+      "title": "[261013] 조희대 대법원장님, ‘뻥’치셨군요!",
+      "viewers": 39,
+      "thumbnail": "https://i.ytimg.com/vi/qeq2CFjORvg/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=qeq2CFjORvg"
+    }
+  ],
   "right": [
     {
       "channelName": "위풍당당이진숙",
       "title": "[🔴LIVE] 이진숙, 긴급 기자회견ㅣ2026.10.12(월) 오후 2:20 #이진숙 #국민의힘 #기자회견 #국회 #소통관",
-      "viewers": 1049,
+      "viewers": 1123,
       "thumbnail": "https://i.ytimg.com/vi/3XlMW1lJ7lw/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=3XlMW1lJ7lw"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 새벽 예배 (창조에 나타난 그리스도(둘째 날)) - 이양우 목사 2026.10.13.",
-      "viewers": 327,
+      "viewers": 320,
       "thumbnail": "https://i.ytimg.com/vi/r77RLt7aOaA/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=r77RLt7aOaA"
     }
   ],
-  "updatedAt": "2026-10-12T20:45:34.845Z"
+  "updatedAt": "2026-10-12T20:50:35.905Z"
 }
