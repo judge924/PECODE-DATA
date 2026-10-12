@@ -1,49 +1,70 @@
 {
   "left": [
     {
+      "channelName": "박시영TV",
+      "title": "[LIVE] 이대로 가다간 지지율 더 폭망/ '임은정 감찰 vs 한동훈 딸' 핫 이슈는? (ft. 박규환, 이혜연)",
+      "viewers": 179,
+      "thumbnail": "https://i.ytimg.com/vi/6d-o3_ZG1Ps/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=6d-o3_ZG1Ps"
+    },
+    {
       "channelName": "뉴스토마토",
       "title": "🔴LIVE :: 국회 법사위, 감사원 국정감사 :: 이 시각 국회 #국감 #법사위 #감사원 #조희대 #뉴스 #속보 #live (1012_월)",
-      "viewers": 109,
+      "viewers": 103,
       "thumbnail": "https://i.ytimg.com/vi/NEDIXv28C-s/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=NEDIXv28C-s"
     },
     {
+      "channelName": "김어준의 겸손은힘들다 뉴스공장",
+      "title": "주기자라이브 l 2026년 10월 12일 (월) l 지금의 정치권에 언어란 어떤 의미일까? (김예니 / 정근식)",
+      "viewers": 72,
+      "thumbnail": "https://i.ytimg.com/vi/lSyJwWt6f6k/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=lSyJwWt6f6k"
+    },
+    {
       "channelName": "뉴탐사 NewTamsa",
       "title": "【261012】[국회라이브] 2026 국회 국정감사ㅣ행정안전위원회 (경찰청 등)",
-      "viewers": 51,
+      "viewers": 55,
       "thumbnail": "https://i.ytimg.com/vi/unopVKqVdCY/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=unopVKqVdCY"
+    },
+    {
+      "channelName": "이동형TV",
+      "title": "[이동형의 촉] 10/12 생방송",
+      "viewers": 6,
+      "thumbnail": "https://i.ytimg.com/vi/GZYeYJEUWf0/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=GZYeYJEUWf0"
     }
   ],
   "right": [
     {
       "channelName": "주진우의 이슈해설",
       "title": "[주진우의 5후 LIVE] 윤리위 제소로 입틀막? 주진우에겐 협박 안 통해",
-      "viewers": 8146,
+      "viewers": 8429,
       "thumbnail": "https://i.ytimg.com/vi/bZWO0ZeMzxo/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=bZWO0ZeMzxo"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "눈실핏줄 터진 이재명...더 못버틴다 | 이화영, 이번엔 성탄절 특사요구...내일 중대결심 | 막나가는 민주당, 이진숙 국감에서 배제했다 [이것이 뉴스다]",
-      "viewers": 5909,
+      "viewers": 6133,
       "thumbnail": "https://i.ytimg.com/vi/lblCvEpj-vE/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=lblCvEpj-vE"
     },
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.10.12",
-      "viewers": 2834,
+      "viewers": 3191,
       "thumbnail": "https://i.ytimg.com/vi/LC6U_oXkchg/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=LC6U_oXkchg"
     },
     {
       "channelName": "운정참존교회",
       "title": "[올공LIVE] 10월12일 지금 올공 현장",
-      "viewers": 80,
+      "viewers": 69,
       "thumbnail": "https://i.ytimg.com/vi/Qj1OnEbvUoU/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=Qj1OnEbvUoU"
     }
   ],
-  "updatedAt": "2026-10-12T09:50:39.525Z"
+  "updatedAt": "2026-10-12T09:55:33.340Z"
 }
