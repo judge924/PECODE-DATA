@@ -1,51 +1,44 @@
 {
   "left": [
     {
-      "channelName": "봉지욱의 오프더레코드",
-      "title": "[🔴매봉쇼] 한동훈 일가 '범죄 공동체'...중수청이 수사",
-      "viewers": 11508,
-      "thumbnail": "https://i.ytimg.com/vi/_0fu8IZbU7Q/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=_0fu8IZbU7Q"
-    },
-    {
       "channelName": "[팟빵] 최욱의 매불쇼",
       "title": "●10월 14일 수요일 [LIVE] - 뉴스(민동기,최강욱,배상훈,박근형,한창민,신장식)",
-      "viewers": 8287,
+      "viewers": 25339,
       "thumbnail": "https://i.ytimg.com/vi/sE4D5poCmjo/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=sE4D5poCmjo"
     },
     {
+      "channelName": "봉지욱의 오프더레코드",
+      "title": "[🔴매봉쇼] 한동훈 일가 '범죄 공동체'...중수청이 수사",
+      "viewers": 9789,
+      "thumbnail": "https://i.ytimg.com/vi/_0fu8IZbU7Q/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=_0fu8IZbU7Q"
+    },
+    {
       "channelName": "시사건건",
       "title": "역시 예상대로 추미애 공격에 혈안이 된 친명 탁란의원들. 충격적 찌라시! 청와대와 김민석이 추미애를 두려워하고 있다?",
-      "viewers": 7341,
+      "viewers": 7011,
       "thumbnail": "https://i.ytimg.com/vi/adtTxT1gntE/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=adtTxT1gntE"
     },
     {
-      "channelName": "강성범tv",
-      "title": "[봐뉴스 LIVE🔴 895회/강성필&박영식] 김지용 청문회에 내란당이 너무 많은 거 아닌가요?",
-      "viewers": 7138,
-      "thumbnail": "https://i.ytimg.com/vi/swMSCNEOST0/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=swMSCNEOST0"
-    },
-    {
       "channelName": "김용민TV",
       "title": "[뉴잼스 프렌즈] 중수청 떠들더니 경기도 인사공백 1,130명? 여당도 폭발한 '추미애 국감' / 압수수색 0건? 한동훈 딸 '전자책' 봐주기 수사 민낯ㅣ김용민·신인규·이석현",
-      "viewers": 1263,
+      "viewers": 4448,
       "thumbnail": "https://i.ytimg.com/vi/tzT3lrRN1v8/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=tzT3lrRN1v8"
     },
     {
       "channelName": "시사타파TV",
       "title": "[청문회 LIVE] 행정안전위원회 - ‘친윤 논란’ 검증대 위로! 중수청장 김지용 후보 인사청문회",
-      "viewers": 696,
+      "viewers": 667,
       "thumbnail": "https://i.ytimg.com/vi/vQxjO_5yH-k/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=vQxjO_5yH-k"
     },
     {
       "channelName": "뉴스토마토",
       "title": "🔴LIVE :: 김지용 중수청장 후보자 인사청문회 :: 이 시각 국회 행안위 #김지용 #청문회 #중수청 #행안위 #국회 #추미애 #뉴스 #속보 #live (1014_수)",
-      "viewers": 488,
+      "viewers": 476,
       "thumbnail": "https://i.ytimg.com/vi/1Q6TYfVR6gQ/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=1Q6TYfVR6gQ"
     }
@@ -54,31 +47,38 @@
     {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[🔴LIVE] 한동훈, 차지훈 주유엔대사에 맹공! / 차지훈의 실체! 이 정도라고? / 한동훈 보다 존재감 없는 국힘! 결국 장동혁 때문!?",
-      "viewers": 1246,
+      "viewers": 1034,
       "thumbnail": "https://i.ytimg.com/vi/vQzv-OYOwO0/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=vQzv-OYOwO0"
     },
     {
       "channelName": "망기토TV",
       "title": "[강화 볼음도 LIVE] 북한 지뢰 위협",
-      "viewers": 477,
+      "viewers": 478,
       "thumbnail": "https://i.ytimg.com/vi/mlTSuIqWvB0/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=mlTSuIqWvB0"
     },
     {
       "channelName": "김사랑작가tv",
       "title": "선관위 특검 이태한 구승기 난리났네#김태규#주진우#장동혁#10.14",
-      "viewers": 391,
+      "viewers": 400,
       "thumbnail": "https://i.ytimg.com/vi/W5cPKnwT6C8/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=W5cPKnwT6C8"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "이것이 진짜 김창룡이다 | 김창룡 평전: 추운 나라로 간 스파이 / 이동욱 전 월간조선 기자 [펜앤초대석]",
-      "viewers": 352,
+      "viewers": 350,
       "thumbnail": "https://i.ytimg.com/vi/Ey9rWkNMucI/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=Ey9rWkNMucI"
+    },
+    {
+      "channelName": "국민의힘TV",
+      "title": "[Live] 10월 14일 당근위원회 임명장 수여식 및 제1차 회의",
+      "viewers": 79,
+      "thumbnail": "https://i.ytimg.com/vi/pwLtmpCAwnk/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=pwLtmpCAwnk"
     }
   ],
-  "updatedAt": "2026-10-14T05:00:51.941Z"
+  "updatedAt": "2026-10-14T05:05:33.305Z"
 }
