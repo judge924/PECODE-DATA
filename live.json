@@ -1,20 +1,21 @@
 {
-  "left": [],
-  "right": [
+  "left": [
     {
-      "channelName": "정완진TV",
-      "title": "[새벽을 여는 부자들] 이 시각 뉴스속보? 이 시각 뉴욕증시 분석? 오늘의 한국증시 전망? 원달러 환율? 비트코인? 국제금값? 국제유가? 자영업자?",
-      "viewers": 1193,
-      "thumbnail": "https://i.ytimg.com/vi/iHY-YIFDv3o/sddefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=iHY-YIFDv3o"
-    },
+      "channelName": "띵굴TV",
+      "title": "[261015] 김지용 후보자, 청와대는 검증 제대로 했나",
+      "viewers": 50,
+      "thumbnail": "https://i.ytimg.com/vi/P4ZszC4Jmr4/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=P4ZszC4Jmr4"
+    }
+  ],
+  "right": [
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 새벽 예배 (옥문을 열어주신 이유) - 황선주 목사 2026.10.15.",
-      "viewers": 342,
+      "viewers": 330,
       "thumbnail": "https://i.ytimg.com/vi/FylrjSCVhkQ/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=FylrjSCVhkQ"
     }
   ],
-  "updatedAt": "2026-10-14T20:45:38.637Z"
+  "updatedAt": "2026-10-14T20:50:40.684Z"
 }
