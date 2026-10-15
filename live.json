@@ -1,23 +1,16 @@
 {
   "left": [
     {
-      "channelName": "이동형TV",
-      "title": "[저널리즘M] 10/15 생방송",
-      "viewers": 9387,
-      "thumbnail": "https://i.ytimg.com/vi/LmguwSvQyr4/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=LmguwSvQyr4"
-    },
-    {
       "channelName": "신인규 박영식의 시방쇼",
       "title": "이재명 대통령, 김지용 중수청장 임명안 재가.. 지명 37일 만..!",
-      "viewers": 4524,
+      "viewers": 4920,
       "thumbnail": "https://i.ytimg.com/vi/noDepMG8ukg/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=noDepMG8ukg"
     },
     {
       "channelName": "뉴스한땀",
       "title": "[야간 #투목쇼] 결국은 대통령의 길로, 국회의원과 유튜버는 서로 갈라선다. 재집권의 길과 생계의 길에서! #최진봉 #김용민 #국대토크(261015)",
-      "viewers": 86,
+      "viewers": 106,
       "thumbnail": "https://i.ytimg.com/vi/Vdkx695hES8/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=Vdkx695hES8"
     }
@@ -26,59 +19,66 @@
     {
       "channelName": "송국건의 혼술",
       "title": "★李의 장관들 ‘총리관저 집단 반란’ ★李공소취소 막아선 TK 검사 둘! ★서영교 남편도 “한 자리” 차지 ★“박근혜 탄핵 재심” 외쳤다!",
-      "viewers": 5845,
+      "viewers": 5947,
       "thumbnail": "https://i.ytimg.com/vi/l7NdbHrrozo/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=l7NdbHrrozo"
     },
     {
       "channelName": "손상대TV2",
       "title": "'李 변호사 출신' 법체처장 \"대법원장 재제청 거부, 직무유기\"ㅣ이달말 구속 만료 김건희, 특검서 추가 영장 요청ㅣ선관위 7곳 압색, 전국 30개 시군구 허위 [오후LIVE]",
-      "viewers": 2099,
+      "viewers": 2127,
       "thumbnail": "https://i.ytimg.com/vi/Pw-v1prqwkM/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=Pw-v1prqwkM"
     },
     {
       "channelName": "BJ톨",
       "title": "장동혁 참을만큼 참았다. 대폭발! 이재명 마지막 발악! 윤재복 52% vs 양향자 48%? 역겨윤 친한계(261015)",
-      "viewers": 1952,
+      "viewers": 1928,
       "thumbnail": "https://i.ytimg.com/vi/1YRo3QGwqL0/sddefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=1YRo3QGwqL0"
     },
     {
       "channelName": "최국튜브",
       "title": "[라이브] 지지율 붕괴... 코스피 붕괴 ...그 와중에 부캉이 구경...",
-      "viewers": 1739,
+      "viewers": 1776,
       "thumbnail": "https://i.ytimg.com/vi/5cO9-bJRLOw/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=5cO9-bJRLOw"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 특별 기도회 - 2026.10.15.",
-      "viewers": 699,
+      "viewers": 692,
       "thumbnail": "https://i.ytimg.com/vi/lKE1LidLT9Y/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=lKE1LidLT9Y"
     },
     {
+      "channelName": "문갑식의 진짜 TV",
+      "title": "'검은 목요일' 한국 증시 하반기 세계 최고 낙폭! 김민석도 訪美 포기, 민주당에 번진 '美 입국 비자 포비아'!",
+      "viewers": 342,
+      "thumbnail": "https://i.ytimg.com/vi/6vBUWqrcWbk/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=6vBUWqrcWbk"
+    },
+    {
       "channelName": "김사랑작가tv",
       "title": "재판 마치고 가는길#정치 판사#벌금 500만원",
-      "viewers": 223,
+      "viewers": 237,
       "thumbnail": "https://i.ytimg.com/vi/3UY-vTx1zZc/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=3UY-vTx1zZc"
     },
     {
       "channelName": "[민경욱 TV]",
       "title": "[찾아가는 민경욱 前의원 LIVE] 인천 구월 로데오 광장 난리났다 | 선관위 특검, 부정선거 재선거 당일투표 수개표",
-      "viewers": 108,
+      "viewers": 130,
       "thumbnail": "https://i.ytimg.com/vi/n0a2lUcR7ZA/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=n0a2lUcR7ZA"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "[군사법원 현장] 강신철 국정감사",
-      "viewers": 49,
+      "viewers": 53,
       "thumbnail": "https://i.ytimg.com/vi/WEBrqzrpxz4/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=WEBrqzrpxz4"
     }
   ],
-  "updatedAt": "2026-10-15T11:40:37.611Z"
+  "updatedAt": "2026-10-15T11:45:39.072Z"
 }
