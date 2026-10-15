@@ -3,11 +3,19 @@
     {
       "channelName": "뉴스한땀",
       "title": "[야간 #투목쇼] 여당의원들 아침방송 손절 중? 결국은 대통령의 길로! 김엄마가 알려드림! #최진봉 #김용민 #국대토크(261015)",
-      "viewers": 394,
+      "viewers": 389,
       "thumbnail": "https://i.ytimg.com/vi/Vdkx695hES8/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=Vdkx695hES8"
     }
   ],
-  "right": [],
-  "updatedAt": "2026-10-15T19:20:37.412Z"
+  "right": [
+    {
+      "channelName": "정완진TV",
+      "title": "[새벽을 여는 부자들] 이 시각 뉴스속보? 이 시각 뉴욕증시 분석? 오늘의 한국증시 전망? 원달러 환율? 비트코인? 국제금값? 국제유가? 자영업자?",
+      "viewers": 197,
+      "thumbnail": "https://i.ytimg.com/vi/C54gJFDJuGE/sddefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=C54gJFDJuGE"
+    }
+  ],
+  "updatedAt": "2026-10-15T19:25:34.974Z"
 }
