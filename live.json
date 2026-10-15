@@ -1,32 +1,32 @@
 {
   "left": [
     {
-      "channelName": "장르만 여의도",
-      "title": "'130만' 깨진 하이닉스 , 삼전도 8%대 폭락 충격의 검은 목요일 │2026.10.15 Ep.756 LIVE🔴",
-      "viewers": 20011,
-      "thumbnail": "https://i.ytimg.com/vi/d2yhFf-bjg8/maxresdefault_live.jpg",
-      "liveUrl": "https://www.youtube.com/watch?v=d2yhFf-bjg8"
-    },
-    {
       "channelName": "봉지욱의 오프더레코드",
       "title": "[🔴매봉쇼] ① 조희대 시나리오 ② 한동훈 딸은 \"멘탈 파이팅\"",
-      "viewers": 10908,
+      "viewers": 11734,
       "thumbnail": "https://i.ytimg.com/vi/e_jhXw45ulc/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=e_jhXw45ulc"
     },
     {
       "channelName": "시사건건",
       "title": "김지용 거짓말이 드러났는대도 흠결없다? 대통령은 논란이 있어도 김지용 임명할 것이다. 그 이유는?",
-      "viewers": 7421,
+      "viewers": 7013,
       "thumbnail": "https://i.ytimg.com/vi/EGdvG0NsgiE/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=EGdvG0NsgiE"
     },
     {
       "channelName": "강성범tv",
       "title": "[봐뉴스 LIVE🔴 896회/하헌기&김완] 김지용 청문회 끝! 이런 검사가 있었다고?! 하헌기·김완의 청문회 총평",
-      "viewers": 6606,
+      "viewers": 6621,
       "thumbnail": "https://i.ytimg.com/vi/UKs--GctKrA/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=UKs--GctKrA"
+    },
+    {
+      "channelName": "[팟빵] 최욱의 매불쇼",
+      "title": "●10월 15일 목요일 [LIVE] - 뉴스(민동기,주진우,이명주,김정환,박현광), 경제(박시동,차영주), 특집(허준원,박지원)",
+      "viewers": 601,
+      "thumbnail": "https://i.ytimg.com/vi/RDKhyUKkjS0/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=RDKhyUKkjS0"
     },
     {
       "channelName": "뉴스토마토",
@@ -40,38 +40,45 @@
     {
       "channelName": "변기클리닉",
       "title": "강선우 \"흐규흐규 억울해요ㅠㅠ\" / '신천지 의혹'으로 다시 시작된 명청대전!",
-      "viewers": 6922,
+      "viewers": 7361,
       "thumbnail": "https://i.ytimg.com/vi/DCT-E2Oji2Q/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=DCT-E2Oji2Q"
     },
     {
       "channelName": "주진우의 이슈해설",
       "title": "[주진우의 5후 LIVE] 선관위 특검, 다음 수는?",
-      "viewers": 4306,
+      "viewers": 4586,
       "thumbnail": "https://i.ytimg.com/vi/VMM8BSCABbc/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=VMM8BSCABbc"
     },
     {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[🔴LIVE] 야비한 정치깡패 칼 뽑은 한동훈! / 민주당 지지자도 등 돌린 한동훈 공격!? / 훈식이 가고 광현이 왔다.. 이재명 보은인사! 근데 이화영은 왜...?",
-      "viewers": 615,
+      "viewers": 592,
       "thumbnail": "https://i.ytimg.com/vi/XACot7uMiW0/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=XACot7uMiW0"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "\"이제 봇물이 터지는구나\"...이재명에 손쓰기 시작한 미국 / 김유나 학부모, 김문희 학부모 [정치하는 엄마들]",
-      "viewers": 201,
+      "viewers": 554,
       "thumbnail": "https://i.ytimg.com/vi/PbfZDgThG0M/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=PbfZDgThG0M"
     },
     {
       "channelName": "위풍당당이진숙",
       "title": "[🔴LIVE] 헌정사상 최초만 3번째! l 해임, 제명 촉구, 국감 제척까지 l 2026. 10. 15.(목)",
-      "viewers": 55,
+      "viewers": 191,
       "thumbnail": "https://i.ytimg.com/vi/_JUR07-FpEI/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=_JUR07-FpEI"
+    },
+    {
+      "channelName": "전광훈TV02",
+      "title": "[LIVE] 무장간첩 김동식 특별출연!! / 천만 광화문 국민대회를 위한 특별 생방송!! _26.10.15",
+      "viewers": 22,
+      "thumbnail": "https://i.ytimg.com/vi/3KtnvUqIRvo/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=3KtnvUqIRvo"
     }
   ],
-  "updatedAt": "2026-10-15T04:45:37.695Z"
+  "updatedAt": "2026-10-15T04:50:35.769Z"
 }
