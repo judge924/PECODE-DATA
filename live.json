@@ -3,7 +3,7 @@
     {
       "channelName": "띵굴TV",
       "title": "[261017] ‘한강버스 리베이트’ 의혹, 결국 수사의뢰한 서울시",
-      "viewers": 1260,
+      "viewers": 1353,
       "thumbnail": "https://i.ytimg.com/vi/b-LJzsMHpO0/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=b-LJzsMHpO0"
     },
@@ -15,6 +15,14 @@
       "liveUrl": "https://www.youtube.com/watch?v=oSg0ZP5wOhg"
     }
   ],
-  "right": [],
-  "updatedAt": "2026-10-16T21:25:31.979Z"
+  "right": [
+    {
+      "channelName": "정완진TV",
+      "title": "[세바뉴] 반도체 품귀위기 \"애플 중국산 쓴다?\"...코픽스 날벼락 \"대출자는 이자폭탄\"...청년들 한숨만 푹푹 \"일할 곳이 없어요\"...땅값 반토막 \"농지조사는 계속된다\"",
+      "viewers": 112,
+      "thumbnail": "https://i.ytimg.com/vi/TIVhlKavD3Q/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=TIVhlKavD3Q"
+    }
+  ],
+  "updatedAt": "2026-10-16T21:30:45.286Z"
 }
