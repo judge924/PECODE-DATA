@@ -3,14 +3,14 @@
     {
       "channelName": "김두일tv",
       "title": "토요라이브 261회: 김작가에게 무엇이든 물어보세요",
-      "viewers": 2243,
+      "viewers": 2213,
       "thumbnail": "https://i.ytimg.com/vi/NBp30Iigjfw/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=NBp30Iigjfw"
     },
     {
       "channelName": "민주당티비 [더불어민주당]",
       "title": "부산 북항 돔 아레나 조성 예정지 현장 방문 생중계 - 10월 17일",
-      "viewers": 298,
+      "viewers": 380,
       "thumbnail": "https://i.ytimg.com/vi/TdkTjXNiOrg/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=TdkTjXNiOrg"
     }
@@ -19,24 +19,45 @@
     {
       "channelName": "전광훈TV02",
       "title": "[광화문 현장 LIVE] 2026 10.17 국민대회, \"이재명은 하야하라!!\" - 2026.10.17.",
-      "viewers": 1823,
+      "viewers": 1811,
       "thumbnail": "https://i.ytimg.com/vi/JxNkYVgxfuI/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=JxNkYVgxfuI"
     },
     {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 이재명 재판재개 in 강남. (with 국민의힘,청년단체)",
-      "viewers": 341,
+      "viewers": 361,
       "thumbnail": "https://i.ytimg.com/vi/nRMDFQW9aek/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=nRMDFQW9aek"
     },
     {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[🔴LIVE] 외통위 미주반 한동훈 활약상! / 빈집털이 민주당 한동훈 폭격! 개딸도 절레절레!? / 조국의 찌질함에 대하여.. / 장동혁 부정선거 재선거 역관광 당했다!?",
-      "viewers": 175,
+      "viewers": 167,
       "thumbnail": "https://i.ytimg.com/vi/ofiezdzo0dM/maxresdefault_live.jpg",
       "liveUrl": "https://www.youtube.com/watch?v=ofiezdzo0dM"
+    },
+    {
+      "channelName": "위풍당당이진숙",
+      "title": "[🔴LIVE] 이진숙과 함께 뛰는 한마음대축제 체육대회｜응원도 승부도 진심!🔥",
+      "viewers": 73,
+      "thumbnail": "https://i.ytimg.com/vi/KNcK_irH90c/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=KNcK_irH90c"
+    },
+    {
+      "channelName": "김사랑작가tv",
+      "title": "이태한 선관위특검 공정수사 촉구#장동혁#김민수#국민의 힘#이재명 재판 받아라",
+      "viewers": 30,
+      "thumbnail": "https://i.ytimg.com/vi/FwFxHoa0h-E/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=FwFxHoa0h-E"
+    },
+    {
+      "channelName": "자유대한호국단",
+      "title": "[실시간] 4차 이재명 파기환송심 재판재개하라!_강남역_20261017_자유대한호국단",
+      "viewers": 17,
+      "thumbnail": "https://i.ytimg.com/vi/WOfKEd1kU4M/maxresdefault_live.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=WOfKEd1kU4M"
     }
   ],
-  "updatedAt": "2026-10-17T04:35:30.616Z"
+  "updatedAt": "2026-10-17T04:40:37.343Z"
 }
