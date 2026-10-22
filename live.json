@@ -3,21 +3,21 @@
     {
       "channelName": "이동형TV",
       "title": "[저널리즘M] 10/22 생방송",
-      "viewers": 10615,
+      "viewers": 10327,
       "thumbnail": "https://i.ytimg.com/vi/dhkz9Noe0J8/maxresdefault.jpg?v=6ad9e8f1",
       "liveUrl": "https://www.youtube.com/watch?v=dhkz9Noe0J8"
     },
     {
       "channelName": "박시영TV",
       "title": "[LIVE] 조희대 탄핵 상반된 입장, 김민석 vs 정청래 / 조국혁신당, 10%대 초읽기 (ft. 이지은, 김승현, 김대호)",
-      "viewers": 10286,
+      "viewers": 9486,
       "thumbnail": "https://i.ytimg.com/vi/y7VTbDZE_FM/maxresdefault.jpg?v=6ad9d6b6",
       "liveUrl": "https://www.youtube.com/watch?v=y7VTbDZE_FM"
     },
     {
       "channelName": "신인규 박영식의 시방쇼",
       "title": "오세훈 시장직 걸린 재판 항소심 D-1..! 오세훈의 운명은?!",
-      "viewers": 1979,
+      "viewers": 2119,
       "thumbnail": "https://i.ytimg.com/vi/Fv0yynS_hA0/maxresdefault.jpg?v=6ad9ea4c",
       "liveUrl": "https://www.youtube.com/watch?v=Fv0yynS_hA0"
     }
@@ -26,59 +26,66 @@
     {
       "channelName": "송국건의 혼술",
       "title": "★김혜경, 김정숙 못잖게 나대고 있다! ★김현지 잡는 ‘저승사자’ 떴다? ★무당층 74% “이재명 재판받아라” ★DJ·盧·文 죄다 탄핵감이라는 李",
-      "viewers": 3496,
+      "viewers": 3811,
       "thumbnail": "https://i.ytimg.com/vi/3gk5YUu2BoI/maxresdefault.jpg?v=6ad9e22c",
       "liveUrl": "https://www.youtube.com/watch?v=3gk5YUu2BoI"
     },
     {
       "channelName": "BJ톨",
       "title": "이재명 끝장낼 기가막힌 프레임! 중공 간첩단 발칵 장동혁 충격폭로! 탈옥 왕따 재매후니.(261022)",
-      "viewers": 1890,
+      "viewers": 1811,
       "thumbnail": "https://i.ytimg.com/vi/gEJfeD8Je4s/sddefault.jpg?v=6ad9a666",
       "liveUrl": "https://www.youtube.com/watch?v=gEJfeD8Je4s"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 특별 기도회 - 2026.10.22.",
-      "viewers": 854,
+      "viewers": 833,
       "thumbnail": "https://i.ytimg.com/vi/WpC_EgaWzoE/maxresdefault.jpg?v=6ad9d80b",
       "liveUrl": "https://www.youtube.com/watch?v=WpC_EgaWzoE"
     },
     {
-      "channelName": "가로세로연구소",
-      "title": "[충격분노] 장동혁 욕설? 그럼 재명이는?",
-      "viewers": 824,
-      "thumbnail": "https://i.ytimg.com/vi/hxwXSyaeUZ0/maxresdefault.jpg?v=6ad9d46e",
-      "liveUrl": "https://www.youtube.com/watch?v=hxwXSyaeUZ0"
-    },
-    {
       "channelName": "학소",
       "title": "대석열 \"사법부 독립은 중요...이 사건 사법테러\"",
-      "viewers": 681,
+      "viewers": 679,
       "thumbnail": "https://i.ytimg.com/vi/JwTRx7yPggg/maxresdefault.jpg?v=6ad9df0a",
       "liveUrl": "https://www.youtube.com/watch?v=JwTRx7yPggg"
     },
     {
+      "channelName": "가로세로연구소",
+      "title": "[충격분노] 장동혁 욕설? 그럼 재명이는?",
+      "viewers": 435,
+      "thumbnail": "https://i.ytimg.com/vi/hxwXSyaeUZ0/maxresdefault.jpg?v=6ad9d46e",
+      "liveUrl": "https://www.youtube.com/watch?v=hxwXSyaeUZ0"
+    },
+    {
       "channelName": "위풍당당이진숙",
       "title": "[🔴다시보기] \"안동올공\" 민심, 하늘을 가르다! 이진숙과 함께하는 안동 청년집회 | 이재명 정권 심판",
-      "viewers": 324,
+      "viewers": 359,
       "thumbnail": "https://i.ytimg.com/vi/JCFjfdC4mkY/maxresdefault.jpg?v=6ad9b4ea",
       "liveUrl": "https://www.youtube.com/watch?v=JCFjfdC4mkY"
     },
     {
+      "channelName": "청년의소리TV",
+      "title": "[LIVE] 조금만 더",
+      "viewers": 207,
+      "thumbnail": "https://i.ytimg.com/vi/wmq3fpTEYSI/maxresdefault.jpg?v=6ad9dceb",
+      "liveUrl": "https://www.youtube.com/watch?v=wmq3fpTEYSI"
+    },
+    {
       "channelName": "만사혁통:공구리1호",
       "title": "[올공라이브] 목놓아 외치는 부재당수!",
-      "viewers": 194,
+      "viewers": 196,
       "thumbnail": "https://i.ytimg.com/vi/dpo5fxkHxEY/maxresdefault.jpg?v=6ad9de9f",
       "liveUrl": "https://www.youtube.com/watch?v=dpo5fxkHxEY"
     },
     {
-      "channelName": "청년의소리TV",
-      "title": "[LIVE] 조금만 더",
-      "viewers": 188,
-      "thumbnail": "https://i.ytimg.com/vi/wmq3fpTEYSI/maxresdefault.jpg?v=6ad9dceb",
-      "liveUrl": "https://www.youtube.com/watch?v=wmq3fpTEYSI"
+      "channelName": "노빠꾸프렌즈",
+      "title": "[🔴ON AIR] 윤석열 대통령 \"민주당, 북한과 연결돼 있어\"",
+      "viewers": 20,
+      "thumbnail": "https://i.ytimg.com/vi/eqgUXYouyS4/maxresdefault.jpg?v=6ad9ec96",
+      "liveUrl": "https://www.youtube.com/watch?v=eqgUXYouyS4"
     }
   ],
-  "updatedAt": "2026-10-22T11:15:40.121Z"
+  "updatedAt": "2026-10-22T11:20:42.864Z"
 }
