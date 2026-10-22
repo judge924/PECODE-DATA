@@ -1,48 +1,63 @@
 {
-  "left": [],
+  "left": [
+    {
+      "channelName": "박시영TV",
+      "title": "[LIVE] 조희대 탄핵 상반된 입장, 김민석 vs 정청래 / 조국혁신당, 10%대 초읽기 (ft. 이지은, 김승현, 김대호)",
+      "viewers": 498,
+      "thumbnail": "https://i.ytimg.com/vi/y7VTbDZE_FM/maxresdefault.jpg?v=6ad9d6b6",
+      "liveUrl": "https://www.youtube.com/watch?v=y7VTbDZE_FM"
+    }
+  ],
   "right": [
     {
       "channelName": "펜앤마이크TV",
       "title": "김정은 진짜 죽었나? 미국이 포착한 충격 정황 | 제2얄타회담 개최...美中에게 버림받은 이재명 | 법원, 차별,왕따 MBC경영진에 금융치료 판결 [이것이 뉴스다]",
-      "viewers": 8099,
+      "viewers": 7965,
       "thumbnail": "https://i.ytimg.com/vi/S6ad5kOvY5k/maxresdefault.jpg?v=6ad9ca77",
       "liveUrl": "https://www.youtube.com/watch?v=S6ad5kOvY5k"
     },
     {
       "channelName": "주진우의 이슈해설",
       "title": "[주진우의 5후 LIVE] 김현지 안 나와? 아님 못 나와?",
-      "viewers": 5554,
+      "viewers": 6090,
       "thumbnail": "https://i.ytimg.com/vi/q2yhhwLR8aY/maxresdefault.jpg?v=6ad9b729",
       "liveUrl": "https://www.youtube.com/watch?v=q2yhhwLR8aY"
     },
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.10.22",
-      "viewers": 3305,
+      "viewers": 3836,
       "thumbnail": "https://i.ytimg.com/vi/Z498fSIoeTQ/maxresdefault.jpg?v=6ad9d5de",
       "liveUrl": "https://www.youtube.com/watch?v=Z498fSIoeTQ"
     },
     {
       "channelName": "망기토TV",
       "title": "[중앙지법 LIVE] 윤석열 대통령 석방하라",
-      "viewers": 739,
+      "viewers": 712,
       "thumbnail": "https://i.ytimg.com/vi/_xJbFZ_V6tc/maxresdefault.jpg?v=6ad9b335",
       "liveUrl": "https://www.youtube.com/watch?v=_xJbFZ_V6tc"
     },
     {
+      "channelName": "김사랑작가tv",
+      "title": "선관위 특검 사무실 앞#구승기#이태한#장동혁#주진우",
+      "viewers": 279,
+      "thumbnail": "https://i.ytimg.com/vi/w3BzTM-yeXk/maxresdefault.jpg?v=20",
+      "liveUrl": "https://www.youtube.com/watch?v=w3BzTM-yeXk"
+    },
+    {
       "channelName": "위풍당당이진숙",
       "title": "[🔴다시보기] \"안동올공\" 민심, 하늘을 가르다! 이진숙과 함께하는 안동 청년집회 | 이재명 정권 심판",
-      "viewers": 305,
+      "viewers": 247,
       "thumbnail": "https://i.ytimg.com/vi/JCFjfdC4mkY/maxresdefault.jpg?v=6ad9b4ea",
       "liveUrl": "https://www.youtube.com/watch?v=JCFjfdC4mkY"
     },
     {
-      "channelName": "김사랑작가tv",
-      "title": "선관위 특검 사무실 앞#구승기#이태한#장동혁#주진우",
-      "viewers": 272,
-      "thumbnail": "https://i.ytimg.com/vi/w3BzTM-yeXk/maxresdefault.jpg?v=1f",
-      "liveUrl": "https://www.youtube.com/watch?v=w3BzTM-yeXk"
+      "channelName": "청년의소리TV",
+      "title": "[LIVE] 조금만 더",
+      "viewers": 38,
+      "thumbnail": "https://i.ytimg.com/vi/wmq3fpTEYSI/maxresdefault.jpg?v=6ad9dceb",
+      "liveUrl": "https://www.youtube.com/watch?v=wmq3fpTEYSI"
     }
   ],
-  "updatedAt": "2026-10-22T09:50:44.549Z"
+  "updatedAt": "2026-10-22T09:55:37.684Z"
 }
