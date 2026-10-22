@@ -1,0 +1,68 @@
+name: 🔴 실시간 정치 유튜브 라이브 데이터 수집 (무제한 무료 엔진)
+
+on:
+  schedule:
+    # 공개 저장소이므로 5분마다 24시간 내내 1년 내내 돌려도 완전 무료(0원)
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # 수동 실행 트리거
+
+permissions:
+  contents: write
+
+jobs:
+  collect-live:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node.js 세팅
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 패키지 세팅 (ESM 모듈 호환)
+        run: |
+          if [ ! -f package.json ]; then
+            npm init -y
+            npm pkg set type="module"
+          fi
+
+      # ⭐️ [비공개 레포 연동]: judge924/PECODE에서 스크립트 가져오기
+      - name: 비공개 핵심 스크립트 로드
+        uses: actions/checkout@v4
+        with:
+          repository: judge924/PECODE
+          token: ${{ secrets.CORE_ACCESS_TOKEN }}
+          path: temp_private_repo
+
+      # ⭐️ [수집 실행 및 즉시 삭제]: 비공개 스크립트를 가져와 실행 후 소멸
+      - name: 라이브 데이터 수집 및 Supabase 누적
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          # 1. 비공개 레포의 fetchLive.js를 현재 루트로 복사
+          cp temp_private_repo/scripts/fetchLive.js ./fetchLive.js
+          
+          # 2. 임시로 클론했던 비공개 레포 폴더 전체 즉시 영구 삭제
+          rm -rf temp_private_repo
+          
+          # 3. fetchLive.js의 출력 경로(../public/live.json)를 현재 작업 디렉토리의 ./live.json으로 안전 변환
+          sed -i "s|'../public/live.json'|'./live.json'|g" ./fetchLive.js
+          sed -i 's|"../public/live.json"|"./live.json"|g' ./fetchLive.js
+          
+          # 4. 수집기 실행 (Supabase 업서트 및 live.json 생성)
+          node fetchLive.js
+          
+          # 5. 실행 직후 현재 디렉토리의 fetchLive.js 즉시 영구 삭제 (보안 파기)
+          rm -f ./fetchLive.js
+
+      - name: 변경된 live.json 자동 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add live.json
+          git diff --staged --quiet || (git commit -m "chore: live.json 실시간 갱신 ($(date +'%Y-%m-%d %H:%M:%S'))" && git push)
