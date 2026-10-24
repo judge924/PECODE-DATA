@@ -3,61 +3,68 @@
     {
       "channelName": "최한욱TV",
       "title": "조국은 서울시장 보궐선거 패배를 간절히 원했다/김민석, 조희대 탄핵 원래 생각대로 차근차근/사이버 베깅이 사라진다/김정은이 또 부활했다 등/독썰나이트 909화",
-      "viewers": 3990,
+      "viewers": 4172,
       "thumbnail": "https://i.ytimg.com/vi/9hXkM-EA9nA/maxresdefault.jpg?v=6adc9085",
       "liveUrl": "https://www.youtube.com/watch?v=9hXkM-EA9nA"
     },
     {
       "channelName": "뉴탐사 NewTamsa",
       "title": "【261024】[호남뉴탐사 / 단독보도]  오세훈 무죄 보답 조희대 탄핵방패로, 한동훈은 떨떠름 / 보성 수석공원 공사비 30억 어디로, 군수 아들 변호사비로?",
-      "viewers": 2878,
+      "viewers": 2732,
       "thumbnail": "https://i.ytimg.com/vi/cih5-TyqD5U/maxresdefault.jpg?v=6adc9a09",
       "liveUrl": "https://www.youtube.com/watch?v=cih5-TyqD5U"
+    },
+    {
+      "channelName": "백브리핑",
+      "title": "'판결문 보니 헉!' 이게 훨씬 더 심각하다",
+      "viewers": 1152,
+      "thumbnail": "https://i.ytimg.com/vi/B1bGVRRj5ZQ/maxresdefault.jpg?v=6adca135",
+      "liveUrl": "https://www.youtube.com/watch?v=B1bGVRRj5ZQ"
     }
   ],
   "right": [
     {
       "channelName": "신의한수",
       "title": "(긴급뉴스) 김정은 사망! 시징핑, 가짜 김정은 면담 거절! / 2026.10.24",
-      "viewers": 1621,
+      "viewers": 1840,
       "thumbnail": "https://i.ytimg.com/vi/NUKxrHJQnCA/maxresdefault.jpg?v=6adc98fb",
       "liveUrl": "https://www.youtube.com/watch?v=NUKxrHJQnCA"
     },
     {
       "channelName": "BJ톨",
       "title": "장동혁 올공 도착 중대발표! 선관위 특검 운명의 날 임박.(261024)",
-      "viewers": 1466,
+      "viewers": 1401,
       "thumbnail": "https://i.ytimg.com/vi/_MT4wqi0ZEM/sddefault.jpg?v=6adc345c",
       "liveUrl": "https://www.youtube.com/watch?v=_MT4wqi0ZEM"
     },
     {
-      "channelName": "펜앤마이크TV",
-      "title": "[올공 현장] 28일 재검표 앞둔 올림픽공원 현장",
-      "viewers": 782,
-      "thumbnail": "https://i.ytimg.com/vi/6AfUgVSqT-M/maxresdefault.jpg?v=6adc60d5",
-      "liveUrl": "https://www.youtube.com/watch?v=6AfUgVSqT-M"
-    },
-    {
       "channelName": "유재일",
       "title": "[라이브] 김정은 방중. 2027년 전쟁의 해가 다가온다 & 등등",
-      "viewers": 650,
+      "viewers": 836,
       "thumbnail": "https://i.ytimg.com/vi/hPOCEUlcc-Q/maxresdefault.jpg?v=6adbb2e3",
       "liveUrl": "https://www.youtube.com/watch?v=hPOCEUlcc-Q"
     },
     {
+      "channelName": "펜앤마이크TV",
+      "title": "[올공 현장] 28일 재검표 앞둔 올림픽공원 현장",
+      "viewers": 752,
+      "thumbnail": "https://i.ytimg.com/vi/6AfUgVSqT-M/maxresdefault.jpg?v=6adc60d5",
+      "liveUrl": "https://www.youtube.com/watch?v=6AfUgVSqT-M"
+    },
+    {
       "channelName": "망기토TV",
       "title": "[올림픽공원 LIVE] 부정선거 척결하라!!",
-      "viewers": 267,
+      "viewers": 254,
       "thumbnail": "https://i.ytimg.com/vi/KcKBJUDG_Kk/maxresdefault.jpg?v=6adc7bca",
       "liveUrl": "https://www.youtube.com/watch?v=KcKBJUDG_Kk"
     },
     {
       "channelName": "학소",
       "title": "어흐 스튜디오 도착~",
-      "viewers": 12,
-      "thumbnail": "https://i.ytimg.com/vi/0guSSwMaW8w/maxresdefault.jpg",
+      "viewers": 216,
+      "thumbnail": "https://i.ytimg.com/vi/0guSSwMaW8w/maxresdefault.jpg?v=1",
       "liveUrl": "https://www.youtube.com/watch?v=0guSSwMaW8w"
     }
   ],
-  "updatedAt": "2026-10-24T12:45:38.939Z"
+  "updatedAt": "2026-10-24T12:50:42.258Z"
 }
