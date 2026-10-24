@@ -3,15 +3,15 @@
     {
       "channelName": "김두일tv",
       "title": "토요라이브 262회: 김작가에게 무엇이든 물어보세요",
-      "viewers": 2383,
+      "viewers": 2489,
       "thumbnail": "https://i.ytimg.com/vi/tXbiZpvwV1s/maxresdefault.jpg?v=6adc0668",
       "liveUrl": "https://www.youtube.com/watch?v=tXbiZpvwV1s"
     },
     {
       "channelName": "강성범tv",
       "title": "낚시사라이브8탄! 아내님과 동출",
-      "viewers": 1007,
-      "thumbnail": "https://i.ytimg.com/vi/_rQQ2FdgfHA/maxresdefault.jpg?v=e",
+      "viewers": 1065,
+      "thumbnail": "https://i.ytimg.com/vi/_rQQ2FdgfHA/maxresdefault.jpg?v=f",
       "liveUrl": "https://www.youtube.com/watch?v=_rQQ2FdgfHA"
     }
   ],
@@ -19,31 +19,38 @@
     {
       "channelName": "전광훈TV02",
       "title": "[광화문 현장 LIVE] 2026 10.24 국민대회, \"이재명은 하야하라!!\" - 2026.10.24.",
-      "viewers": 1396,
+      "viewers": 1452,
       "thumbnail": "https://i.ytimg.com/vi/a3gnHxOineg/maxresdefault.jpg?v=6adb7089",
       "liveUrl": "https://www.youtube.com/watch?v=a3gnHxOineg"
     },
     {
       "channelName": "김사랑작가tv",
       "title": "오세훈이 살아돌아온 이상 장동혁 지지자들도 조심해야합니다",
-      "viewers": 529,
-      "thumbnail": "https://i.ytimg.com/vi/RWlgHC4KCIg/maxresdefault.jpg?v=c",
+      "viewers": 516,
+      "thumbnail": "https://i.ytimg.com/vi/RWlgHC4KCIg/maxresdefault.jpg?v=d",
       "liveUrl": "https://www.youtube.com/watch?v=RWlgHC4KCIg"
     },
     {
       "channelName": "학소",
       "title": "부산에 왔어요~!",
-      "viewers": 461,
-      "thumbnail": "https://i.ytimg.com/vi/JW0SaKBtfhM/maxresdefault.jpg?v=8",
+      "viewers": 458,
+      "thumbnail": "https://i.ytimg.com/vi/JW0SaKBtfhM/maxresdefault.jpg?v=9",
       "liveUrl": "https://www.youtube.com/watch?v=JW0SaKBtfhM"
+    },
+    {
+      "channelName": "1waynews 한길뉴스",
+      "title": "[LIVE] UN의날, 전한길이 부산으로 간 이유 I 10월24(토) I 유엔군 참전 기념탑 광장",
+      "viewers": 315,
+      "thumbnail": "https://i.ytimg.com/vi/8ee8aGGpECw/maxresdefault.jpg?v=6adc275c",
+      "liveUrl": "https://www.youtube.com/watch?v=8ee8aGGpECw"
     },
     {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[토요🔴특집] 이준석 “한동훈은 천박한 법 기술자?!\" / 한동훈 폭발! 미성년 아들 학폭?? 딸 갖고 개떼처럼 달려들더니!! ",
-      "viewers": 119,
+      "viewers": 103,
       "thumbnail": "https://i.ytimg.com/vi/zAqR_2GvpPU/maxresdefault.jpg?v=6adbd555",
       "liveUrl": "https://www.youtube.com/watch?v=zAqR_2GvpPU"
     }
   ],
-  "updatedAt": "2026-10-24T03:50:38.791Z"
+  "updatedAt": "2026-10-24T03:55:34.494Z"
 }
