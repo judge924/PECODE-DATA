@@ -3,30 +3,30 @@
     {
       "channelName": "뉴스한땀",
       "title": "[주말 #투목쇼] 유시민의 신라젠 컴백? 이번엔 최전방 공격수 최진봉이 맡는다? 김용민의 화려한 드리블!! #최진봉 #김용민 #국대토크(261025)",
-      "viewers": 519,
+      "viewers": 516,
       "thumbnail": "https://i.ytimg.com/vi/tIB7xcec7qo/maxresdefault.jpg?v=6add3dbb",
       "liveUrl": "https://www.youtube.com/watch?v=tIB7xcec7qo"
     }
   ],
   "right": [
     {
-      "channelName": "펜앤마이크TV",
-      "title": "[🚨주진우 긴급] 국회의원 선거도 득표 허위 입력 적발 긴급 기자회견",
-      "viewers": 1192,
-      "thumbnail": "https://i.ytimg.com/vi/rFzox8woe4U/maxresdefault.jpg?v=6add583d",
-      "liveUrl": "https://www.youtube.com/watch?v=rFzox8woe4U"
-    },
-    {
       "channelName": "신의한수",
       "title": "(긴급뉴스) 김정은 사망! 사진합성 터졌다! / 2026.10.25",
-      "viewers": 1161,
+      "viewers": 1207,
       "thumbnail": "https://i.ytimg.com/vi/n1vsqhpkBeE/maxresdefault.jpg?v=6add6a9e",
       "liveUrl": "https://www.youtube.com/watch?v=n1vsqhpkBeE"
     },
     {
+      "channelName": "펜앤마이크TV",
+      "title": "[🚨주진우 긴급] 국회의원 선거도 득표 허위 입력 적발 긴급 기자회견",
+      "viewers": 1191,
+      "thumbnail": "https://i.ytimg.com/vi/rFzox8woe4U/maxresdefault.jpg?v=6add583d",
+      "liveUrl": "https://www.youtube.com/watch?v=rFzox8woe4U"
+    },
+    {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 대한민국의 영웅",
-      "viewers": 188,
+      "viewers": 193,
       "thumbnail": "https://i.ytimg.com/vi/t3hrB2AzyC4/maxresdefault.jpg?v=6add7810",
       "liveUrl": "https://www.youtube.com/watch?v=t3hrB2AzyC4"
     },
@@ -38,5 +38,5 @@
       "liveUrl": "https://www.youtube.com/watch?v=QHZM9B8kvmI"
     }
   ],
-  "updatedAt": "2026-10-25T04:01:02.273Z"
+  "updatedAt": "2026-10-25T04:05:35.296Z"
 }
