@@ -1,13 +1,21 @@
 {
-  "left": [],
+  "left": [
+    {
+      "channelName": "띵굴TV",
+      "title": "[261027] 룰라의 역전승 … 한국에 시사하는 것",
+      "viewers": 39,
+      "thumbnail": "https://i.ytimg.com/vi/dOoZpZ0BlWA/maxresdefault.jpg?v=6adfbc1f",
+      "liveUrl": "https://www.youtube.com/watch?v=dOoZpZ0BlWA"
+    }
+  ],
   "right": [
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 새벽 예배 (창조로 나타난 그리스도 (넷째날)) - 이양우 목사 2026.10.27.",
-      "viewers": 370,
+      "viewers": 334,
       "thumbnail": "https://i.ytimg.com/vi/Nlhr9OEoDgE/maxresdefault.jpg?v=6adf64b9",
       "liveUrl": "https://www.youtube.com/watch?v=Nlhr9OEoDgE"
     }
   ],
-  "updatedAt": "2026-10-26T20:45:39.591Z"
+  "updatedAt": "2026-10-26T20:50:45.291Z"
 }
