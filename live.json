@@ -1,35 +1,28 @@
 {
   "left": [
     {
-      "channelName": "뉴스한땀",
-      "title": "[야간 #투목쇼] 리디아 고, 주진우에 법정대응! '황제레슨? 당일 후원사 일정 소화 중이었다!'  #최진봉 #김용민 #국대토크(261026)",
-      "viewers": 338,
-      "thumbnail": "https://i.ytimg.com/vi/aCQ5geEneMQ/maxresdefault.jpg?v=6adf3cb4",
-      "liveUrl": "https://www.youtube.com/watch?v=aCQ5geEneMQ"
-    },
-    {
       "channelName": "시사의품격",
       "title": "[이슈브리핑] '구조적 다수' 국민소득 4만불 시대 ; 진영 논리에서 벗어나야 미래가 보인다 [2026.10.26]",
-      "viewers": 252,
+      "viewers": 395,
       "thumbnail": "https://i.ytimg.com/vi/MPUgYNQvPvY/maxresdefault.jpg?v=6adf7cfa",
       "liveUrl": "https://www.youtube.com/watch?v=MPUgYNQvPvY"
+    },
+    {
+      "channelName": "뉴스한땀",
+      "title": "[야간 #투목쇼] 리디아 고, 주진우에 법정대응! '황제레슨? 당일 후원사 일정 소화 중이었다!'  #최진봉 #김용민 #국대토크(261026)",
+      "viewers": 332,
+      "thumbnail": "https://i.ytimg.com/vi/aCQ5geEneMQ/maxresdefault.jpg?v=6adf3cb4",
+      "liveUrl": "https://www.youtube.com/watch?v=aCQ5geEneMQ"
     }
   ],
   "right": [
     {
-      "channelName": "양꾼TV",
-      "title": "[ 10월 26일 ] 이진숙, 비토의 목소리가 터졌다 / 28일 올공의 결사항쟁",
-      "viewers": 779,
-      "thumbnail": "https://i.ytimg.com/vi/W4x7lPtlYEE/maxresdefault.jpg?v=6adf65c7",
-      "liveUrl": "https://www.youtube.com/watch?v=W4x7lPtlYEE"
-    },
-    {
       "channelName": "젊은시각",
       "title": "[🔴LIVE] 10월27일 올림픽공원 새벽반 ㅣ 분위기가 좀..",
-      "viewers": 189,
+      "viewers": 186,
       "thumbnail": "https://i.ytimg.com/vi/IVHvpNjK7YU/maxresdefault.jpg?v=6adf6a86",
       "liveUrl": "https://www.youtube.com/watch?v=IVHvpNjK7YU"
     }
   ],
-  "updatedAt": "2026-10-26T16:40:41.452Z"
+  "updatedAt": "2026-10-26T16:45:41.091Z"
 }
