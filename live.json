@@ -3,18 +3,26 @@
     {
       "channelName": "시사의품격",
       "title": "[이슈브리핑] '구조적 다수' 국민소득 4만불 시대 ; 진영 논리에서 벗어나야 미래가 보인다 [2026.10.26]",
-      "viewers": 1999,
+      "viewers": 2030,
       "thumbnail": "https://i.ytimg.com/vi/MPUgYNQvPvY/maxresdefault.jpg?v=6adf7cfa",
       "liveUrl": "https://www.youtube.com/watch?v=MPUgYNQvPvY"
     },
     {
       "channelName": "뉴스한땀",
       "title": "[야간 #투목쇼] 리디아 고, 주진우에 법정대응! '황제레슨? 당일 후원사 일정 소화 중이었다!'  #최진봉 #김용민 #국대토크(261026)",
-      "viewers": 316,
+      "viewers": 331,
       "thumbnail": "https://i.ytimg.com/vi/aCQ5geEneMQ/maxresdefault.jpg?v=6adf3cb4",
       "liveUrl": "https://www.youtube.com/watch?v=aCQ5geEneMQ"
     }
   ],
-  "right": [],
-  "updatedAt": "2026-10-26T19:45:39.278Z"
+  "right": [
+    {
+      "channelName": "전광훈TV02",
+      "title": "[LIVE] 나라사랑 새벽 예배 (창조로 나타난 그리스도 (넷째날)) - 이양우 목사 2026.10.27.",
+      "viewers": 40,
+      "thumbnail": "https://i.ytimg.com/vi/Nlhr9OEoDgE/maxresdefault.jpg?v=6adf64b9",
+      "liveUrl": "https://www.youtube.com/watch?v=Nlhr9OEoDgE"
+    }
+  ],
+  "updatedAt": "2026-10-26T19:50:40.170Z"
 }
