@@ -3,21 +3,21 @@
     {
       "channelName": "이동형TV",
       "title": "[이동형의 촉] 10/26 생방송",
-      "viewers": 4921,
+      "viewers": 6547,
       "thumbnail": "https://i.ytimg.com/vi/OPp_33RnxKk/maxresdefault.jpg?v=6adf2127",
       "liveUrl": "https://www.youtube.com/watch?v=OPp_33RnxKk"
     },
     {
       "channelName": "박시영TV",
       "title": "[LIVE] 룰라는 이겼는데... 우리는? / 오세훈 무죄가 민주당에 미칠 영향 (ft. 박규환, 김영환, 이혜연)",
-      "viewers": 4210,
+      "viewers": 5802,
       "thumbnail": "https://i.ytimg.com/vi/uP_esxAwbHw/maxresdefault.jpg?v=6adf1cc5",
       "liveUrl": "https://www.youtube.com/watch?v=uP_esxAwbHw"
     },
     {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
       "title": "[주기자라이브] l 대선후보 오세훈? 아직 3심 남았다 (김예니 / 채윤태,유선희) l 2026년 10월 26일 (월)",
-      "viewers": 2178,
+      "viewers": 2924,
       "thumbnail": "https://i.ytimg.com/vi/ZybE4pAO_Hk/maxresdefault.jpg?v=6adf2017",
       "liveUrl": "https://www.youtube.com/watch?v=ZybE4pAO_Hk"
     }
@@ -26,52 +26,59 @@
     {
       "channelName": "펜앤마이크TV",
       "title": "주진우 영상 속 남자는 누구? | 청와대-민주당 화들짝...보도하면 법적조치 | 北자주포 전진배치...대남 확성기 방송임박? [이것이 뉴스다]",
-      "viewers": 5859,
+      "viewers": 5739,
       "thumbnail": "https://i.ytimg.com/vi/onrXRqRFbJ8/maxresdefault.jpg?v=6adf0f38",
       "liveUrl": "https://www.youtube.com/watch?v=onrXRqRFbJ8"
     },
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.10.26",
-      "viewers": 5479,
+      "viewers": 5501,
       "thumbnail": "https://i.ytimg.com/vi/rOtKjRWcSTo/maxresdefault.jpg?v=6adf1be9",
       "liveUrl": "https://www.youtube.com/watch?v=rOtKjRWcSTo"
     },
     {
       "channelName": "한길록 Hangilog",
       "title": "10.26일 올림픽공원 라이브",
-      "viewers": 1311,
+      "viewers": 1675,
       "thumbnail": "https://i.ytimg.com/vi/Jik9nK3HR7U/maxresdefault.jpg?v=6ad87ac7",
       "liveUrl": "https://www.youtube.com/watch?v=Jik9nK3HR7U"
     },
     {
       "channelName": "가로세로연구소",
       "title": "벌써 다섯 달",
-      "viewers": 489,
+      "viewers": 785,
       "thumbnail": "https://i.ytimg.com/vi/M_41Djccw9c/maxresdefault.jpg?v=6adeecd2",
       "liveUrl": "https://www.youtube.com/watch?v=M_41Djccw9c"
     },
     {
       "channelName": "서울미디어",
       "title": "[🔴김혜인 앵커의 시사 분석!] 박정희 대통령 추모식 47주기 리뷰! 방문해주신 분들 고맙습니다!!",
-      "viewers": 291,
+      "viewers": 436,
       "thumbnail": "https://i.ytimg.com/vi/dB9guroOPO8/maxresdefault.jpg?v=6adf24bc",
       "liveUrl": "https://www.youtube.com/watch?v=dB9guroOPO8"
     },
     {
       "channelName": "만사혁통:공구리1호",
       "title": "[올공라이브] 모여라, 올공🔥",
-      "viewers": 205,
+      "viewers": 282,
       "thumbnail": "https://i.ytimg.com/vi/HDwyCw3Tcgw/maxresdefault.jpg?v=6adf20e6",
       "liveUrl": "https://www.youtube.com/watch?v=HDwyCw3Tcgw"
     },
     {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 10월26일 올공",
-      "viewers": 52,
+      "viewers": 90,
       "thumbnail": "https://i.ytimg.com/vi/Ni_-0HrhbHI/maxresdefault.jpg?v=6adf24bf",
       "liveUrl": "https://www.youtube.com/watch?v=Ni_-0HrhbHI"
+    },
+    {
+      "channelName": "전광훈TV02",
+      "title": "[LIVE] 나라사랑 저녁 예배 (하늘 문을 열자!) - 백승열 목사 2026.10.26.",
+      "viewers": 33,
+      "thumbnail": "https://i.ytimg.com/vi/FLEF52L8IKo/maxresdefault.jpg?v=6adf146f",
+      "liveUrl": "https://www.youtube.com/watch?v=FLEF52L8IKo"
     }
   ],
-  "updatedAt": "2026-10-26T10:05:35.545Z"
+  "updatedAt": "2026-10-26T10:10:40.661Z"
 }
