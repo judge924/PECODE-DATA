@@ -3,33 +3,47 @@
     {
       "channelName": "띵굴TV",
       "title": "[261029] 오늘 ‘10.29 이태원 참사’ 4주기 … 대한민국은 안전한가",
-      "viewers": 305,
+      "viewers": 551,
       "thumbnail": "https://i.ytimg.com/vi/DRWpWJcOkcM/maxresdefault.jpg?v=6ae25f15",
       "liveUrl": "https://www.youtube.com/watch?v=DRWpWJcOkcM"
+    },
+    {
+      "channelName": "뉴스한땀",
+      "title": "[2026년 10월 29일] 이재명 대통령 '책임전가' 보도, SNS로 반박 #새벽브리핑, 오늘의 뉴스- 어제부터 읽다!",
+      "viewers": 28,
+      "thumbnail": "https://i.ytimg.com/vi/su9MNpv9uHc/maxresdefault.jpg?v=6ae2599a",
+      "liveUrl": "https://www.youtube.com/watch?v=su9MNpv9uHc"
     }
   ],
   "right": [
     {
       "channelName": "한길록 Hangilog",
       "title": "올공 특검 실시간 라이브",
-      "viewers": 2159,
+      "viewers": 2178,
       "thumbnail": "https://i.ytimg.com/vi/fQ4fR5DyV5U/maxresdefault.jpg?v=6ae20be3",
       "liveUrl": "https://www.youtube.com/watch?v=fQ4fR5DyV5U"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 새벽 예배 (감사로 옥문을 열라) - 황선주 목사 2026.10.29.",
-      "viewers": 315,
+      "viewers": 293,
       "thumbnail": "https://i.ytimg.com/vi/prK6U-S0mLg/maxresdefault.jpg?v=6ae2156a",
       "liveUrl": "https://www.youtube.com/watch?v=prK6U-S0mLg"
     },
     {
+      "channelName": "박상규의 직설",
+      "title": "박상규의 직설 오전 라이브 (10월 29일)",
+      "viewers": 124,
+      "thumbnail": "https://i.ytimg.com/vi/CQT6uXYNBns/maxresdefault.jpg?v=6ae26245",
+      "liveUrl": "https://www.youtube.com/watch?v=CQT6uXYNBns"
+    },
+    {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 다시 올공, 아직 끝나지 않았기에",
-      "viewers": 12,
+      "viewers": 23,
       "thumbnail": "https://i.ytimg.com/vi/BVaP4R7nt4M/maxresdefault.jpg?v=6ae25650",
       "liveUrl": "https://www.youtube.com/watch?v=BVaP4R7nt4M"
     }
   ],
-  "updatedAt": "2026-10-28T20:55:38.429Z"
+  "updatedAt": "2026-10-28T21:00:59.526Z"
 }
