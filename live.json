@@ -1,30 +1,23 @@
 {
   "left": [
     {
-      "channelName": "박시영TV",
-      "title": "[LIVE] 유시민 작가 출연! / 대통령의 노동 관련 발언 파장 (ft. 유시민, 민동기, 장인수, 이혜연)",
-      "viewers": 109628,
-      "thumbnail": "https://i.ytimg.com/vi/Me-KxZJWs4Y/maxresdefault.jpg?v=6ae1bd81",
-      "liveUrl": "https://www.youtube.com/watch?v=Me-KxZJWs4Y"
-    },
-    {
       "channelName": "뉴탐사 NewTamsa",
       "title": "【261028】[단독인터뷰/민주당TF 협조 신천지 탈교자] “당원명부 비교결과 신천지 5만 6천명 나왔다” “1000명 가입시킨 사람도 3명, 순천은 6천~7천명”",
-      "viewers": 7158,
+      "viewers": 7310,
       "thumbnail": "https://i.ytimg.com/vi/a96bs3upnFE/maxresdefault.jpg?v=6ae1d43d",
       "liveUrl": "https://www.youtube.com/watch?v=a96bs3upnFE"
     },
     {
       "channelName": "열린공감TV",
       "title": "[열공이슈] 조희대 탄핵, 실패하면 누가 웃을까? 조희대 탄핵 뒤에 숨은 계산!",
-      "viewers": 1542,
+      "viewers": 1534,
       "thumbnail": "https://i.ytimg.com/vi/WOdA8DGz5BI/maxresdefault.jpg?v=6ae1d9d1",
       "liveUrl": "https://www.youtube.com/watch?v=WOdA8DGz5BI"
     },
     {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
       "title": "[정준희의 논] 극우는 어떻게 세력을 키우는가? 정치·종교·언론이 만든 극단주의의 생태계ㅣ변상욱 대기자ㅣ2026년 10월 28일 수요일",
-      "viewers": 1170,
+      "viewers": 1473,
       "thumbnail": "https://i.ytimg.com/vi/XpkiN8Hxh-Q/maxresdefault.jpg?v=6ae1d671",
       "liveUrl": "https://www.youtube.com/watch?v=XpkiN8Hxh-Q"
     }
@@ -33,66 +26,80 @@
     {
       "channelName": "1waynews 한길뉴스",
       "title": "[LIVE] [올공 공개검증 특집] ”촬영불허에 벽돌투표지까지 쏟아졌다“ I [한길샘논평] 올공 공개검증 14시간째 후기 I 보우소나루 불복 취소와 대한민국, 뉴욕대 이석원 교수",
-      "viewers": 7455,
+      "viewers": 7052,
       "thumbnail": "https://i.ytimg.com/vi/PlHgkekpCPA/maxresdefault.jpg?v=6ae1e39c",
       "liveUrl": "https://www.youtube.com/watch?v=PlHgkekpCPA"
     },
     {
       "channelName": "정의구현 박완석",
       "title": "현장취재) 선관위특검 발칵! 국힘 참관인 '사기검표' 양심선언 터졌다! 올림픽공원 부글부글, 도대체 무슨 짓을 하는거냐?!",
-      "viewers": 3826,
+      "viewers": 4186,
       "thumbnail": "https://i.ytimg.com/vi/3b7d3CZ-ymI/maxresdefault.jpg?v=6ae1d89b",
       "liveUrl": "https://www.youtube.com/watch?v=3b7d3CZ-ymI"
     },
     {
       "channelName": "반공사관학교",
       "title": "[안정권의 독한썰방] 국가영웅 노제한 라이브 썰방을 시작합니다. (주제 + 내용 태클시 사형)",
-      "viewers": 2432,
+      "viewers": 2493,
       "thumbnail": "https://i.ytimg.com/vi/kQeJTMwIQPc/maxresdefault.jpg?v=6adf7279",
       "liveUrl": "https://www.youtube.com/watch?v=kQeJTMwIQPc"
     },
     {
       "channelName": "신의한수",
       "title": "(긴급뉴스) 이재명의 일베 사랑 난리났다 / 2026.10.28",
-      "viewers": 1961,
+      "viewers": 2153,
       "thumbnail": "https://i.ytimg.com/vi/hGH6WNBc0_Y/maxresdefault.jpg?v=6ae1e39f",
       "liveUrl": "https://www.youtube.com/watch?v=hGH6WNBc0_Y"
     },
     {
       "channelName": "문갑식의 진짜 TV",
       "title": "부정선거 타령하던 국힘 '정치 박수무당' 철저히 단죄해야! 정청래 이어 진성준 국회 국방위원장도 美 비자 발급 거부! \"선조는 망했고 정조는 흥했다\"는 천박한 역사인식!",
-      "viewers": 1318,
-      "thumbnail": "https://i.ytimg.com/vi/meqpeYqOp7w/maxresdefault.jpg?v=a",
+      "viewers": 1344,
+      "thumbnail": "https://i.ytimg.com/vi/meqpeYqOp7w/maxresdefault.jpg?v=b",
       "liveUrl": "https://www.youtube.com/watch?v=meqpeYqOp7w"
     },
     {
       "channelName": "망기토TV",
       "title": "[올림픽공원LIVE] 선관위 특검, 벽돌 투표지 무더기 난리났다",
-      "viewers": 950,
+      "viewers": 1041,
       "thumbnail": "https://i.ytimg.com/vi/BNRxOQOjjDM/maxresdefault.jpg?v=6ae19adb",
       "liveUrl": "https://www.youtube.com/watch?v=BNRxOQOjjDM"
     },
     {
+      "channelName": "주진우의 이슈해설",
+      "title": "[현장 LIVE] 주진우 참관 막은 특검과 민주당",
+      "viewers": 859,
+      "thumbnail": "https://i.ytimg.com/vi/vye32XULiWQ/maxresdefault.jpg?v=6ae1f010",
+      "liveUrl": "https://www.youtube.com/watch?v=vye32XULiWQ"
+    },
+    {
       "channelName": "김사랑작가tv",
       "title": "이태한 선관위 특검 투표용지 공개검증# 생중계#올공 #장동혁 #주진우 #김태규 #부정선거 #CCTV #김혜경#황제골프2",
-      "viewers": 761,
-      "thumbnail": "https://i.ytimg.com/vi/IGh1KzoOf-g/maxresdefault.jpg?v=57",
+      "viewers": 829,
+      "thumbnail": "https://i.ytimg.com/vi/IGh1KzoOf-g/maxresdefault.jpg?v=58",
       "liveUrl": "https://www.youtube.com/watch?v=IGh1KzoOf-g"
     },
     {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 역사의 한복판에 서있습니다. 무엇이 두려워 생중계를 못하는겁니까?",
-      "viewers": 347,
+      "viewers": 334,
       "thumbnail": "https://i.ytimg.com/vi/rmoFPiC3hc4/maxresdefault.jpg?v=6ae1e09b",
       "liveUrl": "https://www.youtube.com/watch?v=rmoFPiC3hc4"
     },
     {
+      "channelName": "노빠꾸프렌즈",
+      "title": "[🔴ON AIR] 147일 만에 뚜껑 땄다! 대량 벽돌 투표지 쏟아져 나왔다",
+      "viewers": 91,
+      "thumbnail": "https://i.ytimg.com/vi/ifyYFB9sRbY/maxresdefault.jpg?v=6ae1efcc",
+      "liveUrl": "https://www.youtube.com/watch?v=ifyYFB9sRbY"
+    },
+    {
       "channelName": "도련님열사 킬문tv4",
       "title": "#올공잠실혁명#247만표 검증 #무더기 벽돌 투표지 #아직도 생중계",
-      "viewers": 46,
+      "viewers": 33,
       "thumbnail": "https://i.ytimg.com/vi/i6vnCaFBzSc/sddefault.jpg?v=6ae1e465",
       "liveUrl": "https://www.youtube.com/watch?v=i6vnCaFBzSc"
     }
   ],
-  "updatedAt": "2026-10-28T12:50:43.606Z"
+  "updatedAt": "2026-10-28T12:55:40.467Z"
 }
