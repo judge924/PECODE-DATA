@@ -1,35 +1,27 @@
 {
-  "left": [
-    {
-      "channelName": "[공식] 새날",
-      "title": "[생방송 재밌는 정치시사] 윤석열 사형 구형 / SNS 직접소통 목적의 주객전도 / 유시민 맞는 말과 틀린 말 / 장동혁 올공 지키기 등 + 한민수 의원",
-      "viewers": 2543,
-      "thumbnail": "https://i.ytimg.com/vi/_MsX856ZklA/maxresdefault.jpg?v=6ae2d078",
-      "liveUrl": "https://www.youtube.com/watch?v=_MsX856ZklA"
-    }
-  ],
+  "left": [],
   "right": [
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.10.29",
-      "viewers": 3154,
+      "viewers": 3607,
       "thumbnail": "https://i.ytimg.com/vi/n8kVLAgPc8Q/maxresdefault.jpg?v=6ae30835",
       "liveUrl": "https://www.youtube.com/watch?v=n8kVLAgPc8Q"
     },
     {
       "channelName": "위풍당당이진숙",
       "title": "[🔴올공에서 진실을 찾다] ‘국민’을 무시한 선관위! '국민'의 눈을 가린 특검! 🔥",
-      "viewers": 514,
+      "viewers": 565,
       "thumbnail": "https://i.ytimg.com/vi/8hHMiIQPbu8/maxresdefault.jpg?v=6ae30b11",
       "liveUrl": "https://www.youtube.com/watch?v=8hHMiIQPbu8"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "올림픽공원 현장 생중계",
-      "viewers": 83,
+      "viewers": 144,
       "thumbnail": "https://i.ytimg.com/vi/CAZFLuGT50o/maxresdefault.jpg?v=6ae30073",
       "liveUrl": "https://www.youtube.com/watch?v=CAZFLuGT50o"
     }
   ],
-  "updatedAt": "2026-10-29T09:45:41.871Z"
+  "updatedAt": "2026-10-29T09:50:39.096Z"
 }
