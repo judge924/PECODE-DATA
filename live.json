@@ -3,68 +3,89 @@
     {
       "channelName": "박시영TV",
       "title": "[LIVE] 2026 박시영TV 정치수련회 2부",
-      "viewers": 9546,
+      "viewers": 10199,
       "thumbnail": "https://i.ytimg.com/vi/dKwugKqd0hM/maxresdefault.jpg?v=6ae5ab7d",
       "liveUrl": "https://www.youtube.com/watch?v=dKwugKqd0hM"
     },
     {
       "channelName": "김진애TV",
       "title": "[진애형님의 왜!] 유시민-윤석열의 소음 민폐, 왜! 느낌표...",
-      "viewers": 1745,
+      "viewers": 1694,
       "thumbnail": "https://i.ytimg.com/vi/paIDEHjcCY0/maxresdefault.jpg?v=6ae5b8b0",
       "liveUrl": "https://www.youtube.com/watch?v=paIDEHjcCY0"
     },
     {
       "channelName": "신인규의 시대정신",
       "title": "[신인규의 라이브 밥상] 몰락해가는 유시민 전 장관..?!",
-      "viewers": 875,
+      "viewers": 843,
       "thumbnail": "https://i.ytimg.com/vi/FI32AV-M3OM/maxresdefault.jpg?v=6ae5d045",
       "liveUrl": "https://www.youtube.com/watch?v=FI32AV-M3OM"
     },
     {
-      "channelName": "시사의품격",
-      "title": "[공연실황] 11번째 살롱 콘서트 (바리톤 윤선희 편)",
-      "viewers": 368,
-      "thumbnail": "https://i.ytimg.com/vi/-ov_7Jqj8Ac/maxresdefault.jpg?v=11",
-      "liveUrl": "https://www.youtube.com/watch?v=-ov_7Jqj8Ac"
-    },
-    {
       "channelName": "최한욱TV",
       "title": "정청래 내년 1월 탈당? 유신발 압수수색 준비?/2차 합당쿠데타 시작한 털래반/김민석 사퇴하고 통합전대?/신발 파는 유신발의 허세 등/독썰나이트 915화",
-      "viewers": 165,
+      "viewers": 715,
       "thumbnail": "https://i.ytimg.com/vi/Gx5v3K_FeAo/maxresdefault.jpg?v=6ae5cb9c",
       "liveUrl": "https://www.youtube.com/watch?v=Gx5v3K_FeAo"
+    },
+    {
+      "channelName": "뉴탐사 NewTamsa",
+      "title": "【261031】[ 호남뉴탐사/심층보도] 李대통령 ‘펨코’ 승부수에 허찔린 국힘, 20대 지지율 출렁 | 장세일 해남 원정골프 입틀막 소송, 자기들끼리도 말 안맞아",
+      "viewers": 307,
+      "thumbnail": "https://i.ytimg.com/vi/Kx6UAV8B2jU/maxresdefault.jpg?v=6ae5c991",
+      "liveUrl": "https://www.youtube.com/watch?v=Kx6UAV8B2jU"
+    },
+    {
+      "channelName": "시사의품격",
+      "title": "[공연실황] 11번째 살롱 콘서트 (바리톤 윤선희 편)",
+      "viewers": 259,
+      "thumbnail": "https://i.ytimg.com/vi/-ov_7Jqj8Ac/maxresdefault.jpg?v=13",
+      "liveUrl": "https://www.youtube.com/watch?v=-ov_7Jqj8Ac"
     }
   ],
   "right": [
     {
       "channelName": "BJ톨",
       "title": "올공 강제 철거? 투표함 탈취 야반도주! 장동혁 향후 전략! 올공 심야 현장취재.(261031)",
-      "viewers": 2815,
+      "viewers": 2785,
       "thumbnail": "https://i.ytimg.com/vi/k2cVZMe6umM/sddefault.jpg?v=6ae59a58",
       "liveUrl": "https://www.youtube.com/watch?v=k2cVZMe6umM"
     },
     {
       "channelName": "정의구현 박완석",
       "title": "현장취재) 올림픽공원 텐트와 천막 철거 중... '선관위 특검으로 쳐들어가자' 민심 부글부글!!",
-      "viewers": 1146,
+      "viewers": 1169,
       "thumbnail": "https://i.ytimg.com/vi/Az4tyEFVR68/maxresdefault.jpg?v=6ae59d18",
       "liveUrl": "https://www.youtube.com/watch?v=Az4tyEFVR68"
     },
     {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 잊지 못할거에요",
-      "viewers": 413,
+      "viewers": 486,
       "thumbnail": "https://i.ytimg.com/vi/OK4RUrE0CDk/maxresdefault.jpg?v=6ae5afbe",
       "liveUrl": "https://www.youtube.com/watch?v=OK4RUrE0CDk"
     },
     {
       "channelName": "김사랑작가tv",
       "title": "소통방송#장동혁#한동훈#오세훈#올림픽공원#선관위 특검#부정선거#김혜경 황제골프",
-      "viewers": 366,
-      "thumbnail": "https://i.ytimg.com/vi/JwpKpqjhwgM/maxresdefault.jpg?v=19",
+      "viewers": 345,
+      "thumbnail": "https://i.ytimg.com/vi/JwpKpqjhwgM/maxresdefault.jpg?v=1a",
       "liveUrl": "https://www.youtube.com/watch?v=JwpKpqjhwgM"
+    },
+    {
+      "channelName": "정법전TV",
+      "title": "길을 잃은 민주당 - 10월 31일 정법전TV LIVE",
+      "viewers": 121,
+      "thumbnail": "https://i.ytimg.com/vi/AvRIWuxnPFU/maxresdefault.jpg?v=6ae5d4f0",
+      "liveUrl": "https://www.youtube.com/watch?v=AvRIWuxnPFU"
+    },
+    {
+      "channelName": "노빠꾸프렌즈",
+      "title": "[🔴ON AIR_역시!!] 김소연이 해냈다!!! 민주당 단체장들 줄줄이 송치!!!",
+      "viewers": 34,
+      "thumbnail": "https://i.ytimg.com/vi/YcuW8pGzv_8/maxresdefault.jpg?v=6ae5d1b5",
+      "liveUrl": "https://www.youtube.com/watch?v=YcuW8pGzv_8"
     }
   ],
-  "updatedAt": "2026-10-31T11:55:34.344Z"
+  "updatedAt": "2026-10-31T12:01:06.104Z"
 }
