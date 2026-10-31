@@ -3,61 +3,61 @@
     {
       "channelName": "김두일tv",
       "title": "토요라이브 263회: 김작가에게 무엇이든 물어보세요",
-      "viewers": 1842,
+      "viewers": 1804,
       "thumbnail": "https://i.ytimg.com/vi/kkI4PiZzPys/maxresdefault.jpg?v=6ae547ef",
       "liveUrl": "https://www.youtube.com/watch?v=kkI4PiZzPys"
     },
     {
       "channelName": "강성범tv",
       "title": "[낚시사 9탄] 라이브! 큰 너울에 큰 갑이!",
-      "viewers": 372,
+      "viewers": 438,
       "thumbnail": "https://i.ytimg.com/vi/d3QpLFjV7GI/maxresdefault.jpg?v=6ae54f87",
       "liveUrl": "https://www.youtube.com/watch?v=d3QpLFjV7GI"
     },
     {
       "channelName": "뉴스한땀",
       "title": "[야간 #투목쇼] 김엄마의 한판 정리! 김어준-양정철-유시민의 역사, 합당 후 대선후보 조국 원한는 거 다 안다!! #최진봉 #김용민 #국대토크(261030)",
-      "viewers": 261,
+      "viewers": 252,
       "thumbnail": "https://i.ytimg.com/vi/6CUwkPLpzvs/maxresdefault.jpg?v=6ae4a513",
       "liveUrl": "https://www.youtube.com/watch?v=6CUwkPLpzvs"
     }
   ],
   "right": [
     {
-      "channelName": "전광훈TV02",
-      "title": "[광화문 현장 LIVE] 2026 10.31 국민대회, \"이재명은 하야하라!!\" - 2026.10.31.",
-      "viewers": 1626,
-      "thumbnail": "https://i.ytimg.com/vi/Y5kEXIrIVQg/maxresdefault.jpg?v=6ae4d362",
-      "liveUrl": "https://www.youtube.com/watch?v=Y5kEXIrIVQg"
-    },
-    {
       "channelName": "BJ톨",
       "title": "장동혁 신동욱 김태규 윤용근 총출동! 총선 핵심 충청도 골든크로스.(261031)",
-      "viewers": 1421,
+      "viewers": 1775,
       "thumbnail": "https://i.ytimg.com/vi/5xHFODjYNIM/sddefault.jpg?v=6ae53d87",
       "liveUrl": "https://www.youtube.com/watch?v=5xHFODjYNIM"
     },
     {
-      "channelName": "김사랑작가tv",
-      "title": "소통방송#장동혁#한동훈#오세훈#올림픽공원#선관위 특검#부정선거",
-      "viewers": 530,
-      "thumbnail": "https://i.ytimg.com/vi/XfktcpHnPJs/maxresdefault.jpg?v=1f",
-      "liveUrl": "https://www.youtube.com/watch?v=XfktcpHnPJs"
+      "channelName": "전광훈TV02",
+      "title": "[광화문 현장 LIVE] 2026 10.31 국민대회, \"이재명은 하야하라!!\" - 2026.10.31.",
+      "viewers": 1695,
+      "thumbnail": "https://i.ytimg.com/vi/Y5kEXIrIVQg/maxresdefault.jpg?v=6ae4d362",
+      "liveUrl": "https://www.youtube.com/watch?v=Y5kEXIrIVQg"
     },
     {
-      "channelName": "뉴스엔진 정답은없다",
-      "title": "[토요🔴특집] 정치는 친분 아닌 명분으로 하는 것! 간 보는 오세훈과 선 그은 이준석 한 방 먹었다!!",
-      "viewers": 68,
-      "thumbnail": "https://i.ytimg.com/vi/gqwl5veVi6Q/maxresdefault.jpg?v=6ae52476",
-      "liveUrl": "https://www.youtube.com/watch?v=gqwl5veVi6Q"
+      "channelName": "김사랑작가tv",
+      "title": "소통방송#장동혁#한동훈#오세훈#올림픽공원#선관위 특검#부정선거",
+      "viewers": 515,
+      "thumbnail": "https://i.ytimg.com/vi/XfktcpHnPJs/maxresdefault.jpg?v=20",
+      "liveUrl": "https://www.youtube.com/watch?v=XfktcpHnPJs"
     },
     {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 이재명 재판재개 목소리는 계속되어야합니다.",
-      "viewers": 68,
+      "viewers": 122,
       "thumbnail": "https://i.ytimg.com/vi/0qaLb55dOLQ/maxresdefault.jpg?v=6ae56e68",
       "liveUrl": "https://www.youtube.com/watch?v=0qaLb55dOLQ"
+    },
+    {
+      "channelName": "뉴스엔진 정답은없다",
+      "title": "[토요🔴특집] 정치는 친분 아닌 명분으로 하는 것! 간 보는 오세훈과 선 그은 이준석 한 방 먹었다!!",
+      "viewers": 76,
+      "thumbnail": "https://i.ytimg.com/vi/gqwl5veVi6Q/maxresdefault.jpg?v=6ae52476",
+      "liveUrl": "https://www.youtube.com/watch?v=gqwl5veVi6Q"
     }
   ],
-  "updatedAt": "2026-10-31T04:35:33.288Z"
+  "updatedAt": "2026-10-31T04:40:41.286Z"
 }
