@@ -3,79 +3,86 @@
     {
       "channelName": "김두일tv",
       "title": "토요라이브 263회: 김작가에게 무엇이든 물어보세요",
-      "viewers": 1445,
+      "viewers": 1407,
       "thumbnail": "https://i.ytimg.com/vi/kkI4PiZzPys/maxresdefault.jpg?v=6ae547ef",
       "liveUrl": "https://www.youtube.com/watch?v=kkI4PiZzPys"
     },
     {
       "channelName": "민주당티비 [더불어민주당]",
       "title": "전국위원장 선출을 위한 후보자 합동연설회 생중계 - 더불어민주당",
-      "viewers": 720,
+      "viewers": 732,
       "thumbnail": "https://i.ytimg.com/vi/4cmvHPcjMXo/maxresdefault.jpg?v=6ae42348",
       "liveUrl": "https://www.youtube.com/watch?v=4cmvHPcjMXo"
     },
     {
       "channelName": "뉴스한땀",
       "title": "[야간 #투목쇼] 김엄마의 한판 정리! 김어준-양정철-유시민의 역사, 합당 후 대선후보 조국 원한는 거 다 안다!! #최진봉 #김용민 #국대토크(261030)",
-      "viewers": 211,
+      "viewers": 216,
       "thumbnail": "https://i.ytimg.com/vi/6CUwkPLpzvs/maxresdefault.jpg?v=6ae4a513",
       "liveUrl": "https://www.youtube.com/watch?v=6CUwkPLpzvs"
+    },
+    {
+      "channelName": "최한욱TV",
+      "title": "신천지 헬게이트 열린다/김병기 재소환, 수사 마무리 되나?/추미애 사퇴해야 60.7%등/압도적 까리스마 까왕쇼 42화",
+      "viewers": 150,
+      "thumbnail": "https://i.ytimg.com/vi/Th6aJ02M3CY/maxresdefault.jpg?v=6ae57e55",
+      "liveUrl": "https://www.youtube.com/watch?v=Th6aJ02M3CY"
     }
   ],
   "right": [
     {
       "channelName": "BJ톨",
       "title": "장동혁 신동욱 김태규 윤용근 총출동! 총선 핵심 충청도 골든크로스.(261031)",
-      "viewers": 2830,
+      "viewers": 2805,
       "thumbnail": "https://i.ytimg.com/vi/5xHFODjYNIM/sddefault.jpg?v=6ae53d87",
       "liveUrl": "https://www.youtube.com/watch?v=5xHFODjYNIM"
     },
     {
       "channelName": "정의구현 박완석",
       "title": "현장취재) 올림픽공원 실제상황, 올공 과학검증단 긴급 기자회견! 이태한 특검 이런 짓까지?!",
-      "viewers": 1545,
+      "viewers": 1711,
       "thumbnail": "https://i.ytimg.com/vi/9Qh1gJcESYc/maxresdefault.jpg?v=6ae57543",
       "liveUrl": "https://www.youtube.com/watch?v=9Qh1gJcESYc"
     },
     {
-      "channelName": "이영풍TV",
-      "title": "● 이영풍TV (2026.10.31) 강남역 이재명 재판재개 집회 현장중계",
-      "viewers": 1143,
-      "thumbnail": "https://i.ytimg.com/vi/wEl_VE73bT4/maxresdefault.jpg?v=6ae56e72",
-      "liveUrl": "https://www.youtube.com/watch?v=wEl_VE73bT4"
-    },
-    {
       "channelName": "김태규TV",
       "title": "[라이브#14] 국정감사 종합",
-      "viewers": 1133,
+      "viewers": 1162,
       "thumbnail": "https://i.ytimg.com/vi/JPRU8mHww5c/maxresdefault.jpg?v=6ae56ecb",
       "liveUrl": "https://www.youtube.com/watch?v=JPRU8mHww5c"
     },
     {
+      "channelName": "이영풍TV",
+      "title": "● 이영풍TV (2026.10.31) 강남역 이재명 재판재개 집회 현장중계",
+      "viewers": 1151,
+      "thumbnail": "https://i.ytimg.com/vi/wEl_VE73bT4/maxresdefault.jpg?v=6ae56e72",
+      "liveUrl": "https://www.youtube.com/watch?v=wEl_VE73bT4"
+    },
+    {
       "channelName": "신의한수",
       "title": "(현장중계) 속보 / 윤석열 석방 난리났다!!!  / 2026.10.31",
-      "viewers": 481,
+      "viewers": 404,
       "thumbnail": "https://i.ytimg.com/vi/tZ4mpOFzuRU/maxresdefault.jpg?v=6ae56426",
       "liveUrl": "https://www.youtube.com/watch?v=tZ4mpOFzuRU"
     },
     {
       "channelName": "홍철기TV",
       "title": "현장취재) 윤석열 대통령 무죄 석방!",
-      "viewers": 209,
+      "viewers": 212,
       "thumbnail": "https://i.ytimg.com/vi/PrQ6HqtH_qs/maxresdefault.jpg?v=6ae5724c",
       "liveUrl": "https://www.youtube.com/watch?v=PrQ6HqtH_qs"
     },
     {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 이재명 재판재개 목소리는 계속되어야합니다.",
-      "viewers": 131,
+      "viewers": 160,
       "thumbnail": "https://i.ytimg.com/vi/0qaLb55dOLQ/maxresdefault.jpg?v=6ae56e68",
       "liveUrl": "https://www.youtube.com/watch?v=0qaLb55dOLQ"
     },
     {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[토요🔴특집] 정치는 친분 아닌 명분으로 하는 것! 간 보는 오세훈과 선 그은 이준석 한 방 먹었다!!",
-      "viewers": 98,
+      "viewers": 103,
       "thumbnail": "https://i.ytimg.com/vi/gqwl5veVi6Q/maxresdefault.jpg?v=6ae52476",
       "liveUrl": "https://www.youtube.com/watch?v=gqwl5veVi6Q"
     },
@@ -83,16 +90,16 @@
       "channelName": "자유대한호국단",
       "title": "[실시간] 6차 이재명 파기환송심 재판 재개하라!_강남역_20261031_자유대한호국단",
       "viewers": 55,
-      "thumbnail": "https://i.ytimg.com/vi/NlCPGZHCpkM/maxresdefault.jpg?v=d",
+      "thumbnail": "https://i.ytimg.com/vi/NlCPGZHCpkM/maxresdefault.jpg?v=e",
       "liveUrl": "https://www.youtube.com/watch?v=NlCPGZHCpkM"
     },
     {
       "channelName": "노빠꾸프렌즈",
       "title": "[현장중계] 대전역 난리났다! 사관학교 폐교저지 국민 일어섰다",
-      "viewers": 48,
+      "viewers": 27,
       "thumbnail": "https://i.ytimg.com/vi/wffNMqJI5nI/maxresdefault.jpg?v=6ae577c9",
       "liveUrl": "https://www.youtube.com/watch?v=wffNMqJI5nI"
     }
   ],
-  "updatedAt": "2026-10-31T05:50:38.287Z"
+  "updatedAt": "2026-10-31T05:55:33.258Z"
 }
