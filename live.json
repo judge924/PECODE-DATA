@@ -3,21 +3,21 @@
     {
       "channelName": "김두일tv",
       "title": "토요라이브 263회: 김작가에게 무엇이든 물어보세요",
-      "viewers": 2026,
+      "viewers": 1887,
       "thumbnail": "https://i.ytimg.com/vi/kkI4PiZzPys/maxresdefault.jpg?v=6ae547ef",
       "liveUrl": "https://www.youtube.com/watch?v=kkI4PiZzPys"
     },
     {
       "channelName": "강성범tv",
       "title": "[낚시사 9탄] 라이브! 큰 너울에 큰 갑이!",
-      "viewers": 412,
+      "viewers": 413,
       "thumbnail": "https://i.ytimg.com/vi/d3QpLFjV7GI/maxresdefault.jpg?v=6ae54f87",
       "liveUrl": "https://www.youtube.com/watch?v=d3QpLFjV7GI"
     },
     {
       "channelName": "뉴스한땀",
       "title": "[야간 #투목쇼] 김엄마의 한판 정리! 김어준-양정철-유시민의 역사, 합당 후 대선후보 조국 원한는 거 다 안다!! #최진봉 #김용민 #국대토크(261030)",
-      "viewers": 262,
+      "viewers": 292,
       "thumbnail": "https://i.ytimg.com/vi/6CUwkPLpzvs/maxresdefault.jpg?v=6ae4a513",
       "liveUrl": "https://www.youtube.com/watch?v=6CUwkPLpzvs"
     }
@@ -26,24 +26,31 @@
     {
       "channelName": "전광훈TV02",
       "title": "[광화문 현장 LIVE] 2026 10.31 국민대회, \"이재명은 하야하라!!\" - 2026.10.31.",
-      "viewers": 1374,
+      "viewers": 1496,
       "thumbnail": "https://i.ytimg.com/vi/Y5kEXIrIVQg/maxresdefault.jpg?v=6ae4d362",
       "liveUrl": "https://www.youtube.com/watch?v=Y5kEXIrIVQg"
     },
     {
       "channelName": "김사랑작가tv",
       "title": "소통방송#장동혁#한동훈#오세훈#올림픽공원#선관위 특검#부정선거",
-      "viewers": 552,
-      "thumbnail": "https://i.ytimg.com/vi/XfktcpHnPJs/maxresdefault.jpg?v=1b",
+      "viewers": 544,
+      "thumbnail": "https://i.ytimg.com/vi/XfktcpHnPJs/maxresdefault.jpg?v=1c",
       "liveUrl": "https://www.youtube.com/watch?v=XfktcpHnPJs"
     },
     {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[토요🔴특집] 정치는 친분 아닌 명분으로 하는 것! 간 보는 오세훈과 선 그은 이준석 한 방 먹었다!!",
-      "viewers": 108,
+      "viewers": 109,
       "thumbnail": "https://i.ytimg.com/vi/gqwl5veVi6Q/maxresdefault.jpg?v=6ae52476",
       "liveUrl": "https://www.youtube.com/watch?v=gqwl5veVi6Q"
+    },
+    {
+      "channelName": "BJ톨",
+      "title": "장동혁 신동욱 김태규 윤용근 총출동! 총선 핵심 충청도 골든크로스.(261031)",
+      "viewers": 36,
+      "thumbnail": "https://i.ytimg.com/vi/5xHFODjYNIM/sddefault.jpg?v=6ae53d87",
+      "liveUrl": "https://www.youtube.com/watch?v=5xHFODjYNIM"
     }
   ],
-  "updatedAt": "2026-10-31T04:15:43.311Z"
+  "updatedAt": "2026-10-31T04:20:39.831Z"
 }
