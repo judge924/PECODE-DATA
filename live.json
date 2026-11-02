@@ -3,7 +3,7 @@
     {
       "channelName": "[공식] 새날",
       "title": "[생방송 재밌는 정치시사] 가보지 않은 길, 수출 1조달러 & 국가예산 820조 / 대통령을 지키는 방법 / 장동혁, 한동훈 입당 칼차단 등 + 최민희 의원",
-      "viewers": 3089,
+      "viewers": 3021,
       "thumbnail": "https://i.ytimg.com/vi/9YOnSp6ZkYM/maxresdefault.jpg?v=6ae80f81",
       "liveUrl": "https://www.youtube.com/watch?v=9YOnSp6ZkYM"
     }
@@ -12,17 +12,24 @@
     {
       "channelName": "펜앤마이크TV",
       "title": "이재명, 222조 빚내서 821조 쓰겠다 | 김어준 여론조사도, 조희대 탄핵반대 52.2% | 판사들이 들고 일어났다...\"당당히 맞서겠다\" [이것이 뉴스다]",
-      "viewers": 5327,
+      "viewers": 5148,
       "thumbnail": "https://i.ytimg.com/vi/anJjbzSc_m8/maxresdefault.jpg?v=6ae84d82",
       "liveUrl": "https://www.youtube.com/watch?v=anJjbzSc_m8"
     },
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.11.02",
-      "viewers": 2953,
+      "viewers": 3648,
       "thumbnail": "https://i.ytimg.com/vi/vpoCyo93zMo/maxresdefault.jpg?v=6ae85583",
       "liveUrl": "https://www.youtube.com/watch?v=vpoCyo93zMo"
+    },
+    {
+      "channelName": "전광훈TV02",
+      "title": "[LIVE] 나라사랑 저녁 예배 (K 악행은 떠나라!! (베드로전서2:1~10)) - 박우진 목사 2026.11.02.",
+      "viewers": 19,
+      "thumbnail": "https://i.ytimg.com/vi/lIpyI6byo9Y/maxresdefault.jpg?v=6ae84cb5",
+      "liveUrl": "https://www.youtube.com/watch?v=lIpyI6byo9Y"
     }
   ],
-  "updatedAt": "2026-11-02T09:45:38.538Z"
+  "updatedAt": "2026-11-02T09:50:52.249Z"
 }
