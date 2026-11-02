@@ -3,33 +3,61 @@
     {
       "channelName": "이동형TV",
       "title": "[이동형의 촉] 11/02 생방송",
-      "viewers": 1,
+      "viewers": 2600,
       "thumbnail": "https://i.ytimg.com/vi/t2PClu0MQ9g/maxresdefault.jpg?v=6ae85da9",
       "liveUrl": "https://www.youtube.com/watch?v=t2PClu0MQ9g"
+    },
+    {
+      "channelName": "박시영TV",
+      "title": "[LIVE] 박시영TV 수련회, 뜨거운 후기 / 정청래가 '조기 합당' 띄운 이유 (ft. 박규환, 김영환, 이혜연)",
+      "viewers": 1820,
+      "thumbnail": "https://i.ytimg.com/vi/ohq7orpt5PQ/maxresdefault.jpg?v=6ae85a09",
+      "liveUrl": "https://www.youtube.com/watch?v=ohq7orpt5PQ"
+    },
+    {
+      "channelName": "김어준의 겸손은힘들다 뉴스공장",
+      "title": "[주기자라이브] l 다음달이면 내란 2년, 내란범 재판은 왜 아직도 제자리? l 2026년 11월 2일 (월)",
+      "viewers": 1190,
+      "thumbnail": "https://i.ytimg.com/vi/XDRK77igTIU/maxresdefault.jpg?v=6ae85ada",
+      "liveUrl": "https://www.youtube.com/watch?v=XDRK77igTIU"
     }
   ],
   "right": [
     {
       "channelName": "펜앤마이크TV",
       "title": "이재명, 222조 빚내서 821조 쓰겠다 | 김어준 여론조사도, 조희대 탄핵반대 52.2% | 판사들이 들고 일어났다...\"당당히 맞서겠다\" [이것이 뉴스다]",
-      "viewers": 5170,
+      "viewers": 5033,
       "thumbnail": "https://i.ytimg.com/vi/anJjbzSc_m8/maxresdefault.jpg?v=6ae84d82",
       "liveUrl": "https://www.youtube.com/watch?v=anJjbzSc_m8"
     },
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.11.02",
-      "viewers": 4235,
+      "viewers": 4234,
       "thumbnail": "https://i.ytimg.com/vi/vpoCyo93zMo/maxresdefault.jpg?v=6ae85583",
       "liveUrl": "https://www.youtube.com/watch?v=vpoCyo93zMo"
     },
     {
+      "channelName": "가로세로연구소",
+      "title": "[충격단독] 은현장 2건 송치 허위사실적시 명예훼손, 모욕죄",
+      "viewers": 128,
+      "thumbnail": "https://i.ytimg.com/vi/MUuHvImeaDQ/maxresdefault.jpg?v=6ae8467f",
+      "liveUrl": "https://www.youtube.com/watch?v=MUuHvImeaDQ"
+    },
+    {
+      "channelName": "BJ톨",
+      "title": "윤대통령 변호인 충격상황! 장동혁 개혁 칼잡이 양준모 임명! 이재명 초토화 된 명문.(261102)",
+      "viewers": 109,
+      "thumbnail": "https://i.ytimg.com/vi/mWLEYdoAR5E/sddefault.jpg?v=6ae826db",
+      "liveUrl": "https://www.youtube.com/watch?v=mWLEYdoAR5E"
+    },
+    {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 저녁 예배 (K 악행은 떠나라!! (베드로전서2:1~10)) - 박우진 목사 2026.11.02.",
-      "viewers": 18,
+      "viewers": 32,
       "thumbnail": "https://i.ytimg.com/vi/lIpyI6byo9Y/maxresdefault.jpg?v=6ae84cb5",
       "liveUrl": "https://www.youtube.com/watch?v=lIpyI6byo9Y"
     }
   ],
-  "updatedAt": "2026-11-02T09:55:44.188Z"
+  "updatedAt": "2026-11-02T10:00:58.828Z"
 }
