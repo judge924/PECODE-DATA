@@ -1,37 +1,51 @@
 {
   "left": [
     {
-      "channelName": "대안뉴스",
-      "title": "[대안뉴스] 김민석 ‘신천지 의혹’ 사과에 정청래 반발! 민주당 내홍은 왜 더 커졌나?",
-      "viewers": 6351,
-      "thumbnail": "https://i.ytimg.com/vi/UgF2RJ18ZIk/maxresdefault.jpg?v=6aea8219",
-      "liveUrl": "https://www.youtube.com/watch?v=UgF2RJ18ZIk"
-    },
-    {
       "channelName": "장르만 여의도",
       "title": "‘지지율 최저’ 트럼프 \"생에 가장 중요한 중간선거\"... 공화당, 텃밭 텍사스서 진땀? │2026.11.04 Ep.770 LIVE🔴",
-      "viewers": 3617,
+      "viewers": 7892,
       "thumbnail": "https://i.ytimg.com/vi/tRPom1UdEWA/maxresdefault.jpg?v=6aea853b",
       "liveUrl": "https://www.youtube.com/watch?v=tRPom1UdEWA"
     },
     {
+      "channelName": "대안뉴스",
+      "title": "[대안뉴스] 김민석 ‘신천지 의혹’ 사과에 정청래 반발! 민주당 내홍은 왜 더 커졌나?",
+      "viewers": 6195,
+      "thumbnail": "https://i.ytimg.com/vi/UgF2RJ18ZIk/maxresdefault.jpg?v=6aea8219",
+      "liveUrl": "https://www.youtube.com/watch?v=UgF2RJ18ZIk"
+    },
+    {
+      "channelName": "헬마라이브",
+      "title": "신천지 의혹·합당론 격화? 민주당 현재 상황 짚어드립니다 | 오세훈·한동훈 30분 차 ‘세력 대결’? [강성필X김완 헬마라이브🔥]",
+      "viewers": 3111,
+      "thumbnail": "https://i.ytimg.com/vi/LX_wyKsieho/maxresdefault.jpg?v=6aea76f4",
+      "liveUrl": "https://www.youtube.com/watch?v=LX_wyKsieho"
+    },
+    {
       "channelName": "여의도 옆 문래동",
       "title": "[문래동] 윤석열 오늘 2심 선고! 국힘 397억 날아가나?",
-      "viewers": 2077,
+      "viewers": 1939,
       "thumbnail": "https://i.ytimg.com/vi/DIKJ0yZZ_IA/maxresdefault.jpg?v=6aea8249",
       "liveUrl": "https://www.youtube.com/watch?v=DIKJ0yZZ_IA"
     },
     {
       "channelName": "이송원TV",
       "title": "경축! 민주당 여성위원장에 김남희...친명이 친청에 이겼다!!!",
-      "viewers": 1409,
+      "viewers": 1142,
       "thumbnail": "https://i.ytimg.com/vi/AyK2eeFNfqQ/maxresdefault.jpg?v=6ae9e2cf",
       "liveUrl": "https://www.youtube.com/watch?v=AyK2eeFNfqQ"
     },
     {
+      "channelName": "뉴스한땀",
+      "title": "[생방송 #투목쇼] 김민석 대표의 '사과'! 전략, 희생, 인내 그리고 결단! 유쾌하게 풀겠습니다! #국대토크 #최진봉 #김용민 #뉴스한땀 (26. 11. 4, 11:00~)",
+      "viewers": 397,
+      "thumbnail": "https://i.ytimg.com/vi/CTdeF1Xi1Wk/maxresdefault.jpg?v=6aea77d0",
+      "liveUrl": "https://www.youtube.com/watch?v=CTdeF1Xi1Wk"
+    },
+    {
       "channelName": "뉴탐사 NewTamsa",
       "title": "【261104】 [국회라이븨 법사위, '조작기소 특검법' 상정... 與 속도전 vs 野 총력저지",
-      "viewers": 73,
+      "viewers": 76,
       "thumbnail": "https://i.ytimg.com/vi/xHdJUfeXZpo/maxresdefault.jpg?v=6aea8ceb",
       "liveUrl": "https://www.youtube.com/watch?v=xHdJUfeXZpo"
     }
@@ -40,24 +54,31 @@
     {
       "channelName": "인싸it",
       "title": "[LIVE] 오늘도 유익한 인싸it | 261104 #강용석 #인싸잇",
-      "viewers": 3293,
+      "viewers": 4103,
       "thumbnail": "https://i.ytimg.com/vi/x3yDsW45no0/maxresdefault.jpg?v=6aea7e86",
       "liveUrl": "https://www.youtube.com/watch?v=x3yDsW45no0"
     },
     {
       "channelName": "김사랑작가tv",
       "title": "장대표에게 도움되는줄 알고 후원하신분들 등신취급하고 있습니다. 댓글화력이 필요합니다.#만사혁통#장동혁 팬까페#유튜브",
-      "viewers": 693,
-      "thumbnail": "https://i.ytimg.com/vi/WWBz__8LRyo/maxresdefault.jpg?v=c",
+      "viewers": 742,
+      "thumbnail": "https://i.ytimg.com/vi/WWBz__8LRyo/maxresdefault.jpg?v=d",
       "liveUrl": "https://www.youtube.com/watch?v=WWBz__8LRyo"
+    },
+    {
+      "channelName": "위풍당당이진숙",
+      "title": "[🔴LIVE] 이진숙, 긴급 기자회견 ㅣ 2026.11.04 오전 11:00 #이진숙 #국민의힘 #국회의원 #기자회견 #국회소통관",
+      "viewers": 243,
+      "thumbnail": "https://i.ytimg.com/vi/LeeApb03vug/maxresdefault.jpg?v=6aea7299",
+      "liveUrl": "https://www.youtube.com/watch?v=LeeApb03vug"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "[법사위 현장] 민주당 오늘 조작기소 특검법 상정한다",
-      "viewers": 226,
+      "viewers": 230,
       "thumbnail": "https://i.ytimg.com/vi/dvCj1FCOT9c/maxresdefault.jpg?v=6aea7e58",
       "liveUrl": "https://www.youtube.com/watch?v=dvCj1FCOT9c"
     }
   ],
-  "updatedAt": "2026-11-04T01:55:38.419Z"
+  "updatedAt": "2026-11-04T02:00:56.620Z"
 }
