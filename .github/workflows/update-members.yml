@@ -58,10 +58,10 @@ jobs:
           # 4. 실행 직후 현재 디렉토리의 fetchData.js 즉시 영구 삭제 (보안 파기)
           rm -f ./fetchData.js
 
-      # ⭐️ 수집된 최신 백업본 커밋 (정상 작동 모니터링용)
+      # ⭐️ 수집된 최신 백업본 커밋 (유튜브 크롤러와 충돌 방지 rebase 적용)
       - name: 변경된 politicians.json 자동 커밋 & 푸시
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/data/politicians.json
-          git diff --staged --quiet || (git commit -m "chore: politicians.json 국회의원 데이터 갱신 ($(date +'%Y-%m-%d %H:%M:%S'))" && git push)
+          git diff --staged --quiet || (git commit -m "chore: politicians.json 국회의원 데이터 갱신 ($(date +'%Y-%m-%d %H:%M:%S'))" && git pull --rebase origin main && git push)
