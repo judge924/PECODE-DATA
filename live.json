@@ -3,131 +3,138 @@
     {
       "channelName": "박시영TV",
       "title": "[LIVE] 김민석, 이게 사과냐! 더 거세진 '신천지' 책임론 (ft. 이지은, 김승현, 김대호)",
-      "viewers": 10834,
+      "viewers": 12357,
       "thumbnail": "https://i.ytimg.com/vi/rohRl0TLYHs/maxresdefault.jpg?v=6aec4b6c",
       "liveUrl": "https://www.youtube.com/watch?v=rohRl0TLYHs"
     },
     {
       "channelName": "이동형TV",
       "title": "[이동형의 촉] 11/05",
-      "viewers": 8721,
+      "viewers": 9827,
       "thumbnail": "https://i.ytimg.com/vi/QX4ZH6O0AV0/maxresdefault.jpg?v=6aec4e84",
       "liveUrl": "https://www.youtube.com/watch?v=QX4ZH6O0AV0"
     },
     {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
       "title": "[주기자라이브] l 거 말이 많네~? 7시간 넘게 걸린 윤석열 최후 변론 및 결심공판 (김완 / 채윤태, 유선희)l 2026년 11월 5일 (목)",
-      "viewers": 3129,
+      "viewers": 3481,
       "thumbnail": "https://i.ytimg.com/vi/FWvfgoj6GcE/maxresdefault.jpg?v=6aec5087",
       "liveUrl": "https://www.youtube.com/watch?v=FWvfgoj6GcE"
     },
     {
+      "channelName": "고발뉴스TV",
+      "title": "위기의 친청계 최악의 선택을?..이재명 대통령 지지율 일제히 상승..이상호의 뉴스비평 2026년 11월 5일 1,528회 [ft. 박태훈, 정은혜, 하헌기, 김지형]",
+      "viewers": 270,
+      "thumbnail": "https://i.ytimg.com/vi/9riDrPwJ2xo/maxresdefault.jpg?v=6aec5792",
+      "liveUrl": "https://www.youtube.com/watch?v=9riDrPwJ2xo"
+    },
+    {
       "channelName": "뉴탐사 NewTamsa",
       "title": "【261105】[국회라이브] 국회의원 김태규 제명 촉구 결의안 등",
-      "viewers": 103,
+      "viewers": 102,
       "thumbnail": "https://i.ytimg.com/vi/PZXqDkasHCI/maxresdefault.jpg?v=6aec1d4f",
       "liveUrl": "https://www.youtube.com/watch?v=PZXqDkasHCI"
     }
   ],
   "right": [
     {
-      "channelName": "펜앤마이크TV",
-      "title": "트럼프 패배? 이재명의 꿈 산산조각 | 조작특검은 유사계엄...”정권의 파멸“ | 삼성전자 폭락...’아비규환 코스피‘ [이것이 뉴스다]",
-      "viewers": 4099,
-      "thumbnail": "https://i.ytimg.com/vi/3TBfO-LF39Q/maxresdefault.jpg?v=6aec3a90",
-      "liveUrl": "https://www.youtube.com/watch?v=3TBfO-LF39Q"
-    },
-    {
       "channelName": "1waynews 한길뉴스",
       "title": "[LIVE] 전한길이 간다! I 올공정리 마지막날 I 16:30 I 올공 핸드볼경기장 1-3",
-      "viewers": 3281,
+      "viewers": 3237,
       "thumbnail": "https://i.ytimg.com/vi/jAn7XG2bh0A/maxresdefault.jpg?v=6aec2c69",
       "liveUrl": "https://www.youtube.com/watch?v=jAn7XG2bh0A"
     },
     {
-      "channelName": "박순혁 우공이산TV",
-      "title": "[ 박정희는 역사이다 : 필리핀과 대한민국 편 ] 11월 5일 우공이산 LIVE🔴",
-      "viewers": 1247,
-      "thumbnail": "https://i.ytimg.com/vi/_-Ff9Tcd77E/maxresdefault.jpg?v=6aea0cb6",
-      "liveUrl": "https://www.youtube.com/watch?v=_-Ff9Tcd77E"
+      "channelName": "펜앤마이크TV",
+      "title": "트럼프 패배? 이재명의 꿈 산산조각 | 조작특검은 유사계엄...”정권의 파멸“ | 삼성전자 폭락...’아비규환 코스피‘ [이것이 뉴스다]",
+      "viewers": 2469,
+      "thumbnail": "https://i.ytimg.com/vi/3TBfO-LF39Q/maxresdefault.jpg?v=6aec3a90",
+      "liveUrl": "https://www.youtube.com/watch?v=3TBfO-LF39Q"
     },
     {
       "channelName": "BJ톨",
       "title": "장동혁 체제 시즌 투. 새로운 시작 위한 마지막 아닌 올공데이.(261105)",
-      "viewers": 1226,
+      "viewers": 1324,
       "thumbnail": "https://i.ytimg.com/vi/MaY18SXN-Rg/sddefault.jpg?v=6aec31ad",
       "liveUrl": "https://www.youtube.com/watch?v=MaY18SXN-Rg"
     },
     {
+      "channelName": "박순혁 우공이산TV",
+      "title": "[ 박정희는 역사이다 : 필리핀과 대한민국 편 ] 11월 5일 우공이산 LIVE🔴",
+      "viewers": 1259,
+      "thumbnail": "https://i.ytimg.com/vi/_-Ff9Tcd77E/maxresdefault.jpg?v=6aea0cb6",
+      "liveUrl": "https://www.youtube.com/watch?v=_-Ff9Tcd77E"
+    },
+    {
       "channelName": "한길록 Hangilog",
       "title": "마지막 올림픽공원 라이브",
-      "viewers": 1049,
-      "thumbnail": "https://i.ytimg.com/vi/5JjhC0HwgBI/maxresdefault.jpg?v=1b",
+      "viewers": 1031,
+      "thumbnail": "https://i.ytimg.com/vi/5JjhC0HwgBI/maxresdefault.jpg?v=1c",
       "liveUrl": "https://www.youtube.com/watch?v=5JjhC0HwgBI"
     },
     {
       "channelName": "가로세로연구소",
       "title": "[충격분노] 본업에 충실하라",
-      "viewers": 802,
+      "viewers": 909,
       "thumbnail": "https://i.ytimg.com/vi/Q27AU6Xp_74/maxresdefault.jpg?v=6aec3711",
       "liveUrl": "https://www.youtube.com/watch?v=Q27AU6Xp_74"
     },
     {
-      "channelName": "김사랑작가tv",
-      "title": "강제철거 올공에 나타난 장동혁 대표",
-      "viewers": 534,
-      "thumbnail": "https://i.ytimg.com/vi/OUxy_E9_YRI/maxresdefault.jpg?v=1b",
-      "liveUrl": "https://www.youtube.com/watch?v=OUxy_E9_YRI"
-    },
-    {
-      "channelName": "망기토TV",
-      "title": "[중앙지법 LIVE] 윤석열 대통령 최후진술",
-      "viewers": 530,
-      "thumbnail": "https://i.ytimg.com/vi/v7xh3WkwFDw/maxresdefault.jpg?v=6aec08b7",
-      "liveUrl": "https://www.youtube.com/watch?v=v7xh3WkwFDw"
-    },
-    {
       "channelName": "이영풍TV",
       "title": "● 이영풍TV 현장중계(2026.11.5) '투표록 조직적 위조' 발각 잠실 올림픽 공원 현장 중계",
-      "viewers": 348,
+      "viewers": 597,
       "thumbnail": "https://i.ytimg.com/vi/gqsjxZqM0qQ/maxresdefault.jpg?v=6aec4c93",
       "liveUrl": "https://www.youtube.com/watch?v=gqsjxZqM0qQ"
     },
     {
+      "channelName": "망기토TV",
+      "title": "[중앙지법 LIVE] 윤석열 대통령 최후진술",
+      "viewers": 543,
+      "thumbnail": "https://i.ytimg.com/vi/v7xh3WkwFDw/maxresdefault.jpg?v=6aec08b7",
+      "liveUrl": "https://www.youtube.com/watch?v=v7xh3WkwFDw"
+    },
+    {
+      "channelName": "김사랑작가tv",
+      "title": "강제철거 올공에 나타난 장동혁 대표",
+      "viewers": 521,
+      "thumbnail": "https://i.ytimg.com/vi/OUxy_E9_YRI/maxresdefault.jpg?v=1c",
+      "liveUrl": "https://www.youtube.com/watch?v=OUxy_E9_YRI"
+    },
+    {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 끝이 아닙니다",
-      "viewers": 232,
+      "viewers": 261,
       "thumbnail": "https://i.ytimg.com/vi/vJhCsYPelm4/maxresdefault.jpg?v=6aec513e",
       "liveUrl": "https://www.youtube.com/watch?v=vJhCsYPelm4"
     },
     {
       "channelName": "젊은시각",
       "title": "[🔴LIVE] 11월5일 올림픽공원 ㅣ 7시 장미광장 올공데이! 네버엔딩 올공",
-      "viewers": 195,
+      "viewers": 191,
       "thumbnail": "https://i.ytimg.com/vi/-UEOGBHt8RE/maxresdefault.jpg?v=6aec4d45",
       "liveUrl": "https://www.youtube.com/watch?v=-UEOGBHt8RE"
     },
     {
       "channelName": "국민의힘TV",
       "title": "[Live] 11월 5일 조작 기소 특검법 무제한 토론 | 박형수 국회의원",
-      "viewers": 110,
+      "viewers": 114,
       "thumbnail": "https://i.ytimg.com/vi/aofJHcUrI6E/maxresdefault.jpg?v=6aec10dd",
       "liveUrl": "https://www.youtube.com/watch?v=aofJHcUrI6E"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 특별 기도회 - 2026.11.5.",
-      "viewers": 26,
+      "viewers": 38,
       "thumbnail": "https://i.ytimg.com/vi/__8PKTfgvSE/maxresdefault.jpg?v=6aec4f3f",
       "liveUrl": "https://www.youtube.com/watch?v=__8PKTfgvSE"
     },
     {
       "channelName": "도련님열사 킬문tv4",
       "title": "#올공 잠실혁명 #장동혁 #도련님열사 킬문 #위장우파 쓰레기들",
-      "viewers": 14,
+      "viewers": 20,
       "thumbnail": "https://i.ytimg.com/vi/yxVBWvXBCkc/maxresdefault.jpg?v=6aec5596",
       "liveUrl": "https://www.youtube.com/watch?v=yxVBWvXBCkc"
     }
   ],
-  "updatedAt": "2026-11-05T10:15:39.758Z"
+  "updatedAt": "2026-11-05T10:20:39.433Z"
 }
