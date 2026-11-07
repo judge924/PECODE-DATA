@@ -3,18 +3,26 @@
     {
       "channelName": "[공식] 새날",
       "title": "[일주일몰아보기] 신천지 \"증거 없었다\" 허무한 결말 / 397억 반납 코앞에 닥친 내란당 / 주진우 골프 헛발질, 제대로 걸렸다",
-      "viewers": 551,
+      "viewers": 511,
       "thumbnail": "https://i.ytimg.com/vi/X1l-CJak_44/maxresdefault.jpg?v=6aef1fcf",
       "liveUrl": "https://www.youtube.com/watch?v=X1l-CJak_44"
     },
     {
       "channelName": "고발뉴스TV",
       "title": "하이라이트] 친청계 10만 양병설..사실은?..이재명 대통령 지지율 일제히 상승",
-      "viewers": 166,
+      "viewers": 156,
       "thumbnail": "https://i.ytimg.com/vi/TMpZzZrvI1c/maxresdefault.jpg?v=6aed270e",
       "liveUrl": "https://www.youtube.com/watch?v=TMpZzZrvI1c"
     }
   ],
-  "right": [],
-  "updatedAt": "2026-11-07T21:55:31.871Z"
+  "right": [
+    {
+      "channelName": "박상규의 직설",
+      "title": "박상규의 직설 오전 라이브 (11월 8일)",
+      "viewers": 83,
+      "thumbnail": "https://i.ytimg.com/vi/M8cMYf0S3lY/maxresdefault.jpg?v=6aef9f52",
+      "liveUrl": "https://www.youtube.com/watch?v=M8cMYf0S3lY"
+    }
+  ],
+  "updatedAt": "2026-11-07T22:00:53.741Z"
 }
