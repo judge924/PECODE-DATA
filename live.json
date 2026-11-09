@@ -3,68 +3,75 @@
     {
       "channelName": "이동형TV",
       "title": "[이동형의 촉] 11/09 생방송",
-      "viewers": 5991,
+      "viewers": 8053,
       "thumbnail": "https://i.ytimg.com/vi/Zls3U89ItY4/maxresdefault.jpg?v=6af19781",
       "liveUrl": "https://www.youtube.com/watch?v=Zls3U89ItY4"
     },
     {
       "channelName": "박시영TV",
       "title": "[LIVE] 신천지 명단 출처는 어딜까? / '김민석, 정치적 책임 져야' 63.5% (ft. 박규환, 김영환, 이혜연)",
-      "viewers": 5332,
+      "viewers": 7139,
       "thumbnail": "https://i.ytimg.com/vi/SP3c3gSfKyM/maxresdefault.jpg?v=6af190e0",
       "liveUrl": "https://www.youtube.com/watch?v=SP3c3gSfKyM"
     },
     {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
       "title": "[주기자라이브] l 이야~ 이명박 질기다 질겨…아직도 끝나지 않은 ‘다스는 누구껍니꽈~’ l 2026년 11월 9일 (월)",
-      "viewers": 1923,
+      "viewers": 2556,
       "thumbnail": "https://i.ytimg.com/vi/slI1UJR7r7A/maxresdefault.jpg?v=6af19560",
       "liveUrl": "https://www.youtube.com/watch?v=slI1UJR7r7A"
     }
   ],
   "right": [
     {
-      "channelName": "펜앤마이크TV",
-      "title": "칸쿤 정원오, 오빠 김승원...도박 이용철? | 상황 파악 못하는 이재명...민주당 불만폭발 | \"이재명 탈옥 못해\"...장동혁,오세훈 십자포화 [이것이 뉴스다]",
-      "viewers": 3734,
-      "thumbnail": "https://i.ytimg.com/vi/JzqqkZvgFlM/maxresdefault.jpg?v=6af17ead",
-      "liveUrl": "https://www.youtube.com/watch?v=JzqqkZvgFlM"
-    },
-    {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.11.09",
-      "viewers": 3502,
+      "viewers": 3772,
       "thumbnail": "https://i.ytimg.com/vi/aqgHdyaFWsw/maxresdefault.jpg?v=6af1920e",
       "liveUrl": "https://www.youtube.com/watch?v=aqgHdyaFWsw"
     },
     {
+      "channelName": "펜앤마이크TV",
+      "title": "칸쿤 정원오, 오빠 김승원...도박 이용철? | 상황 파악 못하는 이재명...민주당 불만폭발 | \"이재명 탈옥 못해\"...장동혁,오세훈 십자포화 [이것이 뉴스다]",
+      "viewers": 3601,
+      "thumbnail": "https://i.ytimg.com/vi/JzqqkZvgFlM/maxresdefault.jpg?v=6af17ead",
+      "liveUrl": "https://www.youtube.com/watch?v=JzqqkZvgFlM"
+    },
+    {
       "channelName": "문갑식의 진짜 TV",
       "title": "황우석 박사 UAE 국민됐다!  유동규 \"신임 법무장관 후보자와 닭백숙집에서 최소 세번 돈내기 포커쳤다!\" 송영길 \"민주당에 신천지 신도 대거 가입 확인!\"",
-      "viewers": 1088,
-      "thumbnail": "https://i.ytimg.com/vi/p96AT1j3OPs/maxresdefault.jpg?v=4",
+      "viewers": 1163,
+      "thumbnail": "https://i.ytimg.com/vi/p96AT1j3OPs/maxresdefault.jpg?v=5",
       "liveUrl": "https://www.youtube.com/watch?v=p96AT1j3OPs"
     },
     {
       "channelName": "BJ톨",
       "title": "떠불당 국힘 내전 터졌다! 4개 정당 으로 총선? 장동혁 중진 물갈이 성공하면 대권 직행.(261109)",
-      "viewers": 784,
+      "viewers": 1112,
       "thumbnail": "https://i.ytimg.com/vi/rMdv0ot29Z4/sddefault.jpg?v=6af16164",
       "liveUrl": "https://www.youtube.com/watch?v=rMdv0ot29Z4"
     },
     {
       "channelName": "가로세로연구소",
       "title": "[경축방송] 이진호 허위발언 인정",
-      "viewers": 557,
+      "viewers": 814,
       "thumbnail": "https://i.ytimg.com/vi/e0tz5ufiph0/maxresdefault.jpg?v=6af18023",
       "liveUrl": "https://www.youtube.com/watch?v=e0tz5ufiph0"
     },
     {
       "channelName": "[민경욱 TV]",
       "title": "[한미연합 부정선거 척결 결의] 트럼프와의 연결고리 'True The Vote' 대표 캐서린 엥겔브레히트(Catherine Engelbrecht)와의 대담",
-      "viewers": 209,
+      "viewers": 204,
       "thumbnail": "https://i.ytimg.com/vi/Cjz1lldhoOk/maxresdefault.jpg?v=6af179b4",
       "liveUrl": "https://www.youtube.com/watch?v=Cjz1lldhoOk"
+    },
+    {
+      "channelName": "전광훈TV02",
+      "title": "[LIVE] 나라사랑 저녁 예배 (능력의 전가를 행하라) - 저조의상 목사 2026.11.9.",
+      "viewers": 38,
+      "thumbnail": "https://i.ytimg.com/vi/dDZzIHlhHXU/maxresdefault.jpg?v=6af18a5f",
+      "liveUrl": "https://www.youtube.com/watch?v=dDZzIHlhHXU"
     }
   ],
-  "updatedAt": "2026-11-09T10:05:33.044Z"
+  "updatedAt": "2026-11-09T10:10:38.718Z"
 }
