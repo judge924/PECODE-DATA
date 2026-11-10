@@ -3,61 +3,75 @@
     {
       "channelName": "[팟빵] 최욱의 매불쇼",
       "title": "●11월 10일 화요일 [LIVE] - 뉴스(민동기,황희두,손솔,정필승,김정환,박지원),뻗을레오(김준형,알파고,노매튜),세계사(썬킴)",
-      "viewers": 57588,
+      "viewers": 56644,
       "thumbnail": "https://i.ytimg.com/vi/5bkdbr0rm9o/maxresdefault.jpg?v=6af294d6",
       "liveUrl": "https://www.youtube.com/watch?v=5bkdbr0rm9o"
     },
     {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
       "title": "[홍사훈쑈] 2026년 11월 10일 화요일 | 지금 민주당에 리더십은 있는가?ㅣ정필승X박규환",
-      "viewers": 18613,
+      "viewers": 19521,
       "thumbnail": "https://i.ytimg.com/vi/pTX1xyx2Bfo/maxresdefault.jpg?v=6af2b93d",
       "liveUrl": "https://www.youtube.com/watch?v=pTX1xyx2Bfo"
     },
     {
       "channelName": "[공식] 새날",
       "title": "[생방송 재밌는 정치시사] 멈추지 않는 신천지 논란 / 한덕수 석방 100% 조희대 탄핵해야 / 부동산 불법 패가망신 등",
-      "viewers": 1328,
+      "viewers": 1523,
       "thumbnail": "https://i.ytimg.com/vi/ivs6fvX9k9w/maxresdefault.jpg?v=6af2a246",
       "liveUrl": "https://www.youtube.com/watch?v=ivs6fvX9k9w"
     },
     {
       "channelName": "뉴스토마토",
       "title": "🔴[LIVE] 계산된 타이밍? 젠슨황 감싼 트럼프 진짜 속내...260조 증발! (김원장 차영주 백종민) #뉴스토마토 #끝내주는경제 #젠슨황 #엔비디아 #트럼프 (1110_화)",
-      "viewers": 296,
+      "viewers": 290,
       "thumbnail": "https://i.ytimg.com/vi/bmg7rsvN0g4/maxresdefault.jpg?v=6af2aab6",
       "liveUrl": "https://www.youtube.com/watch?v=bmg7rsvN0g4"
+    },
+    {
+      "channelName": "아고라",
+      "title": "🔴LIVEㅣ추미애 경기도청 매각설?! 팔고 다시 월세 산다? ... 신천지 민주당 집단입당 의혹, 어디까지 번지나? 명단 열람 그 후ㅣ김두일·오윤혜·심민정",
+      "viewers": 3,
+      "thumbnail": "https://i.ytimg.com/vi/HEhG_7XJfEY/maxresdefault.jpg?v=6af2c0be",
+      "liveUrl": "https://www.youtube.com/watch?v=HEhG_7XJfEY"
+    },
+    {
+      "channelName": "서울의소리 VoiceOfSeoul",
+      "title": "[생중계] 국회 예산결산특별위원회 - 부별심사: 경제부처",
+      "viewers": 2,
+      "thumbnail": "https://i.ytimg.com/vi/wMnMpJgd4KM/maxresdefault.jpg?v=6af28a75",
+      "liveUrl": "https://www.youtube.com/watch?v=wMnMpJgd4KM"
     }
   ],
   "right": [
     {
-      "channelName": "펜앤마이크TV",
-      "title": "[11/10 Live] 李 지지율, 김어준 여조서도 폭망! 민주당도 첫 30%대, 김혜경 변호인들 청와대로, 총선 암울한 여당 ['선우윤호의 MZ레지스탕스ㅣ출연: 장동란 목격자K]",
-      "viewers": 3659,
-      "thumbnail": "https://i.ytimg.com/vi/Rv2x4lUJkfc/maxresdefault.jpg?v=6af27d3e",
-      "liveUrl": "https://www.youtube.com/watch?v=Rv2x4lUJkfc"
-    },
-    {
       "channelName": "성제준",
       "title": "[26.11.10] 성제준 조상규 변호사 출연",
-      "viewers": 3619,
+      "viewers": 3495,
       "thumbnail": "https://i.ytimg.com/vi/06Tr_VoaDYU/maxresdefault.jpg?v=6af2bbe1",
       "liveUrl": "https://www.youtube.com/watch?v=06Tr_VoaDYU"
     },
     {
       "channelName": "신의한수",
       "title": "(긴급라이브) 내란특검 개망신!!! / 2026.11.10",
-      "viewers": 493,
+      "viewers": 550,
       "thumbnail": "https://i.ytimg.com/vi/bOFeGkrEVpY/maxresdefault.jpg?v=6af2b595",
       "liveUrl": "https://www.youtube.com/watch?v=bOFeGkrEVpY"
     },
     {
       "channelName": "김사랑작가tv",
       "title": "속보)경기도 교육감선거 개표결과 위조#선관위 특검#이태한#장동혁#주진우#이진숙#김태규#김민수#김민전",
-      "viewers": 316,
-      "thumbnail": "https://i.ytimg.com/vi/riJsfG-rxCs/maxresdefault.jpg?v=26",
+      "viewers": 348,
+      "thumbnail": "https://i.ytimg.com/vi/riJsfG-rxCs/maxresdefault.jpg?v=27",
       "liveUrl": "https://www.youtube.com/watch?v=riJsfG-rxCs"
+    },
+    {
+      "channelName": "김태규TV",
+      "title": "[같이보자] 김태규 의원 예결위 질의",
+      "viewers": 229,
+      "thumbnail": "https://i.ytimg.com/vi/eZVL_ORjxwE/maxresdefault.jpg?v=6af2c040",
+      "liveUrl": "https://www.youtube.com/watch?v=eZVL_ORjxwE"
     }
   ],
-  "updatedAt": "2026-11-10T07:35:37.811Z"
+  "updatedAt": "2026-11-10T07:40:42.382Z"
 }
