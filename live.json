@@ -1,45 +1,38 @@
 {
   "left": [
     {
-      "channelName": "[팟빵] 최욱의 매불쇼",
-      "title": "●11월 10일 화요일 [LIVE] - 뉴스(민동기,황희두,손솔,정필승,김정환,박지원),뻗을레오(김준형,알파고,노매튜),세계사(썬킴)",
-      "viewers": 53872,
-      "thumbnail": "https://i.ytimg.com/vi/5bkdbr0rm9o/maxresdefault.jpg?v=6af294d6",
-      "liveUrl": "https://www.youtube.com/watch?v=5bkdbr0rm9o"
-    },
-    {
-      "channelName": "고발뉴스TV",
-      "title": "이재명 대통령 감동 행보 SNS 강타..위기의 팀김어준 열폭중..이상호의 뉴스비평 2026년 11월 10일 1,530회 [ft. 강수영, 강미정, 민웅기, 김지형]",
-      "viewers": 8245,
-      "thumbnail": "https://i.ytimg.com/vi/mgdVioYPX78/maxresdefault.jpg?v=6af2c924",
-      "liveUrl": "https://www.youtube.com/watch?v=mgdVioYPX78"
-    },
-    {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
       "title": "[다섯시 이재석입니다] 한덕수 석방 D-10, 굼뜨기만 한 대법원 (이봉우X조호제X김정환X박현광)ㅣ2026년 11월 10일 화요일",
-      "viewers": 6706,
+      "viewers": 10049,
       "thumbnail": "https://i.ytimg.com/vi/jV8SkSgqyLc/maxresdefault.jpg?v=6af2d0a6",
       "liveUrl": "https://www.youtube.com/watch?v=jV8SkSgqyLc"
     },
     {
+      "channelName": "고발뉴스TV",
+      "title": "이재명 대통령 감동 행보 SNS 강타..위기의 팀김어준 열폭중..이상호의 뉴스비평 2026년 11월 10일 1,530회 [ft. 강수영, 강미정, 민웅기, 김지형]",
+      "viewers": 8866,
+      "thumbnail": "https://i.ytimg.com/vi/mgdVioYPX78/maxresdefault.jpg?v=6af2c924",
+      "liveUrl": "https://www.youtube.com/watch?v=mgdVioYPX78"
+    },
+    {
       "channelName": "[공식] 새날",
       "title": "[생방송 재밌는 정치시사] 멈추지 않는 신천지 논란 / 한덕수 석방 100% 조희대 탄핵해야 / 부동산 불법 패가망신 등",
-      "viewers": 4126,
+      "viewers": 4153,
       "thumbnail": "https://i.ytimg.com/vi/ivs6fvX9k9w/maxresdefault.jpg?v=6af2a246",
       "liveUrl": "https://www.youtube.com/watch?v=ivs6fvX9k9w"
     },
     {
       "channelName": "아고라",
       "title": "🔴LIVEㅣ추미애 경기도청 매각설?! 팔고 다시 월세 산다? ... 신천지 민주당 집단입당 의혹, 어디까지 번지나? 명단 열람 그 후ㅣ김두일·오윤혜·심민정",
-      "viewers": 1634,
+      "viewers": 1690,
       "thumbnail": "https://i.ytimg.com/vi/HEhG_7XJfEY/maxresdefault.jpg?v=6af2c0be",
       "liveUrl": "https://www.youtube.com/watch?v=HEhG_7XJfEY"
     },
     {
       "channelName": "뉴스토마토",
-      "title": "🔴[LIVE] 이용철 법무장관 후보자, 쥐어짜기식 비방에 결국 청문회서 '이 카드' 꺼낸다? (여선웅 봉건우 조현삼) #뉴스토마토 #끝장뉴스 #이용철 #이재명 (1110_화)",
-      "viewers": 239,
-      "thumbnail": "https://i.ytimg.com/vi/bmg7rsvN0g4/maxresdefault.jpg?v=6af2cf7a",
+      "title": "🔴[LIVE] 트럼프, 핵카드 만지작? 한국 '콕' 또 경고한 이란 '일촉즉발' (여선웅 봉건우 조현삼) #뉴스토마토 #끝장뉴스 #이재명 #트럼프 #이란 #파병 (1110_화)",
+      "viewers": 240,
+      "thumbnail": "https://i.ytimg.com/vi/bmg7rsvN0g4/maxresdefault.jpg?v=6af2d4fe",
       "liveUrl": "https://www.youtube.com/watch?v=bmg7rsvN0g4"
     },
     {
@@ -54,24 +47,31 @@
     {
       "channelName": "주진우의 이슈해설",
       "title": "[주진우의 5후 LIVE] 선관위 특집, 개표 조작이 확실히 드러났다",
-      "viewers": 8600,
+      "viewers": 9693,
       "thumbnail": "https://i.ytimg.com/vi/pmC_-n4EmKE/maxresdefault.jpg?v=6af2c104",
       "liveUrl": "https://www.youtube.com/watch?v=pmC_-n4EmKE"
     },
     {
       "channelName": "망기토TV",
       "title": "[특검 사무실 앞 LIVE] 선관위 제대로 걸렸다",
-      "viewers": 313,
+      "viewers": 394,
       "thumbnail": "https://i.ytimg.com/vi/H1tGNZETd6I/maxresdefault.jpg?v=6af2d113",
       "liveUrl": "https://www.youtube.com/watch?v=H1tGNZETd6I"
     },
     {
       "channelName": "김사랑작가tv",
       "title": "속보)경기도 교육감선거 개표결과 위조#선관위 특검#이태한#장동혁#주진우#이진숙#김태규#김민수#김민전",
-      "viewers": 260,
-      "thumbnail": "https://i.ytimg.com/vi/riJsfG-rxCs/maxresdefault.jpg?v=30",
+      "viewers": 264,
+      "thumbnail": "https://i.ytimg.com/vi/riJsfG-rxCs/maxresdefault.jpg?v=31",
       "liveUrl": "https://www.youtube.com/watch?v=riJsfG-rxCs"
+    },
+    {
+      "channelName": "멸콩TV",
+      "title": "[박상규의 퇴근길] 박상규&강전애",
+      "viewers": 134,
+      "thumbnail": "https://i.ytimg.com/vi/Qw8YoNspasQ/maxresdefault.jpg?v=6af2c7e3",
+      "liveUrl": "https://www.youtube.com/watch?v=Qw8YoNspasQ"
     }
   ],
-  "updatedAt": "2026-11-10T08:25:31.552Z"
+  "updatedAt": "2026-11-10T08:30:44.940Z"
 }
