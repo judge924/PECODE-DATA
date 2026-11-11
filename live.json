@@ -1,28 +1,35 @@
 {
   "left": [
     {
-      "channelName": "뉴스한땀",
-      "title": "[야간 #투목쇼] 출국금지 추미애 아들, 최민희 '하이에나' 망언 후폭풍... #최진봉 정공법으로 맞선다! #김용민 #국대토크(261111)",
-      "viewers": 547,
-      "thumbnail": "https://i.ytimg.com/vi/BGokxCNS14k/maxresdefault.jpg?v=6af45950",
-      "liveUrl": "https://www.youtube.com/watch?v=BGokxCNS14k"
-    },
-    {
       "channelName": "고발뉴스TV",
       "title": "이재명 대통령에 스며드는 청년들..최민희 망언 기자들 일어섰다..이상호의 뉴스비평 2026년 11월 11일 1,531회 [ft. 오창익, 강미정, 허재현, 노승혜]",
-      "viewers": 547,
+      "viewers": 548,
       "thumbnail": "https://i.ytimg.com/vi/lG62Hw9FFLA/maxresdefault.jpg?v=6af44342",
       "liveUrl": "https://www.youtube.com/watch?v=lG62Hw9FFLA"
+    },
+    {
+      "channelName": "띵굴TV",
+      "title": "[261112] 청와대 만찬과 ‘흐지부지’ 부동산 토론회",
+      "viewers": 422,
+      "thumbnail": "https://i.ytimg.com/vi/P8ifIERpxOs/maxresdefault.jpg?v=6af4d467",
+      "liveUrl": "https://www.youtube.com/watch?v=P8ifIERpxOs"
+    },
+    {
+      "channelName": "뉴스한땀",
+      "title": "[2026년 11월 12일] 이재명 대통령, 여당에 예산안 협조 요청 #새벽브리핑, 오늘의 뉴스- 어제부터 읽다! #뉴스한땀 #국대토크",
+      "viewers": 10,
+      "thumbnail": "https://i.ytimg.com/vi/eJoS3scwTVU/maxresdefault.jpg?v=6af4cf3a",
+      "liveUrl": "https://www.youtube.com/watch?v=eJoS3scwTVU"
     }
   ],
   "right": [
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 새벽 예배 (생명과 죽음(3)) - 한창수 전도사 2026.11.12.",
-      "viewers": 452,
+      "viewers": 294,
       "thumbnail": "https://i.ytimg.com/vi/GfBsrNzz818/maxresdefault.jpg?v=6af47c5c",
       "liveUrl": "https://www.youtube.com/watch?v=GfBsrNzz818"
     }
   ],
-  "updatedAt": "2026-11-11T20:15:39.572Z"
+  "updatedAt": "2026-11-11T20:57:41.847Z"
 }
