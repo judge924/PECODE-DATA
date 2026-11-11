@@ -1,105 +1,98 @@
 {
   "left": [
     {
-      "channelName": "시사건건",
-      "title": "갑자기 사라진 김민석, 청와대에 불려가 조인트까였나? 이재명에게 버림받았다면 혼자 죽을까?",
-      "viewers": 8515,
-      "thumbnail": "https://i.ytimg.com/vi/5FtKiFYpY6E/maxresdefault.jpg?v=6af3e7a0",
-      "liveUrl": "https://www.youtube.com/watch?v=5FtKiFYpY6E"
-    },
-    {
       "channelName": "봉지욱의 오프더레코드",
       "title": "[🔴매봉쇼] \"엽기 살인범 변호\" 이용철 법무장관 후보자 의혹 '팩트체크'",
-      "viewers": 8446,
+      "viewers": 8780,
       "thumbnail": "https://i.ytimg.com/vi/L5ZaKZ6fem0/maxresdefault.jpg?v=6af3dd12",
       "liveUrl": "https://www.youtube.com/watch?v=L5ZaKZ6fem0"
     },
     {
+      "channelName": "시사건건",
+      "title": "갑자기 사라진 김민석, 청와대에 불려가 조인트까였나? 이재명에게 버림받았다면 혼자 죽을까?",
+      "viewers": 8609,
+      "thumbnail": "https://i.ytimg.com/vi/5FtKiFYpY6E/maxresdefault.jpg?v=6af3e7a0",
+      "liveUrl": "https://www.youtube.com/watch?v=5FtKiFYpY6E"
+    },
+    {
       "channelName": "강성범tv",
       "title": "[봐뉴스 LIVE🔴 911회 / 강성필&박영식] 갈 데까지 가보자는 거지? 조희대, 어디 한번 해봐!",
-      "viewers": 6230,
+      "viewers": 6155,
       "thumbnail": "https://i.ytimg.com/vi/hg-Ki_nyi14/maxresdefault.jpg?v=6af3df27",
       "liveUrl": "https://www.youtube.com/watch?v=hg-Ki_nyi14"
     },
     {
-      "channelName": "뉴스한땀",
-      "title": "[생방송 #투목쇼] 한덕수 석방? 민주당 결집, 조희대 정조준하라!! #국대토크 #최진봉 #김용민 #뉴스한땀 (26. 11. 11, 11:00~)",
-      "viewers": 764,
-      "thumbnail": "https://i.ytimg.com/vi/VWfS0ZDzZ1U/maxresdefault.jpg?v=6af3bbec",
-      "liveUrl": "https://www.youtube.com/watch?v=VWfS0ZDzZ1U"
-    },
-    {
       "channelName": "[팟빵] 최욱의 매불쇼",
       "title": "●11월 11일 수요일 [LIVE] - 뉴스(민동기,최강욱,박구용,박주민,김희교,김준형,조용근)",
-      "viewers": 521,
+      "viewers": 1818,
       "thumbnail": "https://i.ytimg.com/vi/Wten7r7pW4g/maxresdefault.jpg?v=6af3e9b5",
       "liveUrl": "https://www.youtube.com/watch?v=Wten7r7pW4g"
     },
     {
-      "channelName": "뉴스토마토",
-      "title": "🔴[LIVE] 입시비리, 수능개편...결국 직접 칼 뽑았다 “XX 해결하지 않으면 소용 없다” 이재명 대통령, 마침내 교육개혁 본격화! (김경범 임혜자) #야단법석 (1111_수)",
-      "viewers": 299,
-      "thumbnail": "https://i.ytimg.com/vi/iFfCsifwBUQ/maxresdefault.jpg?v=6af3ea42",
-      "liveUrl": "https://www.youtube.com/watch?v=iFfCsifwBUQ"
+      "channelName": "뉴스한땀",
+      "title": "[생방송 #투목쇼] 한덕수 석방? 민주당 결집, 조희대 정조준하라!! #국대토크 #최진봉 #김용민 #뉴스한땀 (26. 11. 11, 11:00~)",
+      "viewers": 677,
+      "thumbnail": "https://i.ytimg.com/vi/VWfS0ZDzZ1U/maxresdefault.jpg?v=6af3bbec",
+      "liveUrl": "https://www.youtube.com/watch?v=VWfS0ZDzZ1U"
     },
     {
       "channelName": "김용민TV",
       "title": "[뉴잼스] LIVE🔴 한덕수 석방에 신난 김어준의 꿍꿍이!ㅣ12억 관사 두고 청사 팔겠다는 추미애ㅣ김용민·신인규·이석현",
-      "viewers": 145,
+      "viewers": 405,
       "thumbnail": "https://i.ytimg.com/vi/yFqb5a8NthU/maxresdefault.jpg?v=6af3ec77",
       "liveUrl": "https://www.youtube.com/watch?v=yFqb5a8NthU"
+    },
+    {
+      "channelName": "뉴스토마토",
+      "title": "🔴[LIVE] 입시비리, 수능개편...결국 직접 칼 뽑았다 “XX 해결하지 않으면 소용 없다” 이재명 대통령, 마침내 교육개혁 본격화! (김경범 임혜자) #야단법석 (1111_수)",
+      "viewers": 252,
+      "thumbnail": "https://i.ytimg.com/vi/iFfCsifwBUQ/maxresdefault.jpg?v=6af3ea42",
+      "liveUrl": "https://www.youtube.com/watch?v=iFfCsifwBUQ"
     }
   ],
   "right": [
     {
       "channelName": "1waynews 한길뉴스",
       "title": "[LIVE] 전한길 1인 시위 6회차(이태한특검 앞)",
-      "viewers": 1869,
+      "viewers": 1980,
       "thumbnail": "https://i.ytimg.com/vi/1hU0RpW6jb8/maxresdefault.jpg?v=6af3e8e9",
       "liveUrl": "https://www.youtube.com/watch?v=1hU0RpW6jb8"
     },
     {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[🔴LIVE] 장동혁 징계정치 전말! 윤리위에 폭로 당해!? / 진중권, 한동훈 복당 안하면 국힘이 손해! / 오세훈 우물쭈물! 김기현 깃발 들었다! / 이용철 법장 임명 성공??",
-      "viewers": 1407,
+      "viewers": 1318,
       "thumbnail": "https://i.ytimg.com/vi/U134zQNpND8/maxresdefault.jpg?v=6af3d4e3",
       "liveUrl": "https://www.youtube.com/watch?v=U134zQNpND8"
     },
     {
-      "channelName": "펜앤마이크TV",
-      "title": "[특별방송] 서영교 비명지르게 만든 검사 출연! | ”무식한 소리, 뭣도 모르는 소리, 헛소리!“/ 안미현 공소청 사 [펜앤초대석]",
-      "viewers": 1022,
-      "thumbnail": "https://i.ytimg.com/vi/xrY5MUXksaE/maxresdefault.jpg?v=6af3e962",
-      "liveUrl": "https://www.youtube.com/watch?v=xrY5MUXksaE"
-    },
-    {
-      "channelName": "이영돈TV",
-      "title": "🔴[이영돈PD 라이브] 전자투표 날치기 입법, 단지 시작일 뿐.. 내년에는 진짜가 온다",
-      "viewers": 762,
-      "thumbnail": "https://i.ytimg.com/vi/Ed5Ic2rQQGg/maxresdefault.jpg?v=6af3e0ef",
-      "liveUrl": "https://www.youtube.com/watch?v=Ed5Ic2rQQGg"
-    },
-    {
       "channelName": "BJ톨",
       "title": "이시각 올공 무슨일이? 선관위 위철환 수사 강력 촉구.(261111)",
-      "viewers": 707,
+      "viewers": 792,
       "thumbnail": "https://i.ytimg.com/vi/dcuiBFObOvU/sddefault.jpg?v=6af3bdda",
       "liveUrl": "https://www.youtube.com/watch?v=dcuiBFObOvU"
     },
     {
+      "channelName": "이영돈TV",
+      "title": "🔴[이영돈PD 라이브] 전자투표 날치기 입법, 단지 시작일 뿐.. 내년에는 진짜가 온다",
+      "viewers": 399,
+      "thumbnail": "https://i.ytimg.com/vi/Ed5Ic2rQQGg/maxresdefault.jpg?v=6af3e0ef",
+      "liveUrl": "https://www.youtube.com/watch?v=Ed5Ic2rQQGg"
+    },
+    {
       "channelName": "김태우TV",
       "title": "이용철, 흉악범 변호하면서,  변론전략이 검찰강압수사? 이재명도 그렇게 해줄거니?",
-      "viewers": 74,
+      "viewers": 94,
       "thumbnail": "https://i.ytimg.com/vi/dhlueHGJrNE/maxresdefault.jpg?v=6af3f17c",
       "liveUrl": "https://www.youtube.com/watch?v=dhlueHGJrNE"
     },
     {
       "channelName": "도련님열사 킬문tv4",
       "title": "#깔롱튜브 송정근 통진당 자기고백 청주재판 츅하show ㅋㅋ 난 음방 노래 나 안 불안해 치킨이나 뜯자",
-      "viewers": 24,
+      "viewers": 38,
       "thumbnail": "https://i.ytimg.com/vi/aRCX5yp1_8g/maxresdefault.jpg?v=6af3eddc",
       "liveUrl": "https://www.youtube.com/watch?v=aRCX5yp1_8g"
     }
   ],
-  "updatedAt": "2026-11-11T04:50:39.339Z"
+  "updatedAt": "2026-11-11T04:55:33.386Z"
 }
