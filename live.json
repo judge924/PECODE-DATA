@@ -3,30 +3,30 @@
     {
       "channelName": "고발뉴스TV",
       "title": "하이라이트] 최민희 망언, 청와대 발칵..팀김어준 올게왔다..초상집",
-      "viewers": 810,
+      "viewers": 816,
       "thumbnail": "https://i.ytimg.com/vi/d5dceZXvCnE/maxresdefault.jpg?v=6af675c0",
       "liveUrl": "https://www.youtube.com/watch?v=d5dceZXvCnE"
     },
     {
-      "channelName": "[공식] 새날",
-      "title": "[일주일몰아보기] '신천지' 마무리가 안되는 민주당 내분 / '조작징계'로 다시 발발한 내란당 내전 / 한덕수 석방 가능성에 다시 살아난 조희대 탄핵",
-      "viewers": 787,
-      "thumbnail": "https://i.ytimg.com/vi/06CfhHIktCo/maxresdefault.jpg?v=6af85544",
-      "liveUrl": "https://www.youtube.com/watch?v=06CfhHIktCo"
-    },
-    {
       "channelName": "시사의품격",
       "title": "[이슈브리핑] 최민희 사태로 정리 될 민주당의 미래 / 팀 정청래의 민주당 흔들기의 결정적 이유 [2026.11.14]",
-      "viewers": 466,
+      "viewers": 792,
       "thumbnail": "https://i.ytimg.com/vi/0gSuHtBCJOo/maxresdefault.jpg?v=6af8869e",
       "liveUrl": "https://www.youtube.com/watch?v=0gSuHtBCJOo"
+    },
+    {
+      "channelName": "[공식] 새날",
+      "title": "[일주일몰아보기] '신천지' 마무리가 안되는 민주당 내분 / '조작징계'로 다시 발발한 내란당 내전 / 한덕수 석방 가능성에 다시 살아난 조희대 탄핵",
+      "viewers": 775,
+      "thumbnail": "https://i.ytimg.com/vi/06CfhHIktCo/maxresdefault.jpg?v=6af85544",
+      "liveUrl": "https://www.youtube.com/watch?v=06CfhHIktCo"
     }
   ],
   "right": [
     {
       "channelName": "양꾼TV",
       "title": "지나버린 할로윈특집, 시작해볼까여? ㅋ",
-      "viewers": 52,
+      "viewers": 39,
       "thumbnail": "https://i.ytimg.com/vi/hEb6C3W9uJs/maxresdefault.jpg?v=6af87fc2",
       "liveUrl": "https://www.youtube.com/watch?v=hEb6C3W9uJs"
     },
@@ -38,5 +38,5 @@
       "liveUrl": "https://www.youtube.com/watch?v=LLb7s2EMfwY"
     }
   ],
-  "updatedAt": "2026-11-14T16:20:38.679Z"
+  "updatedAt": "2026-11-14T16:25:35.604Z"
 }
