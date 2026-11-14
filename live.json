@@ -1,25 +1,25 @@
 {
   "left": [
     {
-      "channelName": "고발뉴스TV",
-      "title": "하이라이트] 최민희 망언, 청와대 발칵..팀김어준 올게왔다..초상집",
-      "viewers": 552,
-      "thumbnail": "https://i.ytimg.com/vi/d5dceZXvCnE/maxresdefault.jpg?v=6af675c0",
-      "liveUrl": "https://www.youtube.com/watch?v=d5dceZXvCnE"
-    },
-    {
       "channelName": "김진애TV",
       "title": "[진애형님과 한탄] 최민희 언행, UGLY",
-      "viewers": 532,
+      "viewers": 923,
       "thumbnail": "https://i.ytimg.com/vi/fOpeS1UbpN0/maxresdefault.jpg?v=6af82bea",
       "liveUrl": "https://www.youtube.com/watch?v=fOpeS1UbpN0"
     },
     {
       "channelName": "신인규의 시대정신",
       "title": "[신인규의 라이브 밥상] 민주당에 일어난 반란군의 난..?!",
-      "viewers": 312,
+      "viewers": 573,
       "thumbnail": "https://i.ytimg.com/vi/a9kBrgBug7E/maxresdefault.jpg?v=6af83efd",
       "liveUrl": "https://www.youtube.com/watch?v=a9kBrgBug7E"
+    },
+    {
+      "channelName": "고발뉴스TV",
+      "title": "하이라이트] 최민희 망언, 청와대 발칵..팀김어준 올게왔다..초상집",
+      "viewers": 534,
+      "thumbnail": "https://i.ytimg.com/vi/d5dceZXvCnE/maxresdefault.jpg?v=6af675c0",
+      "liveUrl": "https://www.youtube.com/watch?v=d5dceZXvCnE"
     },
     {
       "channelName": "뉴스한땀",
@@ -31,33 +31,33 @@
   ],
   "right": [
     {
-      "channelName": "펜앤마이크TV",
-      "title": "[부산] 이재명 규탄 총궐기 규탄대회",
-      "viewers": 814,
-      "thumbnail": "https://i.ytimg.com/vi/6QCdemwV3AI/maxresdefault.jpg?v=6af7dcd2",
-      "liveUrl": "https://www.youtube.com/watch?v=6QCdemwV3AI"
-    },
-    {
       "channelName": "전여옥TV",
       "title": "여옥대첩978:왜 장동혁인가?",
-      "viewers": 547,
+      "viewers": 828,
       "thumbnail": "https://i.ytimg.com/vi/3zwINTI5oWI/maxresdefault.jpg?v=6af82d30",
       "liveUrl": "https://www.youtube.com/watch?v=3zwINTI5oWI"
     },
     {
+      "channelName": "펜앤마이크TV",
+      "title": "[부산] 이재명 규탄 총궐기 규탄대회",
+      "viewers": 818,
+      "thumbnail": "https://i.ytimg.com/vi/6QCdemwV3AI/maxresdefault.jpg?v=6af7dcd2",
+      "liveUrl": "https://www.youtube.com/watch?v=6QCdemwV3AI"
+    },
+    {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[🔴LIVE] 장동혁 징계정치 전말! 조작 징계!! 대표사퇴! 정계은퇴 하라!!",
-      "viewers": 224,
+      "viewers": 250,
       "thumbnail": "https://i.ytimg.com/vi/l7sVABqGS7s/maxresdefault.jpg?v=6af805e0",
       "liveUrl": "https://www.youtube.com/watch?v=l7sVABqGS7s"
     },
     {
       "channelName": "도련님열사 킬문tv4",
       "title": "#부산 #장동혁 # 국민의힘 #재명아 내려와",
-      "viewers": 42,
+      "viewers": 45,
       "thumbnail": "https://i.ytimg.com/vi/J_FNk5fLex8/maxresdefault.jpg?v=6af7e830",
       "liveUrl": "https://www.youtube.com/watch?v=J_FNk5fLex8"
     }
   ],
-  "updatedAt": "2026-11-14T11:05:34.569Z"
+  "updatedAt": "2026-11-14T11:10:38.428Z"
 }
