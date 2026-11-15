@@ -1,56 +1,56 @@
 {
   "left": [
     {
-      "channelName": "고발뉴스TV",
-      "title": "하이라이트] 최민희 망언, 청와대 발칵..팀김어준 올게왔다..초상집",
-      "viewers": 270,
-      "thumbnail": "https://i.ytimg.com/vi/d5dceZXvCnE/maxresdefault.jpg?v=6af675c0",
-      "liveUrl": "https://www.youtube.com/watch?v=d5dceZXvCnE"
-    },
-    {
       "channelName": "김두일tv",
       "title": "주간논평 121회: 최민희 생각보다 빨리 끝날 듯 & 더민초, 최민희 탈당 요구 및 중징계 요청 예정",
-      "viewers": 111,
+      "viewers": 512,
       "thumbnail": "https://i.ytimg.com/vi/2hOoN-Ks6Jc/maxresdefault.jpg?v=6af97a92",
       "liveUrl": "https://www.youtube.com/watch?v=2hOoN-Ks6Jc"
+    },
+    {
+      "channelName": "고발뉴스TV",
+      "title": "하이라이트] 최민희 망언, 청와대 발칵..팀김어준 올게왔다..초상집",
+      "viewers": 266,
+      "thumbnail": "https://i.ytimg.com/vi/d5dceZXvCnE/maxresdefault.jpg?v=6af675c0",
+      "liveUrl": "https://www.youtube.com/watch?v=d5dceZXvCnE"
     }
   ],
   "right": [
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.11.15",
-      "viewers": 5164,
+      "viewers": 5835,
       "thumbnail": "https://i.ytimg.com/vi/aN-Oh1a5mpw/maxresdefault.jpg?v=6af9784e",
       "liveUrl": "https://www.youtube.com/watch?v=aN-Oh1a5mpw"
     },
     {
       "channelName": "1waynews 한길뉴스",
       "title": "[LIVE] 부산 이재명 재판촉구 시민대행진 I 전한길이 간다 I 5시 I 부산 서면 하트 광장",
-      "viewers": 1259,
-      "thumbnail": "https://i.ytimg.com/vi/beVhgQfFh4M/maxresdefault.jpg?v=13",
+      "viewers": 1356,
+      "thumbnail": "https://i.ytimg.com/vi/beVhgQfFh4M/maxresdefault.jpg?v=14",
       "liveUrl": "https://www.youtube.com/watch?v=beVhgQfFh4M"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 120만 광화문 전국 주일  저녁 예배 (목숨걸고 지킬 신앙) - 손원배 목사 2026.11.15.",
-      "viewers": 651,
+      "viewers": 711,
       "thumbnail": "https://i.ytimg.com/vi/btr8rT1fcas/maxresdefault.jpg?v=6af97162",
       "liveUrl": "https://www.youtube.com/watch?v=btr8rT1fcas"
     },
     {
       "channelName": "망기토TV",
       "title": "[LIVE] 구독자 30만 기념, 이재명 구속 선물로 주실분?",
-      "viewers": 458,
+      "viewers": 426,
       "thumbnail": "https://i.ytimg.com/vi/w2COcObR27U/maxresdefault.jpg?v=6af95853",
       "liveUrl": "https://www.youtube.com/watch?v=w2COcObR27U"
     },
     {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[🔴LIVE] 장동혁 조작징계 자백하라! 사과 없으면 녹취록 폭로!?",
-      "viewers": 65,
+      "viewers": 55,
       "thumbnail": "https://i.ytimg.com/vi/iKB-ImBEw8w/maxresdefault.jpg?v=6af8fa83",
       "liveUrl": "https://www.youtube.com/watch?v=iKB-ImBEw8w"
     }
   ],
-  "updatedAt": "2026-11-15T09:55:35.155Z"
+  "updatedAt": "2026-11-15T10:00:53.851Z"
 }
