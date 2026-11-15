@@ -1,28 +1,28 @@
 {
   "left": [
     {
-      "channelName": "고발뉴스TV",
-      "title": "하이라이트] 최민희 망언, 청와대 발칵..팀김어준 올게왔다..초상집",
-      "viewers": 562,
-      "thumbnail": "https://i.ytimg.com/vi/d5dceZXvCnE/maxresdefault.jpg?v=6af675c0",
-      "liveUrl": "https://www.youtube.com/watch?v=d5dceZXvCnE"
-    },
-    {
       "channelName": "띵굴TV",
       "title": "[261116] 미중러, 사상 첫 3국 정상회담 연다",
-      "viewers": 313,
+      "viewers": 606,
       "thumbnail": "https://i.ytimg.com/vi/bKdTHo7rtRg/maxresdefault.jpg?v=6afa1a2a",
       "liveUrl": "https://www.youtube.com/watch?v=bKdTHo7rtRg"
+    },
+    {
+      "channelName": "고발뉴스TV",
+      "title": "하이라이트] 최민희 망언, 청와대 발칵..팀김어준 올게왔다..초상집",
+      "viewers": 546,
+      "thumbnail": "https://i.ytimg.com/vi/d5dceZXvCnE/maxresdefault.jpg?v=6af675c0",
+      "liveUrl": "https://www.youtube.com/watch?v=d5dceZXvCnE"
     }
   ],
   "right": [
     {
-      "channelName": "전광훈TV02",
-      "title": "[LIVE] 나라사랑 새벽 예배 (언약의 피는 오늘도 역사합니다!) - 이영한 목사 2026.11.16.",
-      "viewers": 306,
-      "thumbnail": "https://i.ytimg.com/vi/vTAEUY-EVxM/maxresdefault.jpg?v=6af9ef63",
-      "liveUrl": "https://www.youtube.com/watch?v=vTAEUY-EVxM"
+      "channelName": "박상규의 직설",
+      "title": "박상규의 직설 오전 라이브 (11월 16일)",
+      "viewers": 115,
+      "thumbnail": "https://i.ytimg.com/vi/xjo3uCFw8zY/maxresdefault.jpg?v=6afa1d49",
+      "liveUrl": "https://www.youtube.com/watch?v=xjo3uCFw8zY"
     }
   ],
-  "updatedAt": "2026-11-15T20:55:33.110Z"
+  "updatedAt": "2026-11-15T21:00:59.779Z"
 }
