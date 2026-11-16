@@ -3,61 +3,75 @@
     {
       "channelName": "이동형TV",
       "title": "[이동형의 촉] 11/16 생방송",
-      "viewers": 3703,
+      "viewers": 7211,
       "thumbnail": "https://i.ytimg.com/vi/9drkKOxtb4g/maxresdefault.jpg?v=6afad2d7",
       "liveUrl": "https://www.youtube.com/watch?v=9drkKOxtb4g"
     },
     {
       "channelName": "박시영TV",
       "title": "[LIVE] 지금은 불의에 맞설 때다 / 최민희 핀셋 징계, 신천지 건 김민석은? (ft. 박규환, 김영환, 이혜연)",
-      "viewers": 2454,
+      "viewers": 6047,
       "thumbnail": "https://i.ytimg.com/vi/xDgzyd7xz0A/maxresdefault.jpg?v=6afacd20",
       "liveUrl": "https://www.youtube.com/watch?v=xDgzyd7xz0A"
     },
     {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
       "title": "[주기자라이브] l 박지원 \"조희대 탄핵으로 바로 간다\", 한덕수·김건희 선고에 경고 (김예니/박지원) l 2026년 11월 16일 (월)",
-      "viewers": 1052,
+      "viewers": 2418,
       "thumbnail": "https://i.ytimg.com/vi/7lR1Ivj9TEw/maxresdefault.jpg?v=6afacf43",
       "liveUrl": "https://www.youtube.com/watch?v=7lR1Ivj9TEw"
+    },
+    {
+      "channelName": "이송원TV",
+      "title": "李대통령 “개혁 이름 빌려 개혁 방해하는 것 용납 어렵다”",
+      "viewers": 146,
+      "thumbnail": "https://i.ytimg.com/vi/djyWwTa8-zY/maxresdefault.jpg?v=6afa32f4",
+      "liveUrl": "https://www.youtube.com/watch?v=djyWwTa8-zY"
     }
   ],
   "right": [
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.11.16",
-      "viewers": 5980,
+      "viewers": 6289,
       "thumbnail": "https://i.ytimg.com/vi/vJIGFdOItKE/maxresdefault.jpg?v=6afacd11",
       "liveUrl": "https://www.youtube.com/watch?v=vJIGFdOItKE"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "부품없는 F35...국방비 66조원 어쩌고? | 미군이 더 걱정하는 이재명 정부의 전작권 근자감 | 민주당 분당하나?...최민희 살해 협박까지 등장해 [이것이 뉴스다]",
-      "viewers": 3975,
+      "viewers": 3984,
       "thumbnail": "https://i.ytimg.com/vi/-MxhOv-fSs4/maxresdefault.jpg?v=6afabef8",
       "liveUrl": "https://www.youtube.com/watch?v=-MxhOv-fSs4"
     },
     {
       "channelName": "홍철기TV",
       "title": "(속보) 윤석열 무죄! 이재명 도망! 김정은 2년내 사망?",
-      "viewers": 1243,
+      "viewers": 1147,
       "thumbnail": "https://i.ytimg.com/vi/nwmEiVMj-2M/maxresdefault.jpg?v=6afabff5",
       "liveUrl": "https://www.youtube.com/watch?v=nwmEiVMj-2M"
     },
     {
+      "channelName": "BJ톨",
+      "title": "내각제 개헌? 통합? 권력 찬탈 추악한 공범! 하야 이재명, 탄핵 한씨! 장동혁 위기 돌파 해법.(261116)",
+      "viewers": 698,
+      "thumbnail": "https://i.ytimg.com/vi/RZJD71yDG-I/sddefault.jpg?v=6afa9bed",
+      "liveUrl": "https://www.youtube.com/watch?v=RZJD71yDG-I"
+    },
+    {
       "channelName": "가로세로연구소",
       "title": "[충격공포] 최민희 없애야",
-      "viewers": 90,
+      "viewers": 536,
       "thumbnail": "https://i.ytimg.com/vi/qgmzcu6W1Tg/maxresdefault.jpg?v=6afacc0f",
       "liveUrl": "https://www.youtube.com/watch?v=qgmzcu6W1Tg"
     },
     {
-      "channelName": "BJ톨",
-      "title": "내각제 개헌? 통합? 권력 찬탈 추악한 공범! 하야 이재명, 탄핵 한씨! 장동혁 위기 돌파 해법.(261116)",
-      "viewers": 82,
-      "thumbnail": "https://i.ytimg.com/vi/RZJD71yDG-I/sddefault.jpg?v=6afa9bed",
-      "liveUrl": "https://www.youtube.com/watch?v=RZJD71yDG-I"
+      "channelName": "전광훈TV02",
+      "title": "[LIVE] 나라사랑 저녁 예배 (길과 진리되신 예수님!) - 이강성 목사 2026.11.16.",
+      "viewers": 9,
+      "thumbnail": "https://i.ytimg.com/vi/S-Uee8peu0c/maxresdefault.jpg?v=6afab042",
+      "liveUrl": "https://www.youtube.com/watch?v=S-Uee8peu0c"
     }
   ],
-  "updatedAt": "2026-11-16T10:00:57.268Z"
+  "updatedAt": "2026-11-16T10:05:38.637Z"
 }
