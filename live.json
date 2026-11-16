@@ -3,35 +3,35 @@
     {
       "channelName": "이동형TV",
       "title": "[청정구역] 11/16 생방송",
-      "viewers": 15578,
+      "viewers": 15258,
       "thumbnail": "https://i.ytimg.com/vi/9drkKOxtb4g/maxresdefault.jpg?v=6afade6c",
       "liveUrl": "https://www.youtube.com/watch?v=9drkKOxtb4g"
     },
     {
       "channelName": "박시영TV",
       "title": "[LIVE] 지금은 불의에 맞설 때다 / 최민희 핀셋 징계, 신천지 건 김민석은? (ft. 박규환, 김영환, 이혜연)",
-      "viewers": 12337,
+      "viewers": 12739,
       "thumbnail": "https://i.ytimg.com/vi/xDgzyd7xz0A/maxresdefault.jpg?v=6afacd20",
       "liveUrl": "https://www.youtube.com/watch?v=xDgzyd7xz0A"
     },
     {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
       "title": "[주기자라이브] l 박지원 \"조희대 탄핵으로 바로 간다\", 한덕수·김건희 선고에 경고 (김예니/박지원) l 2026년 11월 16일 (월)",
-      "viewers": 4361,
+      "viewers": 4304,
       "thumbnail": "https://i.ytimg.com/vi/7lR1Ivj9TEw/maxresdefault.jpg?v=6afacf43",
       "liveUrl": "https://www.youtube.com/watch?v=7lR1Ivj9TEw"
     },
     {
       "channelName": "고발뉴스TV",
       "title": "겸공 김어준 예언 또 틀렸다..최민희 중징계 카운트다운..이상호의 뉴스비평 2026년 11월 16일 1,533회 [ft. 허재현, 김상욱, 정민철, 정은혜, 노승혜]",
-      "viewers": 798,
+      "viewers": 944,
       "thumbnail": "https://i.ytimg.com/vi/OVXiTaLwnIk/maxresdefault.jpg?v=6afadc24",
       "liveUrl": "https://www.youtube.com/watch?v=OVXiTaLwnIk"
     },
     {
       "channelName": "이송원TV",
       "title": "李대통령 “개혁 이름 빌려 개혁 방해하는 것 용납 어렵다”",
-      "viewers": 659,
+      "viewers": 692,
       "thumbnail": "https://i.ytimg.com/vi/djyWwTa8-zY/maxresdefault.jpg?v=6afa32f4",
       "liveUrl": "https://www.youtube.com/watch?v=djyWwTa8-zY"
     }
@@ -40,24 +40,31 @@
     {
       "channelName": "BJ톨",
       "title": "내각제 개헌? 통합? 권력 찬탈 추악한 공범! 하야 이재명, 탄핵 한씨! 장동혁 위기 돌파 해법.(261116)",
-      "viewers": 2427,
+      "viewers": 2460,
       "thumbnail": "https://i.ytimg.com/vi/RZJD71yDG-I/sddefault.jpg?v=6afa9bed",
       "liveUrl": "https://www.youtube.com/watch?v=RZJD71yDG-I"
     },
     {
       "channelName": "가로세로연구소",
       "title": "[충격공포] 최민희 없애야",
-      "viewers": 1571,
+      "viewers": 1404,
       "thumbnail": "https://i.ytimg.com/vi/qgmzcu6W1Tg/maxresdefault.jpg?v=6afacc0f",
       "liveUrl": "https://www.youtube.com/watch?v=qgmzcu6W1Tg"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 저녁 예배 (길과 진리되신 예수님!) - 이강성 목사 2026.11.16.",
-      "viewers": 343,
+      "viewers": 387,
       "thumbnail": "https://i.ytimg.com/vi/S-Uee8peu0c/maxresdefault.jpg?v=6afab042",
       "liveUrl": "https://www.youtube.com/watch?v=S-Uee8peu0c"
+    },
+    {
+      "channelName": "김사랑작가tv",
+      "title": "소통방송) 김민수TV에 출연하는 장동혁 대표 #김태호# 오세훈#윤상현#박정훈 #장동혁#김민수#한동훈#주진우",
+      "viewers": 87,
+      "thumbnail": "https://i.ytimg.com/vi/1pKZStwNdTs/maxresdefault.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=1pKZStwNdTs"
     }
   ],
-  "updatedAt": "2026-11-16T10:50:39.111Z"
+  "updatedAt": "2026-11-16T10:55:34.276Z"
 }
