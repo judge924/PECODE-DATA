@@ -1,16 +1,9 @@
 {
   "left": [
     {
-      "channelName": "장용진TV",
-      "title": "[오밤중NEWS]한덕수 재판... 이게 재판이냐? 개판이지",
-      "viewers": 2048,
-      "thumbnail": "https://i.ytimg.com/vi/mTeYuhFAS98/sddefault.jpg?v=6afeff0d",
-      "liveUrl": "https://www.youtube.com/watch?v=mTeYuhFAS98"
-    },
-    {
       "channelName": "고발뉴스TV",
       "title": "한덕수 파기환송.. 조희대가 또?..이재명 대통령, 세계 4위 한국 위상 확인..이상호의 뉴스비평 2026년 11월 19일 1,536회 [ft. 김지형, 조계원, 양희삼, 박태훈,",
-      "viewers": 233,
+      "viewers": 230,
       "thumbnail": "https://i.ytimg.com/vi/EbUWqnY4stA/maxresdefault.jpg?v=6afed1ef",
       "liveUrl": "https://www.youtube.com/watch?v=EbUWqnY4stA"
     }
@@ -19,17 +12,17 @@
     {
       "channelName": "양꾼TV",
       "title": "[ 11월 19일 ] 눈치보는 비겁한 사법부",
-      "viewers": 467,
+      "viewers": 477,
       "thumbnail": "https://i.ytimg.com/vi/P6pIWZ7eK1Q/maxresdefault.jpg?v=6aff09e9",
       "liveUrl": "https://www.youtube.com/watch?v=P6pIWZ7eK1Q"
     },
     {
       "channelName": "학소",
       "title": "야간방",
-      "viewers": 424,
-      "thumbnail": "https://i.ytimg.com/vi/Og4QgyjAwUc/maxresdefault.jpg?v=18",
+      "viewers": 436,
+      "thumbnail": "https://i.ytimg.com/vi/Og4QgyjAwUc/maxresdefault.jpg?v=19",
       "liveUrl": "https://www.youtube.com/watch?v=Og4QgyjAwUc"
     }
   ],
-  "updatedAt": "2026-11-19T16:20:42.785Z"
+  "updatedAt": "2026-11-19T16:25:33.949Z"
 }
