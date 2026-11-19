@@ -1,56 +1,77 @@
 {
   "left": [
     {
-      "channelName": "고발뉴스TV",
-      "title": "세계 4위 한국 위상 확인..이재명 대통령 순방중 챙긴 국내 현안은?..이상호의 뉴스비평 2026년 11월 19일 1,536회 [ft. 김지형, 양희삼, 박태훈, 정은혜, 하헌기]",
-      "viewers": 2013,
-      "thumbnail": "https://i.ytimg.com/vi/mTmHOftwpFU/maxresdefault.jpg?v=6afea1c0",
-      "liveUrl": "https://www.youtube.com/watch?v=mTmHOftwpFU"
+      "channelName": "이동형TV",
+      "title": "[이동형의 촉] 11/19 생방송 수험생 여러분 고생 많으셨습니다.",
+      "viewers": 3512,
+      "thumbnail": "https://i.ytimg.com/vi/-9JvQsrM2_k/maxresdefault.jpg?v=6afec552",
+      "liveUrl": "https://www.youtube.com/watch?v=-9JvQsrM2_k"
     },
     {
       "channelName": "박시영TV",
       "title": "[LIVE] 김민석 당대표 사퇴 51.6%(호남 44.7%) 한덕수 재판 분석, 민주당의 선택은? (ft. 이지은, 김승현, 김대호)",
-      "viewers": 706,
+      "viewers": 2863,
       "thumbnail": "https://i.ytimg.com/vi/laUciOA8mQY/maxresdefault.jpg?v=6afec126",
       "liveUrl": "https://www.youtube.com/watch?v=laUciOA8mQY"
+    },
+    {
+      "channelName": "김어준의 겸손은힘들다 뉴스공장",
+      "title": "[주기자라이브] l 주기자라이브팀 대법원으로 총출동!! (김은지,강헌수/윤건영) l 2026년 11월 19일 (목)",
+      "viewers": 1517,
+      "thumbnail": "https://i.ytimg.com/vi/iI9xJHTWLxA/maxresdefault.jpg?v=6afec50c",
+      "liveUrl": "https://www.youtube.com/watch?v=iI9xJHTWLxA"
     }
   ],
   "right": [
     {
       "channelName": "GROUND C 그라운드씨",
       "title": "[🚨속보LIVE] 한덕수 '일부 무죄' 파기 환송ㅣ김건희 여사 재판 결과ㅣ대법 \"계엄전 내란 가담 인정 어려워\"ㅣ민주당, 비상의총 개최",
-      "viewers": 11465,
+      "viewers": 12086,
       "thumbnail": "https://i.ytimg.com/vi/m7Qmh8FzBpo/maxresdefault.jpg?v=6afebff6",
       "liveUrl": "https://www.youtube.com/watch?v=m7Qmh8FzBpo"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "조희대의 결단...대법원, 한덕수 재판 파기환송 | 美, UN북한인권결의안 기권...어쩌다 이런 일이? | 리트냥이로 끝? 230만 국가고시 전수조사 한다 [이것이 뉴스다]",
-      "viewers": 8932,
+      "viewers": 9026,
       "thumbnail": "https://i.ytimg.com/vi/lxOemXWK98U/maxresdefault.jpg?v=6afeb20f",
       "liveUrl": "https://www.youtube.com/watch?v=lxOemXWK98U"
     },
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.11.19",
-      "viewers": 4222,
+      "viewers": 4846,
       "thumbnail": "https://i.ytimg.com/vi/5DfMw3Z-ZVU/maxresdefault.jpg?v=6afea578",
       "liveUrl": "https://www.youtube.com/watch?v=5DfMw3Z-ZVU"
     },
     {
       "channelName": "홍철기TV",
       "title": "(속보) 한덕수 완전 파기 환송! 조희대, 특검 상고 기각! 구속 / 석방 여부는? 민주당 멘붕! 판이 뒤집힌다! 윤석열 무죄!",
-      "viewers": 890,
+      "viewers": 964,
       "thumbnail": "https://i.ytimg.com/vi/C08eu8PnJvw/maxresdefault.jpg?v=6afebc85",
       "liveUrl": "https://www.youtube.com/watch?v=C08eu8PnJvw"
     },
     {
-      "channelName": "청년의소리TV",
-      "title": "[LIVE] 철거 전 올공 모습",
-      "viewers": 146,
-      "thumbnail": "https://i.ytimg.com/vi/Y3k5GcBEViI/maxresdefault.jpg?v=6afeb737",
-      "liveUrl": "https://www.youtube.com/watch?v=Y3k5GcBEViI"
+      "channelName": "가로세로연구소",
+      "title": "[경축방송] 수험생 여러분, 고생 많았어요",
+      "viewers": 174,
+      "thumbnail": "https://i.ytimg.com/vi/vimujM6VwdU/maxresdefault.jpg?v=6afea0ac",
+      "liveUrl": "https://www.youtube.com/watch?v=vimujM6VwdU"
+    },
+    {
+      "channelName": "BJ톨",
+      "title": "장동혁, 목숨 각오한 동지 세명! 비겁한 조희대 결국! 재명 한씨 유착 관계 내란 폭로?(261119)",
+      "viewers": 62,
+      "thumbnail": "https://i.ytimg.com/vi/w5J8wUm1iIg/sddefault.jpg?v=6afeb235",
+      "liveUrl": "https://www.youtube.com/watch?v=w5J8wUm1iIg"
+    },
+    {
+      "channelName": "서울미디어",
+      "title": "[🔴김혜인 앵커의 시사 분석!] 40·50도 돌아섰나! 이재명 지지율 27.8% 급락! 조희대, 한덕수 일부 무죄 취지 “파기환송”",
+      "viewers": 7,
+      "thumbnail": "https://i.ytimg.com/vi/Ampz5ZAxRx0/maxresdefault.jpg?v=6afeb7f0",
+      "liveUrl": "https://www.youtube.com/watch?v=Ampz5ZAxRx0"
     }
   ],
-  "updatedAt": "2026-11-19T09:55:32.195Z"
+  "updatedAt": "2026-11-19T10:00:51.582Z"
 }
