@@ -1,98 +1,84 @@
 {
   "left": [
     {
-      "channelName": "김어준의 겸손은힘들다 뉴스공장",
-      "title": "[12시에 만나요] \"수능 한파 덮쳤나\" 5000선 등락하는 코스피, 앤트로픽 공모가 83달러? 스페이스X 제친 역대 최대 IPO! 국내증시 영향은ㅣ2026년 11월 19일 목요일",
-      "viewers": 32236,
-      "thumbnail": "https://i.ytimg.com/vi/XJ_0dLcHEYY/maxresdefault.jpg?v=6afe5ecb",
-      "liveUrl": "https://www.youtube.com/watch?v=XJ_0dLcHEYY"
-    },
-    {
       "channelName": "장르만 여의도",
       "title": "[JTBC 단독] \"리트만점 이진우와 구치소 수감\" 재소자 증언...'이름·생년월일' 일치 '공갈 판결문' 확인│2026.11.19 Ep.781 LIVE🔴",
-      "viewers": 28585,
+      "viewers": 28614,
       "thumbnail": "https://i.ytimg.com/vi/CWwiauZoX3c/maxresdefault.jpg?v=6afe573c",
       "liveUrl": "https://www.youtube.com/watch?v=CWwiauZoX3c"
     },
     {
-      "channelName": "김두일tv",
-      "title": "정규방송 460회: 재난문자로 22명 입시부정 적발 & 이재명 정부의 국제적 위상 & 박지원, 우원식 왜 이러나?",
-      "viewers": 2917,
-      "thumbnail": "https://i.ytimg.com/vi/P7qM1aPW8tQ/maxresdefault.jpg?v=6afe605e",
-      "liveUrl": "https://www.youtube.com/watch?v=P7qM1aPW8tQ"
-    },
-    {
-      "channelName": "강성범tv",
-      "title": "[봐뉴스 LIVE🔴 916회 / 하헌기&강수영] 한한령 해제 급물살… 이 와중에 추미애·정청래는 밥그릇 싸움?",
-      "viewers": 1570,
-      "thumbnail": "https://i.ytimg.com/vi/3PGIuxhBIjI/maxresdefault.jpg?v=6afe6ab7",
-      "liveUrl": "https://www.youtube.com/watch?v=3PGIuxhBIjI"
-    },
-    {
-      "channelName": "대안뉴스",
-      "title": "[대안뉴스] 추경호 1심 무죄, 설마 한덕수도? 징역 15년의 운명 가를 대법원 판단은?",
-      "viewers": 1080,
-      "thumbnail": "https://i.ytimg.com/vi/aQCYcczwSjE/maxresdefault.jpg?v=6afe4558",
-      "liveUrl": "https://www.youtube.com/watch?v=aQCYcczwSjE"
-    },
-    {
-      "channelName": "뉴스한땀",
-      "title": "[생방송 #투목쇼] 김민석, 의원 전원 비상 대기 요청 !내란 한덕수의 '운명의 4시' #국대토크 #최진봉 #김용민 #뉴스한땀 (26. 11. 19, 11:00~)",
-      "viewers": 1036,
-      "thumbnail": "https://i.ytimg.com/vi/WGNiJNyBei8/maxresdefault.jpg?v=6afe44a3",
-      "liveUrl": "https://www.youtube.com/watch?v=WGNiJNyBei8"
-    },
-    {
       "channelName": "시사건건",
       "title": "리트냥이 이진우 결국 잠수! 이번 수능은 괜찮을까? 수험생들 수능보느라 진짜 고생많았다!!!!",
-      "viewers": 969,
+      "viewers": 3627,
       "thumbnail": "https://i.ytimg.com/vi/Qlg855QA0CI/maxresdefault.jpg?v=6afe72a9",
       "liveUrl": "https://www.youtube.com/watch?v=Qlg855QA0CI"
     },
     {
+      "channelName": "강성범tv",
+      "title": "[봐뉴스 LIVE🔴 916회 / 하헌기&강수영] 한한령 해제 급물살… 이 와중에 추미애·정청래는 밥그릇 싸움?",
+      "viewers": 3343,
+      "thumbnail": "https://i.ytimg.com/vi/3PGIuxhBIjI/maxresdefault.jpg?v=6afe6ab7",
+      "liveUrl": "https://www.youtube.com/watch?v=3PGIuxhBIjI"
+    },
+    {
       "channelName": "봉지욱의 오프더레코드",
       "title": "[🔴매봉쇼] 조희대 가라사대 \"덕수 형이랑 건희는 내가 챙길게\"",
-      "viewers": 885,
+      "viewers": 3296,
       "thumbnail": "https://i.ytimg.com/vi/ITUMUkMH0BM/maxresdefault.jpg?v=6afe6859",
       "liveUrl": "https://www.youtube.com/watch?v=ITUMUkMH0BM"
+    },
+    {
+      "channelName": "김두일tv",
+      "title": "정규방송 460회: 재난문자로 22명 입시부정 적발 & 이재명 정부의 국제적 위상 & 박지원, 우원식 왜 이러나?",
+      "viewers": 2802,
+      "thumbnail": "https://i.ytimg.com/vi/P7qM1aPW8tQ/maxresdefault.jpg?v=6afe605e",
+      "liveUrl": "https://www.youtube.com/watch?v=P7qM1aPW8tQ"
+    },
+    {
+      "channelName": "뉴스한땀",
+      "title": "[생방송 #투목쇼] 김민석, 의원 전원 비상 대기 요청 !내란 한덕수의 '운명의 4시' #국대토크 #최진봉 #김용민 #뉴스한땀 (26. 11. 19, 11:00~)",
+      "viewers": 980,
+      "thumbnail": "https://i.ytimg.com/vi/WGNiJNyBei8/maxresdefault.jpg?v=6afe44a3",
+      "liveUrl": "https://www.youtube.com/watch?v=WGNiJNyBei8"
     }
   ],
   "right": [
     {
       "channelName": "이영풍TV",
       "title": "● 이영풍TV (2026.11.19) 추경호를 제거하려던 자들! 국힘 내부 부역자는 누구인가?",
-      "viewers": 4045,
+      "viewers": 4750,
       "thumbnail": "https://i.ytimg.com/vi/fbXi2LGycXE/maxresdefault.jpg?v=6afe5db8",
       "liveUrl": "https://www.youtube.com/watch?v=fbXi2LGycXE"
     },
     {
       "channelName": "멸콩TV",
       "title": "[여의도 검문소] 1부.2부 장예찬&고성국&김영환&김효은",
-      "viewers": 3688,
+      "viewers": 3720,
       "thumbnail": "https://i.ytimg.com/vi/soSc2pbeURY/maxresdefault.jpg?v=6afe43ed",
       "liveUrl": "https://www.youtube.com/watch?v=soSc2pbeURY"
     },
     {
       "channelName": "BJ톨",
       "title": "올공 강제 철거 마지막 날. 현장에서 무슨일이 벌어지나.(261119)",
-      "viewers": 556,
+      "viewers": 563,
       "thumbnail": "https://i.ytimg.com/vi/EOAmTG5CjAI/sddefault.jpg?v=6afe2d80",
       "liveUrl": "https://www.youtube.com/watch?v=EOAmTG5CjAI"
     },
     {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[🔴LIVE] 추경호 무죄! 한동훈 덕!? / 안철수 한동훈 복당에 쌍심지 켰다! 또? 왜!? / 조경태 '장동혁 사퇴해!' / 달라진 나경원? / 수능 아침! 리트냥이 행방은?",
-      "viewers": 200,
+      "viewers": 366,
       "thumbnail": "https://i.ytimg.com/vi/xh0ClgwuHi0/maxresdefault.jpg?v=6afe638a",
       "liveUrl": "https://www.youtube.com/watch?v=xh0ClgwuHi0"
     },
     {
       "channelName": "청년의소리TV",
       "title": "[LIVE] 10월. 이재명 재판재개, 올공, 박정희대통령, 애국시민들 그리고 장동혁.",
-      "viewers": 55,
+      "viewers": 48,
       "thumbnail": "https://i.ytimg.com/vi/aZuF4FdlOEM/maxresdefault.jpg?v=6afe6897",
       "liveUrl": "https://www.youtube.com/watch?v=aZuF4FdlOEM"
     }
   ],
-  "updatedAt": "2026-11-19T04:00:52.061Z"
+  "updatedAt": "2026-11-19T04:05:39.395Z"
 }
