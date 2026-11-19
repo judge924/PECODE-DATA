@@ -22,8 +22,8 @@
         "room_no": "728호"
       },
       "staff": {
-        "aide": "권오선, 기영서",
-        "chief_secretary": "윤무영, 이세라",
+        "aide": "기영서, 윤무영",
+        "chief_secretary": "권오선, 이세라",
         "secretary": "박혜민, 강민지, 유선준, 강형구, 김나형"
       }
     },
@@ -821,8 +821,8 @@
         "room_no": "728호",
         "phone": "02-784-5891",
         "email": "1bddoit@gmail.com",
-        "aide": "권오선, 기영서",
-        "chief_secretary": "윤무영, 이세라",
+        "aide": "기영서, 윤무영",
+        "chief_secretary": "권오선, 이세라",
         "secretary": "박혜민, 강민지, 유선준, 강형구, 김나형"
       }
     ],
@@ -1283,14 +1283,14 @@
           "ASSEM_EMAIL": "1bddoit@gmail.com",
           "HJ_NM": "韓秉道",
           "ROOM_NO": "728호",
-          "STAFF": "권오선, 기영서",
-          "SECRETARY": "윤무영, 이세라",
+          "STAFF": "기영서, 윤무영",
+          "SECRETARY": "권오선, 이세라",
           "SECRETARY2": "박혜민, 강민지, 유선준, 강형구, 김나형",
           "MONA_CD": "H5476989"
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.357Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700006",
@@ -2133,7 +2133,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700008",
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700590",
@@ -4269,7 +4269,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700512",
@@ -4582,8 +4582,8 @@
           "room_no": "728호"
         },
         "staff": {
-          "aide": "권오선, 기영서",
-          "chief_secretary": "윤무영, 이세라",
+          "aide": "기영서, 윤무영",
+          "chief_secretary": "권오선, 이세라",
           "secretary": "박혜민, 강민지, 유선준, 강형구, 김나형"
         }
       }
@@ -4745,8 +4745,8 @@
         "room_no": "728호",
         "phone": "02-784-5891",
         "email": "1bddoit@gmail.com",
-        "aide": "권오선, 기영서",
-        "chief_secretary": "윤무영, 이세라",
+        "aide": "기영서, 윤무영",
+        "chief_secretary": "권오선, 이세라",
         "secretary": "박혜민, 강민지, 유선준, 강형구, 김나형"
       }
     ],
@@ -5015,14 +5015,14 @@
           "ASSEM_EMAIL": "1bddoit@gmail.com",
           "HJ_NM": "韓秉道",
           "ROOM_NO": "728호",
-          "STAFF": "권오선, 기영서",
-          "SECRETARY": "윤무영, 이세라",
+          "STAFF": "기영서, 윤무영",
+          "SECRETARY": "권오선, 이세라",
           "SECRETARY2": "박혜민, 강민지, 유선준, 강형구, 김나형",
           "MONA_CD": "H5476989"
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700479",
@@ -5910,7 +5910,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700409",
@@ -6888,7 +6888,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700019",
@@ -7686,7 +7686,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700480",
@@ -7774,25 +7774,6 @@
           "aide": "권용성, 김태호",
           "chief_secretary": "박명환, 이지영",
           "secretary": "이신, 구민희, 임준묵, 조현근, 김보영"
-        }
-      },
-      {
-        "member_id": "B7D7534L",
-        "name": "김영배",
-        "hanja_name": "金永培",
-        "party": "더불어민주당",
-        "district": "서울 성북구갑",
-        "role": "위원",
-        "photo_url": "https://abzpnwujausyyxxwyscb.supabase.co/storage/v1/object/public/members/thumb/B7D7534L.jpg",
-        "contact": {
-          "phone": "02-784-1521",
-          "email": "yb7841521@gmail.com ",
-          "room_no": "627호"
-        },
-        "staff": {
-          "aide": "김하림, 양승준, 하동욱",
-          "chief_secretary": "구서로, 이나현",
-          "secretary": "노성민, 김태식, 윤석진, 박주현"
         }
       },
       {
@@ -8043,6 +8024,25 @@
         }
       },
       {
+        "member_id": "TJW93720",
+        "name": "전용기",
+        "hanja_name": "田溶冀",
+        "party": "더불어민주당",
+        "district": "경기 화성시정",
+        "role": "위원",
+        "photo_url": "https://abzpnwujausyyxxwyscb.supabase.co/storage/v1/object/public/members/thumb/TJW93720.jpg",
+        "contact": {
+          "phone": "02-784-2843",
+          "email": "braveplane@gmail.com",
+          "room_no": "1001호"
+        },
+        "staff": {
+          "aide": "강병정, 김태완",
+          "chief_secretary": "김성준, 이원준",
+          "secretary": "송지현, 조유리, 임성호, 김미소, 박찬형"
+        }
+      },
+      {
         "member_id": "XG348314",
         "name": "정춘생",
         "hanja_name": "鄭春生",
@@ -8139,16 +8139,6 @@
         "aide": "권용성, 김태호",
         "chief_secretary": "박명환, 이지영",
         "secretary": "이신, 구민희, 임준묵, 조현근, 김보영"
-      },
-      {
-        "member_name": "김영배",
-        "party": "더불어민주당",
-        "room_no": "627호",
-        "phone": "02-784-1521",
-        "email": "yb7841521@gmail.com ",
-        "aide": "김하림, 양승준, 하동욱",
-        "chief_secretary": "구서로, 이나현",
-        "secretary": "노성민, 김태식, 윤석진, 박주현"
       },
       {
         "member_name": "김영진",
@@ -8301,6 +8291,16 @@
         "secretary": "김준성, 임희식, 서호영, 박서연, 이예진"
       },
       {
+        "member_name": "전용기",
+        "party": "더불어민주당",
+        "room_no": "1001호",
+        "phone": "02-784-2843",
+        "email": "braveplane@gmail.com",
+        "aide": "강병정, 김태완",
+        "chief_secretary": "김성준, 이원준",
+        "secretary": "송지현, 조유리, 임성호, 김미소, 박찬형"
+      },
+      {
         "member_name": "정춘생",
         "party": "조국혁신당",
         "room_no": "513호",
@@ -8386,22 +8386,6 @@
           "SECRETARY": "박명환, 이지영",
           "SECRETARY2": "이신, 구민희, 임준묵, 조현근, 김보영",
           "MONA_CD": "LYY5513O"
-        },
-        {
-          "DEPT_CD": "9700480",
-          "DEPT_NM": "행정안전위원회",
-          "JOB_RES_NM": "위원",
-          "HG_NM": "김영배",
-          "ORIG_NM": "서울 성북구갑",
-          "POLY_NM": "더불어민주당",
-          "ASSEM_TEL": "02-784-1521",
-          "ASSEM_EMAIL": "yb7841521@gmail.com ",
-          "HJ_NM": "金永培",
-          "ROOM_NO": "627호",
-          "STAFF": "김하림, 양승준, 하동욱",
-          "SECRETARY": "구서로, 이나현",
-          "SECRETARY2": "노성민, 김태식, 윤석진, 박주현",
-          "MONA_CD": "B7D7534L"
         },
         {
           "DEPT_CD": "9700480",
@@ -8645,6 +8629,22 @@
         },
         {
           "DEPT_CD": "9700480",
+          "DEPT_NM": null,
+          "JOB_RES_NM": "위원",
+          "HG_NM": "전용기",
+          "ORIG_NM": "경기 화성시정",
+          "POLY_NM": "더불어민주당",
+          "ASSEM_TEL": "02-784-2843",
+          "ASSEM_EMAIL": "braveplane@gmail.com",
+          "HJ_NM": "田溶冀",
+          "ROOM_NO": "1001호",
+          "STAFF": "강병정, 김태완",
+          "SECRETARY": "김성준, 이원준",
+          "SECRETARY2": "송지현, 조유리, 임성호, 김미소, 박찬형",
+          "MONA_CD": "TJW93720"
+        },
+        {
+          "DEPT_CD": "9700480",
           "DEPT_NM": "행정안전위원회",
           "JOB_RES_NM": "위원",
           "HG_NM": "정춘생",
@@ -8709,7 +8709,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700513",
@@ -9462,7 +9462,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700408",
@@ -10350,7 +10350,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700481",
@@ -11463,7 +11463,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700341",
@@ -12576,7 +12576,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700585",
@@ -12640,7 +12640,7 @@
           "room_no": "932호"
         },
         "staff": {
-          "aide": "이경민, 홍기돈",
+          "aide": "이경민",
           "chief_secretary": "강소라, 박수환",
           "secretary": "손하은, 서홍인, 김하영, 노민석, 오채영"
         }
@@ -13342,7 +13342,7 @@
         "room_no": "932호",
         "phone": "02-784-4990",
         "email": "choiwakeup@gmail.com",
-        "aide": "이경민, 홍기돈",
+        "aide": "이경민",
         "chief_secretary": "강소라, 박수환",
         "secretary": "손하은, 서홍인, 김하영, 노민석, 오채영"
       }
@@ -13772,14 +13772,14 @@
           "ASSEM_EMAIL": "choiwakeup@gmail.com",
           "HJ_NM": "崔基相",
           "ROOM_NO": "932호",
-          "STAFF": "이경민, 홍기돈",
+          "STAFF": "이경민",
           "SECRETARY": "강소라, 박수환",
           "SECRETARY2": "손하은, 서홍인, 김하영, 노민석, 오채영",
           "MONA_CD": "I5I2468R"
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700407",
@@ -13924,6 +13924,25 @@
           "aide": "",
           "chief_secretary": "",
           "secretary": ""
+        }
+      },
+      {
+        "member_id": "B7D7534L",
+        "name": "김영배",
+        "hanja_name": "金永培",
+        "party": "더불어민주당",
+        "district": "서울 성북구갑",
+        "role": "위원",
+        "photo_url": "https://abzpnwujausyyxxwyscb.supabase.co/storage/v1/object/public/members/thumb/B7D7534L.jpg",
+        "contact": {
+          "phone": "02-784-1521",
+          "email": "yb7841521@gmail.com ",
+          "room_no": "627호"
+        },
+        "staff": {
+          "aide": "김하림, 양승준, 하동욱",
+          "chief_secretary": "구서로, 이나현",
+          "secretary": "노성민, 김태식, 윤석진, 박주현"
         }
       },
       {
@@ -14231,25 +14250,6 @@
         }
       },
       {
-        "member_id": "TJW93720",
-        "name": "전용기",
-        "hanja_name": "田溶冀",
-        "party": "더불어민주당",
-        "district": "경기 화성시정",
-        "role": "위원",
-        "photo_url": "https://abzpnwujausyyxxwyscb.supabase.co/storage/v1/object/public/members/thumb/TJW93720.jpg",
-        "contact": {
-          "phone": "02-784-2843",
-          "email": "braveplane@gmail.com",
-          "room_no": "1001호"
-        },
-        "staff": {
-          "aide": "강병정, 김태완",
-          "chief_secretary": "김성준, 이원준",
-          "secretary": "송지현, 조유리, 임성호, 김미소, 박찬형"
-        }
-      },
-      {
         "member_id": "LT72093S",
         "name": "정일영",
         "hanja_name": "鄭日永",
@@ -14404,6 +14404,16 @@
         "aide": "",
         "chief_secretary": "",
         "secretary": ""
+      },
+      {
+        "member_name": "김영배",
+        "party": "더불어민주당",
+        "room_no": "627호",
+        "phone": "02-784-1521",
+        "email": "yb7841521@gmail.com ",
+        "aide": "김하림, 양승준, 하동욱",
+        "chief_secretary": "구서로, 이나현",
+        "secretary": "노성민, 김태식, 윤석진, 박주현"
       },
       {
         "member_name": "김은혜",
@@ -14586,16 +14596,6 @@
         "secretary": "김창관, 성현성, 공오윤, 이종원"
       },
       {
-        "member_name": "전용기",
-        "party": "더불어민주당",
-        "room_no": "1001호",
-        "phone": "02-784-2843",
-        "email": "braveplane@gmail.com",
-        "aide": "강병정, 김태완",
-        "chief_secretary": "김성준, 이원준",
-        "secretary": "송지현, 조유리, 임성호, 김미소, 박찬형"
-      },
-      {
         "member_name": "정동만",
         "party": "국민의힘",
         "room_no": "1006호",
@@ -14743,6 +14743,22 @@
           "SECRETARY": null,
           "SECRETARY2": null,
           "MONA_CD": "3BC6890E"
+        },
+        {
+          "DEPT_CD": "9700407",
+          "DEPT_NM": null,
+          "JOB_RES_NM": "위원",
+          "HG_NM": "김영배",
+          "ORIG_NM": "서울 성북구갑",
+          "POLY_NM": "더불어민주당",
+          "ASSEM_TEL": "02-784-1521",
+          "ASSEM_EMAIL": "yb7841521@gmail.com ",
+          "HJ_NM": "金永培",
+          "ROOM_NO": "627호",
+          "STAFF": "김하림, 양승준, 하동욱",
+          "SECRETARY": "구서로, 이나현",
+          "SECRETARY2": "노성민, 김태식, 윤석진, 박주현",
+          "MONA_CD": "B7D7534L"
         },
         {
           "DEPT_CD": "9700407",
@@ -15035,22 +15051,6 @@
         {
           "DEPT_CD": "9700407",
           "DEPT_NM": "국토교통위원회",
-          "JOB_RES_NM": "위원",
-          "HG_NM": "전용기",
-          "ORIG_NM": "경기 화성시정",
-          "POLY_NM": "더불어민주당",
-          "ASSEM_TEL": "02-784-2843",
-          "ASSEM_EMAIL": "braveplane@gmail.com",
-          "HJ_NM": "田溶冀",
-          "ROOM_NO": "1001호",
-          "STAFF": "강병정, 김태완",
-          "SECRETARY": "김성준, 이원준",
-          "SECRETARY2": "송지현, 조유리, 임성호, 김미소, 박찬형",
-          "MONA_CD": "TJW93720"
-        },
-        {
-          "DEPT_CD": "9700407",
-          "DEPT_NM": "국토교통위원회",
           "JOB_RES_NM": "간사",
           "HG_NM": "정동만",
           "ORIG_NM": "부산 기장군",
@@ -15162,7 +15162,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700047",
@@ -15399,8 +15399,8 @@
           "room_no": "728호"
         },
         "staff": {
-          "aide": "권오선, 기영서",
-          "chief_secretary": "윤무영, 이세라",
+          "aide": "기영서, 윤무영",
+          "chief_secretary": "권오선, 이세라",
           "secretary": "박혜민, 강민지, 유선준, 강형구, 김나형"
         }
       }
@@ -15522,8 +15522,8 @@
         "room_no": "728호",
         "phone": "02-784-5891",
         "email": "1bddoit@gmail.com",
-        "aide": "권오선, 기영서",
-        "chief_secretary": "윤무영, 이세라",
+        "aide": "기영서, 윤무영",
+        "chief_secretary": "권오선, 이세라",
         "secretary": "박혜민, 강민지, 유선준, 강형구, 김나형"
       }
     ],
@@ -15728,14 +15728,14 @@
           "ASSEM_EMAIL": "1bddoit@gmail.com",
           "HJ_NM": "韓秉道",
           "ROOM_NO": "728호",
-          "STAFF": "권오선, 기영서",
-          "SECRETARY": "윤무영, 이세라",
+          "STAFF": "기영서, 윤무영",
+          "SECRETARY": "권오선, 이세라",
           "SECRETARY2": "박혜민, 강민지, 유선준, 강형구, 김나형",
           "MONA_CD": "H5476989"
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700586",
@@ -16533,7 +16533,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.338Z"
   },
   {
     "dept_cd": "9700049",
@@ -17416,7 +17416,7 @@
           "room_no": "932호"
         },
         "staff": {
-          "aide": "이경민, 홍기돈",
+          "aide": "이경민",
           "chief_secretary": "강소라, 박수환",
           "secretary": "손하은, 서홍인, 김하영, 노민석, 오채영"
         }
@@ -17955,7 +17955,7 @@
         "room_no": "932호",
         "phone": "02-784-4990",
         "email": "choiwakeup@gmail.com",
-        "aide": "이경민, 홍기돈",
+        "aide": "이경민",
         "chief_secretary": "강소라, 박수환",
         "secretary": "손하은, 서홍인, 김하영, 노민석, 오채영"
       },
@@ -18745,7 +18745,7 @@
           "ASSEM_EMAIL": "choiwakeup@gmail.com",
           "HJ_NM": "崔基相",
           "ROOM_NO": "932호",
-          "STAFF": "이경민, 홍기돈",
+          "STAFF": "이경민",
           "SECRETARY": "강소라, 박수환",
           "SECRETARY2": "손하은, 서홍인, 김하영, 노민석, 오채영",
           "MONA_CD": "I5I2468R"
@@ -18816,7 +18816,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.339Z"
   },
   {
     "dept_cd": "9700572",
@@ -19659,7 +19659,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.339Z"
   },
   {
     "dept_cd": "9700598",
@@ -20502,7 +20502,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.339Z"
   },
   {
     "dept_cd": "9700579",
@@ -21435,7 +21435,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.339Z"
   },
   {
     "dept_cd": "9700581",
@@ -22053,6 +22053,6 @@
         }
       ]
     },
-    "updated_at": "2026-11-18T01:07:46.358Z"
+    "updated_at": "2026-11-19T00:38:59.339Z"
   }
 ]
