@@ -3,7 +3,7 @@
     {
       "channelName": "고발뉴스TV",
       "title": "하이라이트] 고발뉴스 순방 쇼츠 대박 이유는? 최민희 쉴드 팀김어준 망했다",
-      "viewers": 629,
+      "viewers": 612,
       "thumbnail": "https://i.ytimg.com/vi/TEk8bqd9dOA/maxresdefault.jpg?v=6affd5f7",
       "liveUrl": "https://www.youtube.com/watch?v=TEk8bqd9dOA"
     },
@@ -13,8 +13,15 @@
       "viewers": 175,
       "thumbnail": "https://i.ytimg.com/vi/GWS8ma2h-R8/maxresdefault.jpg?v=6b001d0c",
       "liveUrl": "https://www.youtube.com/watch?v=GWS8ma2h-R8"
+    },
+    {
+      "channelName": "띵굴TV",
+      "title": "[261121] ‘TV조선 재승인’ 무죄, 결국 항소한 공소청",
+      "viewers": 26,
+      "thumbnail": "https://i.ytimg.com/vi/5zt4mtdPqh8/maxresdefault.jpg?v=6b00b16c",
+      "liveUrl": "https://www.youtube.com/watch?v=5zt4mtdPqh8"
     }
   ],
   "right": [],
-  "updatedAt": "2026-11-20T20:45:37.132Z"
+  "updatedAt": "2026-11-20T20:50:39.856Z"
 }
