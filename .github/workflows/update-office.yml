@@ -1,0 +1,59 @@
+name: 🏛️ 대통령비서실 인사 일일 자동 수집 및 Supabase 누적 엔진
+
+on:
+  schedule:
+    # 한국시간(KST) 매일 10:04 정기 실행 (UTC 기준 01:04)
+    - cron: '4 1 * * *'
+  workflow_dispatch: # 깃허브 웹에서 수동 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  collect-office-hr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Node.js 세팅
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 패키지 세팅 (ESM 모듈 호환)
+        run: |
+          if [ ! -f package.json ]; then
+            npm init -y
+            npm pkg set type="module"
+          fi
+
+      # ⭐️ [비공개 레포 연동]: judge924/PECODE에서 스크립트 일시 가져오기
+      - name: 비공개 핵심 스크립트 로드
+        uses: actions/checkout@v4
+        with:
+          repository: judge924/PECODE
+          token: ${{ secrets.CORE_ACCESS_TOKEN }}
+          path: temp_private_repo
+
+      # ⭐️ [수집 실행 및 즉시 삭제]: 비공개 스크립트 실행 후 Supabase 직납 및 소멸
+      - name: 대통령비서실 인사 수집 및 Supabase 누적
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY || secrets.SUPABASE_KEY }}
+          SLACK_WEBHOOK_HR_URL: ${{ secrets.SLACK_WEBHOOK_HR_URL }}
+          SLACK_WEBHOOK_SYS_URL: ${{ secrets.SLACK_WEBHOOK_SYS_URL }}
+        run: |
+          # 1. 비공개 레포의 crawler-presidency-office.mjs를 현재 루트로 복사
+          cp temp_private_repo/scripts/crawler-presidency-office.mjs ./crawler-presidency-office.mjs
+          
+          # 2. 임시로 클론했던 비공개 레포 폴더 전체 즉시 영구 삭제
+          rm -rf temp_private_repo
+          
+          # 3. 크롤러 실행 (청와대 수집, 검증, 스냅샷 적재 및 Slack 발송)
+          node crawler-presidency-office.mjs
+          
+          # 4. 실행 직후 현재 디렉토리의 crawler-presidency-office.mjs 즉시 영구 삭제 (보안 파기)
+          rm -f ./crawler-presidency-office.mjs
