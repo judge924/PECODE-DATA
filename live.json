@@ -3,25 +3,40 @@
     {
       "channelName": "1일0식",
       "title": "[박영식 라이브] 아무리 '경징계' 노래불러도 중징계는 불가피하다?",
-      "viewers": 1276,
+      "viewers": 2110,
       "thumbnail": "https://i.ytimg.com/vi/h62_-NslZNs/maxresdefault.jpg?v=6b007a89",
       "liveUrl": "https://www.youtube.com/watch?v=h62_-NslZNs"
     },
     {
       "channelName": "고발뉴스TV",
       "title": "하이라이트] 고발뉴스 순방 쇼츠 대박 이유는? 최민희 쉴드 팀김어준 망했다",
-      "viewers": 554,
+      "viewers": 531,
       "thumbnail": "https://i.ytimg.com/vi/TEk8bqd9dOA/maxresdefault.jpg?v=6affd5f7",
       "liveUrl": "https://www.youtube.com/watch?v=TEk8bqd9dOA"
     },
     {
       "channelName": "뉴스한땀",
       "title": "[야간 #투목쇼] 탄핵추진단(단장 양부남)과 27일 최민희 징계, 투목사 마력으로 버프 드간다~ #최진봉 #김용민 #국대토크(261120)",
-      "viewers": 259,
+      "viewers": 234,
       "thumbnail": "https://i.ytimg.com/vi/GWS8ma2h-R8/maxresdefault.jpg?v=6b001d0c",
       "liveUrl": "https://www.youtube.com/watch?v=GWS8ma2h-R8"
+    },
+    {
+      "channelName": "이송원TV",
+      "title": "정권과 민주당의 정체성 훼손! 최민희 사안은 김민석 징계와 차원이 다르다!!!",
+      "viewers": 131,
+      "thumbnail": "https://i.ytimg.com/vi/9NxzTdHgZkU/maxresdefault.jpg?v=6afff603",
+      "liveUrl": "https://www.youtube.com/watch?v=9NxzTdHgZkU"
     }
   ],
-  "right": [],
-  "updatedAt": "2026-11-21T00:00:59.296Z"
+  "right": [
+    {
+      "channelName": "김사랑작가tv",
+      "title": "만사혁통 언제 탈출 하셨나요?공구리#모이자!대구로!#장동혁#주진우 #안철수#이진숙#김태규 #김사랑작가TV#전한길",
+      "viewers": 124,
+      "thumbnail": "https://i.ytimg.com/vi/0jSRQUtQT7c/maxresdefault.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=0jSRQUtQT7c"
+    }
+  ],
+  "updatedAt": "2026-11-21T00:05:38.370Z"
 }
