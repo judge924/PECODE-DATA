@@ -3,21 +3,21 @@
     {
       "channelName": "알리미 황희두",
       "title": "[Live] 난리난 뉴일베 근황ㅋㅋㅋ 조희대 탄핵 추진에 분열 시작! / 나락간 김준혁 의원! 무능한 정민철 또 팀킬 / 뉴스피커 최민희 억까에 코어층 총결집",
-      "viewers": 4028,
+      "viewers": 4099,
       "thumbnail": "https://i.ytimg.com/vi/u1Pwdrq3HcY/maxresdefault.jpg?v=6b027706",
       "liveUrl": "https://www.youtube.com/watch?v=u1Pwdrq3HcY"
     },
     {
       "channelName": "뉴스토마토",
       "title": "🔴LIVE 역대급 환대받은 순방!! 오히려 긁힌 국힘? 질투에 '부글' 질투 가득한 국힘 한다는 말이.. #이재명 #대통령 #환대 #의전 #정치 (1122_일)",
-      "viewers": 820,
+      "viewers": 1107,
       "thumbnail": "https://i.ytimg.com/vi/ScTKnnvYa3Y/maxresdefault.jpg?v=6b029ef9",
       "liveUrl": "https://www.youtube.com/watch?v=ScTKnnvYa3Y"
     },
     {
       "channelName": "고발뉴스TV",
       "title": "하이라이트] 고발뉴스 순방 쇼츠 대박 이유는? 최민희 쉴드 팀김어준 망했다",
-      "viewers": 135,
+      "viewers": 128,
       "thumbnail": "https://i.ytimg.com/vi/TEk8bqd9dOA/maxresdefault.jpg?v=6affd5f7",
       "liveUrl": "https://www.youtube.com/watch?v=TEk8bqd9dOA"
     },
@@ -31,26 +31,33 @@
   ],
   "right": [
     {
+      "channelName": "성제준",
+      "title": "[26.11.22] 성제준 출연",
+      "viewers": 403,
+      "thumbnail": "https://i.ytimg.com/vi/nSsJuRrGKp0/maxresdefault.jpg?v=6b02a005",
+      "liveUrl": "https://www.youtube.com/watch?v=nSsJuRrGKp0"
+    },
+    {
       "channelName": "김태우TV",
       "title": "12월전에 탄핵한다는 민주당!조희대 탄핵 반대, 전 당원 투표 의견 주목",
-      "viewers": 150,
+      "viewers": 169,
       "thumbnail": "https://i.ytimg.com/vi/oCCoE9xdS2g/maxresdefault.jpg?v=6b029b1b",
       "liveUrl": "https://www.youtube.com/watch?v=oCCoE9xdS2g"
     },
     {
-      "channelName": "뉴스엔진 정답은없다",
-      "title": "[🔴LIVE] 조갑제 \"장동혁 제명 못해서 28총선에서 또 당할 가능성 높다\"",
-      "viewers": 41,
-      "thumbnail": "https://i.ytimg.com/vi/MqwRhghEtco/maxresdefault.jpg?v=6b023109",
-      "liveUrl": "https://www.youtube.com/watch?v=MqwRhghEtco"
-    },
-    {
       "channelName": "자유대한호국단",
       "title": "[실시간] 8차 정성국 의원 정계퇴출 시위_부산_20261122_자유대한호국단",
-      "viewers": 41,
-      "thumbnail": "https://i.ytimg.com/vi/cO-Gip31F_Y/maxresdefault.jpg?v=1",
+      "viewers": 53,
+      "thumbnail": "https://i.ytimg.com/vi/cO-Gip31F_Y/maxresdefault.jpg?v=2",
       "liveUrl": "https://www.youtube.com/watch?v=cO-Gip31F_Y"
+    },
+    {
+      "channelName": "뉴스엔진 정답은없다",
+      "title": "[🔴LIVE] 조갑제 \"장동혁 제명 못해서 28총선에서 또 당할 가능성 높다\"",
+      "viewers": 31,
+      "thumbnail": "https://i.ytimg.com/vi/MqwRhghEtco/maxresdefault.jpg?v=6b023109",
+      "liveUrl": "https://www.youtube.com/watch?v=MqwRhghEtco"
     }
   ],
-  "updatedAt": "2026-11-22T07:55:32.168Z"
+  "updatedAt": "2026-11-22T08:00:51.528Z"
 }
