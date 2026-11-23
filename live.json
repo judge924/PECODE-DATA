@@ -2,22 +2,22 @@
   "left": [
     {
       "channelName": "이동형TV",
-      "title": "[청정구역] 11/23 생방송",
-      "viewers": 15442,
-      "thumbnail": "https://i.ytimg.com/vi/m4zRKdUZ41o/maxresdefault.jpg?v=6b041772",
+      "title": "[경제라운지] 11/23 생방송",
+      "viewers": 12570,
+      "thumbnail": "https://i.ytimg.com/vi/m4zRKdUZ41o/maxresdefault.jpg?v=6b0424bb",
       "liveUrl": "https://www.youtube.com/watch?v=m4zRKdUZ41o"
     },
     {
       "channelName": "신인규 박영식의 시방쇼",
       "title": "이재명 대통령, 행안부에 한준호 후보자·문체부에 강유정 후보자 발탁…'국정 실행력'에 방점?",
-      "viewers": 3288,
+      "viewers": 3777,
       "thumbnail": "https://i.ytimg.com/vi/I-YiOk6PZ_0/maxresdefault.jpg?v=6b0419cd",
       "liveUrl": "https://www.youtube.com/watch?v=I-YiOk6PZ_0"
     },
     {
       "channelName": "고발뉴스TV",
       "title": "반명세력 헛발질 설자리 잃어..이재명 대통령 2기, 국정 장악력 높인다..이상호의 뉴스비평 2026년 11월 23일 1,537회 [ft. 정민철, 정은혜, 허재현, 노승혜]",
-      "viewers": 770,
+      "viewers": 827,
       "thumbnail": "https://i.ytimg.com/vi/kFJz8drnXfU/maxresdefault.jpg?v=6b041286",
       "liveUrl": "https://www.youtube.com/watch?v=kFJz8drnXfU"
     }
@@ -26,52 +26,52 @@
     {
       "channelName": "송국건의 혼술",
       "title": "★“李정권 붕괴” 막 오르는 날! 이용철 자폭 청문회+정청래 깃발 ★李 ‘추미애 저격수’ 뽑았다! ★‘전두환 기념사업회’ 뜬다!",
-      "viewers": 5852,
+      "viewers": 6114,
       "thumbnail": "https://i.ytimg.com/vi/CywuxQhyn8U/maxresdefault.jpg?v=6b041294",
       "liveUrl": "https://www.youtube.com/watch?v=CywuxQhyn8U"
     },
     {
       "channelName": "BJ톨",
       "title": "드디어 여론 10%대! 판사 집단행동. 이재명 당선무효? 역적모의 발칵. 장동혁 대폭발.(261123)",
-      "viewers": 2666,
+      "viewers": 2409,
       "thumbnail": "https://i.ytimg.com/vi/eySuVAB60kQ/sddefault.jpg?v=6b03d650",
       "liveUrl": "https://www.youtube.com/watch?v=eySuVAB60kQ"
     },
     {
-      "channelName": "전여옥TV",
-      "title": "여옥대첩982:'꽝'조작징계  한동훈 KO패!",
-      "viewers": 2014,
-      "thumbnail": "https://i.ytimg.com/vi/A228vM2ODws/maxresdefault.jpg?v=6b041390",
-      "liveUrl": "https://www.youtube.com/watch?v=A228vM2ODws"
-    },
-    {
       "channelName": "손상대TV2",
       "title": "코스피 대폭락 4500도 흔들, 코스닥 2년 만에 최저ㅣ李 대장동 재판 정지 이진관 \"법 왜곡죄 고발\"ㅣ낙제 특검 안 되니 이번엔 특수본 가동 \"또 내란몰이냐\" [오후LIVE]",
-      "viewers": 2010,
+      "viewers": 2073,
       "thumbnail": "https://i.ytimg.com/vi/Q4Wbr69hRfc/maxresdefault.jpg?v=6b0411ff",
       "liveUrl": "https://www.youtube.com/watch?v=Q4Wbr69hRfc"
     },
     {
+      "channelName": "전여옥TV",
+      "title": "여옥대첩982:'꽝'조작징계  한동훈 KO패!",
+      "viewers": 2012,
+      "thumbnail": "https://i.ytimg.com/vi/A228vM2ODws/maxresdefault.jpg?v=6b041390",
+      "liveUrl": "https://www.youtube.com/watch?v=A228vM2ODws"
+    },
+    {
       "channelName": "가로세로연구소",
       "title": "[충격공포] 총체적 난국",
-      "viewers": 1415,
+      "viewers": 1433,
       "thumbnail": "https://i.ytimg.com/vi/TNBFVu6B55Y/maxresdefault.jpg?v=6b03ed12",
       "liveUrl": "https://www.youtube.com/watch?v=TNBFVu6B55Y"
     },
     {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 저녁 예배 (주여 열어주세요!!) - 김윤근 목사 2026.11.23.",
-      "viewers": 630,
+      "viewers": 641,
       "thumbnail": "https://i.ytimg.com/vi/LxXV1q5pBfM/maxresdefault.jpg?v=6b041862",
       "liveUrl": "https://www.youtube.com/watch?v=LxXV1q5pBfM"
     },
     {
       "channelName": "김사랑작가tv",
       "title": "소통방송)장동혁 당대표 상반기 후원금 분노#주진우 #안철수#이진숙#김태규 #김사랑작가TV#전한길",
-      "viewers": 395,
-      "thumbnail": "https://i.ytimg.com/vi/JOvVTb8Mp2k/maxresdefault.jpg?v=7",
+      "viewers": 408,
+      "thumbnail": "https://i.ytimg.com/vi/JOvVTb8Mp2k/maxresdefault.jpg?v=8",
       "liveUrl": "https://www.youtube.com/watch?v=JOvVTb8Mp2k"
     }
   ],
-  "updatedAt": "2026-11-23T11:30:51.537Z"
+  "updatedAt": "2026-11-23T11:35:36.777Z"
 }
