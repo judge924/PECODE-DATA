@@ -1,30 +1,37 @@
 {
   "left": [
     {
-      "channelName": "아고라",
-      "title": "🔴LIVEㅣ한준호 행안부·강유정 문체부, 이번 인선에 숨은 진짜 의도는?...최민희 녹취록 제보자의 정체 공개까지ㅣ김두일·김용민·오윤혜",
-      "viewers": 2321,
-      "thumbnail": "https://i.ytimg.com/vi/_ndk9tFazwk/maxresdefault.jpg?v=6b0532d0",
-      "liveUrl": "https://www.youtube.com/watch?v=_ndk9tFazwk"
-    },
-    {
       "channelName": "박시영TV",
       "title": "[LIVE] 김민석 100일, 언론도 낙제점! / 조희대 탄핵으로 쫙 갈라진 법관들 (ft.최강욱, 이지은, 이혜연)",
-      "viewers": 767,
+      "viewers": 3135,
       "thumbnail": "https://i.ytimg.com/vi/Os9vEKQHNtA/maxresdefault.jpg?v=6b0555e0",
       "liveUrl": "https://www.youtube.com/watch?v=Os9vEKQHNtA"
     },
     {
+      "channelName": "이동형TV",
+      "title": "[이동형의 촉] 11/24 생방송",
+      "viewers": 3096,
+      "thumbnail": "https://i.ytimg.com/vi/geBKISxgYCg/maxresdefault.jpg?v=6b055d25",
+      "liveUrl": "https://www.youtube.com/watch?v=geBKISxgYCg"
+    },
+    {
+      "channelName": "아고라",
+      "title": "🔴LIVEㅣ한준호 행안부·강유정 문체부, 이번 인선에 숨은 진짜 의도는?...최민희 녹취록 제보자의 정체 공개까지ㅣ김두일·김용민·오윤혜",
+      "viewers": 2093,
+      "thumbnail": "https://i.ytimg.com/vi/_ndk9tFazwk/maxresdefault.jpg?v=6b0532d0",
+      "liveUrl": "https://www.youtube.com/watch?v=_ndk9tFazwk"
+    },
+    {
       "channelName": "김어준의 겸손은힘들다 뉴스공장",
       "title": "[주기자라이브] l D-21, 한덕수 파기환송심 날 잡혔다! (김예니/박주민) l 2026년 11월 24일 (화)",
-      "viewers": 60,
+      "viewers": 973,
       "thumbnail": "https://i.ytimg.com/vi/ePVqbl1Cuow/maxresdefault.jpg?v=6b055ae7",
       "liveUrl": "https://www.youtube.com/watch?v=ePVqbl1Cuow"
     },
     {
       "channelName": "뉴탐사 NewTamsa",
       "title": "【261124】[국회라이브] 법사위, 이용철 법무부장관 인사청문회",
-      "viewers": 50,
+      "viewers": 37,
       "thumbnail": "https://i.ytimg.com/vi/EMjNNLcDj-E/maxresdefault.jpg?v=6b04cb38",
       "liveUrl": "https://www.youtube.com/watch?v=EMjNNLcDj-E"
     }
@@ -33,17 +40,31 @@
     {
       "channelName": "펜앤마이크TV",
       "title": "이용철, 이재명 성남FC 딱 걸렸다┃거세지는 조희대 탄핵역풍...국제망신 서영교? │징계 폭로자, 장동혁에 10억 요구하다 거절당해 [이것이 뉴스다]",
-      "viewers": 7754,
+      "viewers": 7926,
       "thumbnail": "https://i.ytimg.com/vi/y9OogpELn6k/maxresdefault.jpg?v=6b054b2e",
       "liveUrl": "https://www.youtube.com/watch?v=y9OogpELn6k"
     },
     {
       "channelName": "박민영TV",
       "title": "[박민영의 뉴스브리핑] 2026.11.24",
-      "viewers": 6299,
+      "viewers": 6653,
       "thumbnail": "https://i.ytimg.com/vi/zUTWEYnKyN8/maxresdefault.jpg?v=6b055634",
       "liveUrl": "https://www.youtube.com/watch?v=zUTWEYnKyN8"
+    },
+    {
+      "channelName": "성제준",
+      "title": "[26.11.24] 성제준 출연",
+      "viewers": 178,
+      "thumbnail": "https://i.ytimg.com/vi/3S6rMFEMi0w/maxresdefault.jpg?v=6b055ee2",
+      "liveUrl": "https://www.youtube.com/watch?v=3S6rMFEMi0w"
+    },
+    {
+      "channelName": "가로세로연구소",
+      "title": "[충격분노] 12월3일 국가기념일 된다",
+      "viewers": 86,
+      "thumbnail": "https://i.ytimg.com/vi/kFxxp1WPF2I/maxresdefault.jpg?v=6b05461f",
+      "liveUrl": "https://www.youtube.com/watch?v=kFxxp1WPF2I"
     }
   ],
-  "updatedAt": "2026-11-24T09:55:36.943Z"
+  "updatedAt": "2026-11-24T10:00:54.832Z"
 }
