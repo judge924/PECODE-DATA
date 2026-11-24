@@ -3,25 +3,33 @@
     {
       "channelName": "시사의품격",
       "title": "[이슈브리핑] 파격 그 자체, 이재명 정부 내각 인선의 의미 / 혼자 알아서 자빠지는 최민희, 팬덤정치가 진실을 가릴 수 없다 [2026.11.24]",
-      "viewers": 2386,
+      "viewers": 2413,
       "thumbnail": "https://i.ytimg.com/vi/WQYsgFfgg0c/maxresdefault.jpg?v=6b05beb0",
       "liveUrl": "https://www.youtube.com/watch?v=WQYsgFfgg0c"
     },
     {
       "channelName": "고발뉴스TV",
       "title": "사회 대개혁! 사이비 종교 해산..이재명 대통령 시즌2 강한게 온다..이상호의 뉴스비평 2026년 11월 24일 1,538회 [ft. 강미정, 민웅기, 허재현, 김지형]",
-      "viewers": 363,
+      "viewers": 365,
       "thumbnail": "https://i.ytimg.com/vi/Ed7ntC6OMIY/maxresdefault.jpg?v=6b056366",
       "liveUrl": "https://www.youtube.com/watch?v=Ed7ntC6OMIY"
     },
     {
       "channelName": "뉴스한땀",
       "title": "[야간 #투목쇼] 김민석 대표 100일 평가 해법, 'ㅇ심’ 잡고, ‘ㅇ친ㅇ' 버려라! #최진봉 #김용민 #국대토크(261124)",
-      "viewers": 154,
+      "viewers": 152,
       "thumbnail": "https://i.ytimg.com/vi/ILDO7QnGh2g/maxresdefault.jpg?v=6b0577ca",
       "liveUrl": "https://www.youtube.com/watch?v=ILDO7QnGh2g"
     }
   ],
-  "right": [],
-  "updatedAt": "2026-11-24T19:35:35.975Z"
+  "right": [
+    {
+      "channelName": "전광훈TV02",
+      "title": "[LIVE] 나라사랑 새벽 예배 (다시 한번 새롭게!) - 한창수 전도사 2026.11.25.",
+      "viewers": 9,
+      "thumbnail": "https://i.ytimg.com/vi/2japVO-j-Q0/maxresdefault.jpg",
+      "liveUrl": "https://www.youtube.com/watch?v=2japVO-j-Q0"
+    }
+  ],
+  "updatedAt": "2026-11-24T19:40:42.199Z"
 }
