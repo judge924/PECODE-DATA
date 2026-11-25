@@ -3,82 +3,75 @@
     {
       "channelName": "이동형TV",
       "title": "[이이제이] 11/25 생방송",
-      "viewers": 14440,
+      "viewers": 13756,
       "thumbnail": "https://i.ytimg.com/vi/5wDywSH1kcM/maxresdefault.jpg?v=6b06baf4",
       "liveUrl": "https://www.youtube.com/watch?v=5wDywSH1kcM"
     },
     {
-      "channelName": "박시영TV",
-      "title": "[LIVE] 끝나지 않은 싸움, 정청래 vs 김민석 / 탄핵, 재래식 언론 '대동단결' (ft. 민동기, 장인수, 이혜연)",
-      "viewers": 12913,
-      "thumbnail": "https://i.ytimg.com/vi/dNmCCc6rXUY/maxresdefault.jpg?v=6b06a64f",
-      "liveUrl": "https://www.youtube.com/watch?v=dNmCCc6rXUY"
-    },
-    {
       "channelName": "신인규 박영식의 시방쇼",
       "title": "송영길 \"李대통령 鄭 억울함 4시간 들어\" 발언에... 정청래 \"입조심하라\"?!",
-      "viewers": 2092,
+      "viewers": 2517,
       "thumbnail": "https://i.ytimg.com/vi/foJC-wtojuw/maxresdefault.jpg?v=6b06bd80",
       "liveUrl": "https://www.youtube.com/watch?v=foJC-wtojuw"
     },
     {
       "channelName": "고발뉴스TV",
       "title": "최민희 징계임박 정청래의 깃발은?..팀김어준 자백 “우리는 반명”..이상호의 뉴스비평 2026년 11월 25일 1,539회 [ft. 오창익, 강미정, 허재현, 노승혜]",
-      "viewers": 979,
+      "viewers": 1015,
       "thumbnail": "https://i.ytimg.com/vi/Ve0QIM4Uqgc/maxresdefault.jpg?v=6b06b802",
       "liveUrl": "https://www.youtube.com/watch?v=Ve0QIM4Uqgc"
     }
   ],
   "right": [
     {
-      "channelName": "박민영TV",
-      "title": "[박민영의 뉴스브리핑] 2026.11.25",
-      "viewers": 5135,
-      "thumbnail": "https://i.ytimg.com/vi/0Qw5_phWFgI/maxresdefault.jpg?v=6b06a55a",
-      "liveUrl": "https://www.youtube.com/watch?v=0Qw5_phWFgI"
-    },
-    {
       "channelName": "송국건의 혼술",
       "title": "★“대법원장 탄핵하면 행동 개시” 법원발 “이재명 재판” 북상 중! ★조희대 고향 간 장동혁! 왜? ★한동훈 도박! 금배지 걸었다!",
-      "viewers": 3587,
+      "viewers": 4332,
       "thumbnail": "https://i.ytimg.com/vi/7nrd_UYlfoY/maxresdefault.jpg?v=6b06b6e1",
       "liveUrl": "https://www.youtube.com/watch?v=7nrd_UYlfoY"
     },
     {
+      "channelName": "박민영TV",
+      "title": "[박민영의 뉴스브리핑] 2026.11.25",
+      "viewers": 4301,
+      "thumbnail": "https://i.ytimg.com/vi/0Qw5_phWFgI/maxresdefault.jpg?v=6b06a55a",
+      "liveUrl": "https://www.youtube.com/watch?v=0Qw5_phWFgI"
+    },
+    {
       "channelName": "손상대TV2",
       "title": "코스피 4700도 깨졌다 \"李 책임져라\"ㅣ\"총선 민주당 80석\" 지지율 11.6% 대폭락ㅣ국힘 윤리위원장 폭로, 한동훈 좌절ㅣ조갑제 ‘한동훈 따까리짓’ 그만하라 [오후LIVE]",
-      "viewers": 1426,
+      "viewers": 1665,
       "thumbnail": "https://i.ytimg.com/vi/coPNrQTN7ms/maxresdefault.jpg?v=6b06b4f7",
       "liveUrl": "https://www.youtube.com/watch?v=coPNrQTN7ms"
     },
     {
-      "channelName": "가로세로연구소",
-      "title": "[충격공포] 핵폭격기가 왔다",
-      "viewers": 1238,
-      "thumbnail": "https://i.ytimg.com/vi/1JL-O8zUqb8/maxresdefault.jpg?v=6b06a446",
-      "liveUrl": "https://www.youtube.com/watch?v=1JL-O8zUqb8"
-    },
-    {
       "channelName": "전여옥TV",
       "title": "여옥대첩983:한패륜 폭탄 터지기  5초전!",
-      "viewers": 1148,
+      "viewers": 1367,
       "thumbnail": "https://i.ytimg.com/vi/29KyrzPlb1E/maxresdefault.jpg?v=6b06b467",
       "liveUrl": "https://www.youtube.com/watch?v=29KyrzPlb1E"
     },
     {
+      "channelName": "가로세로연구소",
+      "title": "[충격공포] 핵폭격기가 왔다",
+      "viewers": 904,
+      "thumbnail": "https://i.ytimg.com/vi/1JL-O8zUqb8/maxresdefault.jpg?v=6b06a446",
+      "liveUrl": "https://www.youtube.com/watch?v=1JL-O8zUqb8"
+    },
+    {
       "channelName": "전광훈TV02",
       "title": "[LIVE] 나라사랑 수요 철야 예배 - 2026.11.25.",
-      "viewers": 780,
-      "thumbnail": "https://i.ytimg.com/vi/EYgjJQ9jLSI/maxresdefault.jpg?v=e",
+      "viewers": 793,
+      "thumbnail": "https://i.ytimg.com/vi/EYgjJQ9jLSI/maxresdefault.jpg?v=f",
       "liveUrl": "https://www.youtube.com/watch?v=EYgjJQ9jLSI"
     },
     {
       "channelName": "김사랑작가tv",
       "title": "집에 가는길#이재명 탈옥법 반대 국힘 장외집회2#장동혁 팬까페 만사혁통 공구리 1호 #주진우 #안철수 #이진숙#김태규 #김사랑작가TV#전한길",
-      "viewers": 385,
-      "thumbnail": "https://i.ytimg.com/vi/4fggyqrna2Y/maxresdefault.jpg?v=1e",
+      "viewers": 399,
+      "thumbnail": "https://i.ytimg.com/vi/4fggyqrna2Y/maxresdefault.jpg?v=1f",
       "liveUrl": "https://www.youtube.com/watch?v=4fggyqrna2Y"
     }
   ],
-  "updatedAt": "2026-11-25T11:15:39.467Z"
+  "updatedAt": "2026-11-25T11:20:39.417Z"
 }
