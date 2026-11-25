@@ -1290,7 +1290,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.840Z"
+    "updated_at": "2026-11-25T02:42:11.254Z"
   },
   {
     "dept_cd": "9700006",
@@ -2133,7 +2133,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.840Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700008",
@@ -2256,9 +2256,9 @@
           "room_no": "433호"
         },
         "staff": {
-          "aide": "",
-          "chief_secretary": "",
-          "secretary": ""
+          "aide": "강신형, 손병관",
+          "chief_secretary": "안지홍, 이주영",
+          "secretary": "전효수, 이경숙, 차성경, 이민영, 강인혁"
         }
       },
       {
@@ -2631,9 +2631,9 @@
         "room_no": "433호",
         "phone": "02-784-3851",
         "email": "dobongstar24@naver.com",
-        "aide": "",
-        "chief_secretary": "",
-        "secretary": ""
+        "aide": "강신형, 손병관",
+        "chief_secretary": "안지홍, 이주영",
+        "secretary": "전효수, 이경숙, 차성경, 이민영, 강인혁"
       },
       {
         "member_name": "김현정",
@@ -2903,9 +2903,9 @@
           "ASSEM_EMAIL": "dobongstar24@naver.com",
           "HJ_NM": "金宰燮",
           "ROOM_NO": "433호",
-          "STAFF": null,
-          "SECRETARY": null,
-          "SECRETARY2": null,
+          "STAFF": "강신형, 손병관",
+          "SECRETARY": "안지홍, 이주영",
+          "SECRETARY2": "전효수, 이경숙, 차성경, 이민영, 강인혁",
           "MONA_CD": "57B28032"
         },
         {
@@ -3246,7 +3246,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.840Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700590",
@@ -4269,7 +4269,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.840Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700512",
@@ -5022,7 +5022,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.840Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700479",
@@ -5910,7 +5910,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.840Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700409",
@@ -6888,7 +6888,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.840Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700019",
@@ -7686,7 +7686,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.840Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700480",
@@ -8013,7 +8013,7 @@
         "role": "위원",
         "photo_url": "https://abzpnwujausyyxxwyscb.supabase.co/storage/v1/object/public/members/thumb/W8W95421.jpg",
         "contact": {
-          "phone": "02-6788-6929",
+          "phone": "02-6788-6929, 031-321-9806",
           "email": "leesang@assembly.go.kr",
           "room_no": "1024호"
         },
@@ -8274,7 +8274,7 @@
         "member_name": "이상식",
         "party": "더불어민주당",
         "room_no": "1024호",
-        "phone": "02-6788-6929",
+        "phone": "02-6788-6929, 031-321-9806",
         "email": "leesang@assembly.go.kr",
         "aide": "노석종, 박대호",
         "chief_secretary": "강병근, 황현지",
@@ -8602,7 +8602,7 @@
           "HG_NM": "이상식",
           "ORIG_NM": "경기 용인시갑",
           "POLY_NM": "더불어민주당",
-          "ASSEM_TEL": "02-6788-6929",
+          "ASSEM_TEL": "02-6788-6929, 031-321-9806",
           "ASSEM_EMAIL": "leesang@assembly.go.kr",
           "HJ_NM": "李相植",
           "ROOM_NO": "1024호",
@@ -8709,7 +8709,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.840Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700513",
@@ -8853,7 +8853,7 @@
         "staff": {
           "aide": "김영욱, 문수훈",
           "chief_secretary": "김남수, 안소라",
-          "secretary": "양승수, 신동훈, 송호준, 최우현"
+          "secretary": "양승수, 신동훈, 송호준, 최우현, 김재현"
         }
       },
       {
@@ -8889,7 +8889,7 @@
           "room_no": "1015호"
         },
         "staff": {
-          "aide": "나경범, 최영목",
+          "aide": "나경범",
           "chief_secretary": "김소영, 박재흥",
           "secretary": "김지선, 차영훈, 임세은, 안태현, 김문석"
         }
@@ -9067,7 +9067,7 @@
         "email": "jwk@rebuildingk.kr",
         "aide": "김영욱, 문수훈",
         "chief_secretary": "김남수, 안소라",
-        "secretary": "양승수, 신동훈, 송호준, 최우현"
+        "secretary": "양승수, 신동훈, 송호준, 최우현, 김재현"
       },
       {
         "member_name": "노종면",
@@ -9085,7 +9085,7 @@
         "room_no": "1015호",
         "phone": "02-784-2062",
         "email": "trustbhj1015@naver.com",
-        "aide": "나경범, 최영목",
+        "aide": "나경범",
         "chief_secretary": "김소영, 박재흥",
         "secretary": "김지선, 차영훈, 임세은, 안태현, 김문석"
       },
@@ -9265,7 +9265,7 @@
           "ROOM_NO": "553호",
           "STAFF": "김영욱, 문수훈",
           "SECRETARY": "김남수, 안소라",
-          "SECRETARY2": "양승수, 신동훈, 송호준, 최우현",
+          "SECRETARY2": "양승수, 신동훈, 송호준, 최우현, 김재현",
           "MONA_CD": "DMP1439I"
         },
         {
@@ -9295,7 +9295,7 @@
           "ASSEM_EMAIL": "trustbhj1015@naver.com",
           "HJ_NM": "裵賢鎭",
           "ROOM_NO": "1015호",
-          "STAFF": "나경범, 최영목",
+          "STAFF": "나경범",
           "SECRETARY": "김소영, 박재흥",
           "SECRETARY2": "김지선, 차영훈, 임세은, 안태현, 김문석",
           "MONA_CD": "4X525582"
@@ -9462,7 +9462,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700408",
@@ -10350,7 +10350,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700481",
@@ -11463,7 +11463,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700341",
@@ -12576,7 +12576,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700585",
@@ -13779,7 +13779,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700407",
@@ -13999,7 +13999,7 @@
         "staff": {
           "aide": "김형준, 유신욱",
           "chief_secretary": "정명, 정희찬",
-          "secretary": "윤소정, 김소정, 한찬종, 최나원"
+          "secretary": "윤소정, 김소정, 한찬종, 최나원, 송정호"
         }
       },
       {
@@ -14443,7 +14443,7 @@
         "email": "moalarm2024@gmail.com",
         "aide": "김형준, 유신욱",
         "chief_secretary": "정명, 정희찬",
-        "secretary": "윤소정, 김소정, 한찬종, 최나원"
+        "secretary": "윤소정, 김소정, 한찬종, 최나원, 송정호"
       },
       {
         "member_name": "문정복",
@@ -14805,7 +14805,7 @@
           "ROOM_NO": "722호",
           "STAFF": "김형준, 유신욱",
           "SECRETARY": "정명, 정희찬",
-          "SECRETARY2": "윤소정, 김소정, 한찬종, 최나원",
+          "SECRETARY2": "윤소정, 김소정, 한찬종, 최나원, 송정호",
           "MONA_CD": "J1G57517"
         },
         {
@@ -15162,7 +15162,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700047",
@@ -15735,7 +15735,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700586",
@@ -16533,7 +16533,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700049",
@@ -18816,7 +18816,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700572",
@@ -19048,7 +19048,7 @@
         "role": "위원",
         "photo_url": "https://abzpnwujausyyxxwyscb.supabase.co/storage/v1/object/public/members/thumb/W8W95421.jpg",
         "contact": {
-          "phone": "02-6788-6929",
+          "phone": "02-6788-6929, 031-321-9806",
           "email": "leesang@assembly.go.kr",
           "room_no": "1024호"
         },
@@ -19288,7 +19288,7 @@
         "member_name": "이상식",
         "party": "더불어민주당",
         "room_no": "1024호",
-        "phone": "02-6788-6929",
+        "phone": "02-6788-6929, 031-321-9806",
         "email": "leesang@assembly.go.kr",
         "aide": "노석종, 박대호",
         "chief_secretary": "강병근, 황현지",
@@ -19552,7 +19552,7 @@
           "HG_NM": "이상식",
           "ORIG_NM": "경기 용인시갑",
           "POLY_NM": "더불어민주당",
-          "ASSEM_TEL": "02-6788-6929",
+          "ASSEM_TEL": "02-6788-6929, 031-321-9806",
           "ASSEM_EMAIL": "leesang@assembly.go.kr",
           "HJ_NM": "李相植",
           "ROOM_NO": "1024호",
@@ -19659,7 +19659,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700598",
@@ -20502,7 +20502,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700579",
@@ -21435,7 +21435,7 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   },
   {
     "dept_cd": "9700581",
@@ -21558,9 +21558,9 @@
           "room_no": "433호"
         },
         "staff": {
-          "aide": "",
-          "chief_secretary": "",
-          "secretary": ""
+          "aide": "강신형, 손병관",
+          "chief_secretary": "안지홍, 이주영",
+          "secretary": "전효수, 이경숙, 차성경, 이민영, 강인혁"
         }
       },
       {
@@ -21598,7 +21598,7 @@
         "staff": {
           "aide": "김형준, 유신욱",
           "chief_secretary": "정명, 정희찬",
-          "secretary": "윤소정, 김소정, 한찬종, 최나원"
+          "secretary": "윤소정, 김소정, 한찬종, 최나원, 송정호"
         }
       },
       {
@@ -21724,9 +21724,9 @@
         "room_no": "433호",
         "phone": "02-784-3851",
         "email": "dobongstar24@naver.com",
-        "aide": "",
-        "chief_secretary": "",
-        "secretary": ""
+        "aide": "강신형, 손병관",
+        "chief_secretary": "안지홍, 이주영",
+        "secretary": "전효수, 이경숙, 차성경, 이민영, 강인혁"
       },
       {
         "member_name": "남인순",
@@ -21746,7 +21746,7 @@
         "email": "moalarm2024@gmail.com",
         "aide": "김형준, 유신욱",
         "chief_secretary": "정명, 정희찬",
-        "secretary": "윤소정, 김소정, 한찬종, 최나원"
+        "secretary": "윤소정, 김소정, 한찬종, 최나원, 송정호"
       },
       {
         "member_name": "박수민",
@@ -21886,9 +21886,9 @@
           "ASSEM_EMAIL": "dobongstar24@naver.com",
           "HJ_NM": "金宰燮",
           "ROOM_NO": "433호",
-          "STAFF": null,
-          "SECRETARY": null,
-          "SECRETARY2": null,
+          "STAFF": "강신형, 손병관",
+          "SECRETARY": "안지홍, 이주영",
+          "SECRETARY2": "전효수, 이경숙, 차성경, 이민영, 강인혁",
           "MONA_CD": "57B28032"
         },
         {
@@ -21920,7 +21920,7 @@
           "ROOM_NO": "722호",
           "STAFF": "김형준, 유신욱",
           "SECRETARY": "정명, 정희찬",
-          "SECRETARY2": "윤소정, 김소정, 한찬종, 최나원",
+          "SECRETARY2": "윤소정, 김소정, 한찬종, 최나원, 송정호",
           "MONA_CD": "J1G57517"
         },
         {
@@ -22053,6 +22053,6 @@
         }
       ]
     },
-    "updated_at": "2026-11-22T23:42:59.841Z"
+    "updated_at": "2026-11-25T02:42:11.255Z"
   }
 ]
