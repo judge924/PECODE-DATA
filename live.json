@@ -1,56 +1,42 @@
 {
   "left": [
     {
-      "channelName": "저널리스트",
-      "title": "[현장중계]'김민석 사퇴촉구' 당원 총궐기대회",
-      "viewers": 635,
-      "thumbnail": "https://i.ytimg.com/vi/yf3Hh2RhoXo/maxresdefault.jpg?v=6b0a76f2",
-      "liveUrl": "https://www.youtube.com/watch?v=yf3Hh2RhoXo"
-    },
-    {
       "channelName": "고발뉴스TV",
       "title": "하이라이트] 반김 집회 정청래 나갈까?..민주당 내홍 앞으로 수순은..",
-      "viewers": 447,
+      "viewers": 430,
       "thumbnail": "https://i.ytimg.com/vi/IAOouzw8-xQ/maxresdefault.jpg?v=6b092e6e",
       "liveUrl": "https://www.youtube.com/watch?v=IAOouzw8-xQ"
-    },
-    {
-      "channelName": "시사건건",
-      "title": "시사건건님의 실시간 스트림",
-      "viewers": 392,
-      "thumbnail": "https://i.ytimg.com/vi/DSM-uWNsnYg/maxresdefault.jpg?v=22",
-      "liveUrl": "https://www.youtube.com/watch?v=DSM-uWNsnYg"
     }
   ],
   "right": [
     {
       "channelName": "1waynews 한길뉴스",
       "title": "[LIVE] 전한길이 간다 I 경주 이재명 재판재개 평화 행진 I 구경주역 (원화로 266) I 6시",
-      "viewers": 2385,
+      "viewers": 2433,
       "thumbnail": "https://i.ytimg.com/vi/HC2_3BcWxOA/maxresdefault.jpg?v=6b0a9420",
       "liveUrl": "https://www.youtube.com/watch?v=HC2_3BcWxOA"
     },
     {
       "channelName": "펜앤마이크TV",
       "title": "[이재명 규탄대회] 대전 이재명 탈옥법 규탄대회",
-      "viewers": 1333,
+      "viewers": 1334,
       "thumbnail": "https://i.ytimg.com/vi/lE69GCvJZAo/maxresdefault.jpg?v=6b0a6241",
       "liveUrl": "https://www.youtube.com/watch?v=lE69GCvJZAo"
     },
     {
       "channelName": "망기토TV",
       "title": "[대전 LIVE] 이재명 탈옥 규탄집회 // 국민의힘 장외투쟁!!",
-      "viewers": 180,
+      "viewers": 189,
       "thumbnail": "https://i.ytimg.com/vi/27GP8wRRtSE/maxresdefault.jpg?v=6b0a6ef2",
       "liveUrl": "https://www.youtube.com/watch?v=27GP8wRRtSE"
     },
     {
       "channelName": "뉴스엔진 정답은없다",
       "title": "[🔴LIVE] 오늘 녹취록 공개!? 장동혁은 떨고 있다!? / 한동훈 다시 돌아간다! 가처분 시기는? / 최민희 당원권 정지 2년 이제 전쟁 시작!?",
-      "viewers": 170,
+      "viewers": 181,
       "thumbnail": "https://i.ytimg.com/vi/JZOfIUdJwow/maxresdefault.jpg?v=6b0a19ba",
       "liveUrl": "https://www.youtube.com/watch?v=JZOfIUdJwow"
     }
   ],
-  "updatedAt": "2026-11-28T10:30:50.922Z"
+  "updatedAt": "2026-11-28T10:35:33.521Z"
 }
